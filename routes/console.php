@@ -1,8 +1,12 @@
 <?php
 
-use Illuminate\Foundation\Inspiring;
 use Illuminate\Support\Facades\Artisan;
 
-Artisan::command('inspire', function () {
-    $this->comment(Inspiring::quote());
-})->purpose('Display an inspiring quote')->hourly();
+Artisan::command('setup:test', function () {
+    $ip = Http::get('https://api.ipify.org')->throw()->body();
+
+    $this->output->success('It works!');
+    $this->info('You IP address is: '.$ip);
+
+    return 0;
+})->purpose('Check you local setup')->hourly();
