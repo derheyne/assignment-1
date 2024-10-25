@@ -35,4 +35,14 @@ return [
         ],
     ],
 
+    'source-api' => [
+        'base_url' => env('SOURCE_API_BASE_URL'),
+        'key' => env('SOURCE_API_KEY'),
+    ],
+
+    'target-api' => [
+        'base_url' => env('TARGET_API_BASE_URL'),
+        'key' => env('TARGET_API_KEY'),
+    ]
+
 ];
