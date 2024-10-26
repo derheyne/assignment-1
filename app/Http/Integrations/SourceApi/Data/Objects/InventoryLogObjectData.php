@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace App\Http\Integrations\SourceApi\Data\Resources;
+namespace App\Http\Integrations\SourceApi\Data\Objects;
 
 use Spatie\LaravelData\Data;
 
-class InventoryLogResourceData extends Data
+class InventoryLogObjectData extends Data
 {
     public string $id;
 

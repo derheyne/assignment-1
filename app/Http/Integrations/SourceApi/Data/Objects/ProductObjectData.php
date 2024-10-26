@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Http\Integrations\SourceApi\Data\Resources;
+namespace App\Http\Integrations\SourceApi\Data\Objects;
 
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Collection;
@@ -11,7 +11,7 @@ use Spatie\LaravelData\Data;
 use Spatie\LaravelData\Mappers\SnakeCaseMapper;
 
 #[MapInputName(SnakeCaseMapper::class)]
-class ProductResourceData extends Data
+class ProductObjectData extends Data
 {
     public int $id;
 
@@ -36,7 +36,7 @@ class ProductResourceData extends Data
 
     public ?string $inventoryPolicy;
 
-    /** @var Collection<int, AttributeResourceData> */
+    /** @var Collection<int, AttributeObjectData> */
     public Collection $attributes;
 
     public bool $taxable;
@@ -45,7 +45,7 @@ class ProductResourceData extends Data
 
     public ?string $weightUnit;
 
-    /** @var Collection<int, InventoryLogResourceData> */
+    /** @var Collection<int, InventoryLogObjectData> */
     public Collection $inventoryLog;
 
     public ?string $parentSku;
