@@ -1,0 +1,208 @@
+{
+    "title": "Morgan T-Shirt",
+    "sku": "5335DUXE2",
+    "type": "T-Shirt",
+    "inventory_policy": "autem",
+    "taxable": "1",
+    "min_price": "sit",
+    "max_price": "expedita",
+    "tags": [
+        "test",
+        "zwei"
+    ],
+    "variants": [
+        {
+            "sku": "754Tomato",
+            "desc": "odio",
+            "tags": [
+                "foo",
+                "hello"
+            ],
+            "price": "559",
+            "title": "Sint aliquid sint.",
+            "subtitle": "commodi",
+            "compare_at_price": null
+        },
+        {
+            "sku": "280LightSlateGray",
+            "desc": "unde",
+            "tags": [
+                "world",
+                "foo"
+            ],
+            "price": "261",
+            "title": "Quidem voluptas explicabo.",
+            "subtitle": "vel",
+            "compare_at_price": null
+        },
+        {
+            "sku": "757Moccasin",
+            "desc": "non",
+            "tags": [
+                "world",
+                "baz"
+            ],
+            "price": "680",
+            "title": "Provident iure laboriosam recusandae.",
+            "subtitle": "facere",
+            "compare_at_price": null
+        },
+        {
+            "sku": "845Linen",
+            "desc": "vel",
+            "tags": [
+                "bar",
+                "foo"
+            ],
+            "price": "705",
+            "title": "Quia consectetur quaerat quam.",
+            "subtitle": "eos",
+            "compare_at_price": null
+        },
+        {
+            "sku": "685Plum",
+            "desc": "quam",
+            "tags": [
+                "foo",
+                "bar"
+            ],
+            "price": "532",
+            "title": "Iure cum cupiditate voluptatem.",
+            "subtitle": "voluptas",
+            "compare_at_price": null
+        },
+        {
+            "sku": "396GoldenRod",
+            "desc": "quaerat",
+            "tags": [
+                "bar",
+                "baz"
+            ],
+            "price": "274",
+            "title": "Voluptates ea commodi sunt.",
+            "subtitle": "architecto",
+            "compare_at_price": null
+        },
+        {
+            "sku": "211Cornsilk",
+            "desc": "iste",
+            "tags": [
+                "foo",
+                "hello"
+            ],
+            "price": "424",
+            "title": "Quo fugiat non deleniti.",
+            "subtitle": "asperiores",
+            "compare_at_price": null
+        },
+        {
+            "sku": "975Crimson",
+            "desc": "in",
+            "tags": [
+                "hello",
+                "bar"
+            ],
+            "price": "536",
+            "title": "Excepturi repudiandae aliquid.",
+            "subtitle": "id",
+            "compare_at_price": null
+        },
+        {
+            "sku": "410Aquamarine",
+            "desc": "harum",
+            "tags": [
+                "foo",
+                "bar"
+            ],
+            "price": "877",
+            "title": "Dicta aut dolor ut.",
+            "subtitle": "aut",
+            "compare_at_price": null
+        },
+        {
+            "sku": "191WhiteSmoke",
+            "desc": "et",
+            "tags": [
+                "bar",
+                "world"
+            ],
+            "price": "242",
+            "title": "Sed occaecati.",
+            "subtitle": "at",
+            "compare_at_price": null
+        },
+        {
+            "sku": "780GhostWhite",
+            "desc": "eius",
+            "tags": [
+                "hello",
+                "bar"
+            ],
+            "price": "974",
+            "title": "Vero facilis facilis.",
+            "subtitle": "mollitia",
+            "compare_at_price": null
+        },
+        {
+            "sku": "664SlateGray",
+            "desc": "omnis",
+            "tags": [
+                "world",
+                "hello"
+            ],
+            "price": "584",
+            "title": "Perspiciatis et reiciendis.",
+            "subtitle": "numquam",
+            "compare_at_price": null
+        },
+        {
+            "sku": "810Coral",
+            "desc": "dicta",
+            "tags": [
+                "hello",
+                "baz"
+            ],
+            "price": "970",
+            "title": "Doloribus enim quae.",
+            "subtitle": "ab",
+            "compare_at_price": null
+        },
+        {
+            "sku": "144Indigo",
+            "desc": "quia",
+            "tags": [
+                "baz",
+                "hello"
+            ],
+            "price": "201",
+            "title": "Eius quo expedita suscipit.",
+            "subtitle": "dicta",
+            "compare_at_price": null
+        },
+        {
+            "sku": "543MediumAquaMarine",
+            "desc": "modi",
+            "tags": [
+                "baz",
+                "hello"
+            ],
+            "price": "287",
+            "title": "Reprehenderit quas.",
+            "subtitle": "ipsa",
+            "compare_at_price": null
+        },
+        {
+            "sku": "887LightGray",
+            "desc": "odit",
+            "tags": [
+                "bar",
+                "baz"
+            ],
+            "price": "879",
+            "title": "Atque dignissimos qui.",
+            "subtitle": "earum",
+            "compare_at_price": null
+        }
+    ],
+    "updated_at": "2025-10-25T12:36:53.000000Z"
+}

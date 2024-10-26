@@ -1,0 +1,1090 @@
+{
+    "current_page": 2,
+    "data": [
+        {
+            "title": "Linda T-Shirt",
+            "sku": "SXYY3899",
+            "type": "T-Shirt",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "SXYY3899-XS",
+                    "desc": "Sunt incidunt dicta sint asperiores voluptatibus possimus. Voluptas voluptatem est perferendis iure quia. Laudantium aut amet autem provident minus. Dolore numquam et et quis.",
+                    "tags": [
+                        "summer",
+                        "front-page",
+                        "new",
+                        "pre-order",
+                        "b",
+                        "wip",
+                        "a",
+                        "focus"
+                    ],
+                    "price": "72.05",
+                    "title": "Linda T-Shirt / XS",
+                    "subtitle": "Quae vitae sed facere.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "SXYY3899-S",
+                    "desc": "Sunt incidunt dicta sint asperiores voluptatibus possimus. Voluptas voluptatem est perferendis iure quia. Laudantium aut amet autem provident minus. Dolore numquam et et quis.",
+                    "tags": [
+                        "front-page",
+                        "eol",
+                        "new",
+                        "pre-order",
+                        "sale",
+                        "focus"
+                    ],
+                    "price": "71.73",
+                    "title": "Linda T-Shirt / S",
+                    "subtitle": "Quae vitae sed facere.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "SXYY3899-M",
+                    "desc": "Sunt incidunt dicta sint asperiores voluptatibus possimus. Voluptas voluptatem est perferendis iure quia. Laudantium aut amet autem provident minus. Dolore numquam et et quis.",
+                    "tags": [
+                        "new",
+                        "pre-order",
+                        "sale",
+                        "wip",
+                        "b",
+                        "front-page"
+                    ],
+                    "price": "26.51",
+                    "title": "Linda T-Shirt / M",
+                    "subtitle": "Quae vitae sed facere.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "SXYY3899-L",
+                    "desc": "Sunt incidunt dicta sint asperiores voluptatibus possimus. Voluptas voluptatem est perferendis iure quia. Laudantium aut amet autem provident minus. Dolore numquam et et quis.",
+                    "tags": [
+                        "summer",
+                        "sale",
+                        "b",
+                        "pre-order",
+                        "front-page",
+                        "focus",
+                        "a"
+                    ],
+                    "price": "54.35",
+                    "title": "Linda T-Shirt / L",
+                    "subtitle": "Quae vitae sed facere.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "SXYY3899-XL",
+                    "desc": "Sunt incidunt dicta sint asperiores voluptatibus possimus. Voluptas voluptatem est perferendis iure quia. Laudantium aut amet autem provident minus. Dolore numquam et et quis.",
+                    "tags": [
+                        "b",
+                        "focus",
+                        "front-page",
+                        "summer",
+                        "new",
+                        "sale",
+                        "pre-order",
+                        "wip",
+                        "eol"
+                    ],
+                    "price": "22.58",
+                    "title": "Linda T-Shirt / XL",
+                    "subtitle": "Quae vitae sed facere.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "SXYY3899-2XL",
+                    "desc": "Sunt incidunt dicta sint asperiores voluptatibus possimus. Voluptas voluptatem est perferendis iure quia. Laudantium aut amet autem provident minus. Dolore numquam et et quis.",
+                    "tags": [
+                        "front-page",
+                        "summer"
+                    ],
+                    "price": "67.86",
+                    "title": "Linda T-Shirt / 2XL",
+                    "subtitle": "Quae vitae sed facere.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Afton Blazer",
+            "sku": "UEAN9889",
+            "type": "Blazer",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "UEAN9889-XS",
+                    "desc": "Voluptas rerum temporibus qui neque qui. Excepturi aut doloremque expedita dolore. Cupiditate quia aliquam sapiente sunt. Sunt corporis praesentium deleniti. Culpa maiores assumenda impedit.",
+                    "tags": [
+                        "new"
+                    ],
+                    "price": "5.53",
+                    "title": "Afton Blazer / XS",
+                    "subtitle": "Est vel tempore molestias aut.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UEAN9889-S",
+                    "desc": "Voluptas rerum temporibus qui neque qui. Excepturi aut doloremque expedita dolore. Cupiditate quia aliquam sapiente sunt. Sunt corporis praesentium deleniti. Culpa maiores assumenda impedit.",
+                    "tags": [
+                        "wip",
+                        "front-page",
+                        "eol",
+                        "summer",
+                        "new",
+                        "pre-order"
+                    ],
+                    "price": "35.88",
+                    "title": "Afton Blazer / S",
+                    "subtitle": "Est vel tempore molestias aut.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UEAN9889-M",
+                    "desc": "Voluptas rerum temporibus qui neque qui. Excepturi aut doloremque expedita dolore. Cupiditate quia aliquam sapiente sunt. Sunt corporis praesentium deleniti. Culpa maiores assumenda impedit.",
+                    "tags": [
+                        "wip",
+                        "sale",
+                        "new",
+                        "summer",
+                        "a",
+                        "eol"
+                    ],
+                    "price": "19.83",
+                    "title": "Afton Blazer / M",
+                    "subtitle": "Est vel tempore molestias aut.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UEAN9889-L",
+                    "desc": "Voluptas rerum temporibus qui neque qui. Excepturi aut doloremque expedita dolore. Cupiditate quia aliquam sapiente sunt. Sunt corporis praesentium deleniti. Culpa maiores assumenda impedit.",
+                    "tags": [
+                        "summer",
+                        "wip",
+                        "b",
+                        "front-page",
+                        "pre-order",
+                        "new",
+                        "eol"
+                    ],
+                    "price": "98.61",
+                    "title": "Afton Blazer / L",
+                    "subtitle": "Est vel tempore molestias aut.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UEAN9889-XL",
+                    "desc": "Voluptas rerum temporibus qui neque qui. Excepturi aut doloremque expedita dolore. Cupiditate quia aliquam sapiente sunt. Sunt corporis praesentium deleniti. Culpa maiores assumenda impedit.",
+                    "tags": [
+                        "focus",
+                        "wip",
+                        "a",
+                        "eol",
+                        "new",
+                        "sale",
+                        "pre-order"
+                    ],
+                    "price": "65.82",
+                    "title": "Afton Blazer / XL",
+                    "subtitle": "Est vel tempore molestias aut.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UEAN9889-2XL",
+                    "desc": "Voluptas rerum temporibus qui neque qui. Excepturi aut doloremque expedita dolore. Cupiditate quia aliquam sapiente sunt. Sunt corporis praesentium deleniti. Culpa maiores assumenda impedit.",
+                    "tags": [
+                        "pre-order",
+                        "sale",
+                        "b",
+                        "a",
+                        "new",
+                        "front-page",
+                        "wip",
+                        "summer"
+                    ],
+                    "price": "16.82",
+                    "title": "Afton Blazer / 2XL",
+                    "subtitle": "Est vel tempore molestias aut.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Tod Skirt",
+            "sku": "UHCX7537",
+            "type": "Skirt",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "UHCX7537-XS",
+                    "desc": "Explicabo ratione sed eos dolorem quae. Explicabo enim quis voluptatem. Omnis qui optio laborum molestiae ratione quis. Necessitatibus aliquid odio voluptatem similique.",
+                    "tags": [
+                        "a",
+                        "pre-order",
+                        "eol",
+                        "summer",
+                        "focus",
+                        "wip"
+                    ],
+                    "price": "76.02",
+                    "title": "Tod Skirt / XS",
+                    "subtitle": "Et eligendi ut facere rerum voluptate.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UHCX7537-S",
+                    "desc": "Explicabo ratione sed eos dolorem quae. Explicabo enim quis voluptatem. Omnis qui optio laborum molestiae ratione quis. Necessitatibus aliquid odio voluptatem similique.",
+                    "tags": [
+                        "eol",
+                        "wip",
+                        "summer",
+                        "front-page",
+                        "sale",
+                        "new"
+                    ],
+                    "price": "5.31",
+                    "title": "Tod Skirt / S",
+                    "subtitle": "Et eligendi ut facere rerum voluptate.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UHCX7537-M",
+                    "desc": "Explicabo ratione sed eos dolorem quae. Explicabo enim quis voluptatem. Omnis qui optio laborum molestiae ratione quis. Necessitatibus aliquid odio voluptatem similique.",
+                    "tags": [
+                        "pre-order",
+                        "summer",
+                        "front-page"
+                    ],
+                    "price": "83.52",
+                    "title": "Tod Skirt / M",
+                    "subtitle": "Et eligendi ut facere rerum voluptate.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Crawford T-Shirt",
+            "sku": "WBFT9945",
+            "type": "T-Shirt",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "WBFT9945-XS",
+                    "desc": "Officia non sint reiciendis rerum nobis. Tempora maiores nobis magni facilis rerum repudiandae. Vel perferendis libero aspernatur necessitatibus dolore quo reprehenderit. Harum eum ut similique hic. Sint velit et aliquid ut voluptas. Minus corrupti placeat maxime nisi amet possimus. Rerum repudiandae ea enim velit ex.",
+                    "tags": [
+                        "pre-order"
+                    ],
+                    "price": "59.26",
+                    "title": "Crawford T-Shirt / XS",
+                    "subtitle": "Cupiditate qui incidunt nobis praesentium minima.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "WBFT9945-S",
+                    "desc": "Officia non sint reiciendis rerum nobis. Tempora maiores nobis magni facilis rerum repudiandae. Vel perferendis libero aspernatur necessitatibus dolore quo reprehenderit. Harum eum ut similique hic. Sint velit et aliquid ut voluptas. Minus corrupti placeat maxime nisi amet possimus. Rerum repudiandae ea enim velit ex.",
+                    "tags": [
+                        "wip",
+                        "b",
+                        "new",
+                        "summer",
+                        "focus",
+                        "pre-order",
+                        "front-page",
+                        "a",
+                        "eol"
+                    ],
+                    "price": "70.14",
+                    "title": "Crawford T-Shirt / S",
+                    "subtitle": "Cupiditate qui incidunt nobis praesentium minima.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "WBFT9945-M",
+                    "desc": "Officia non sint reiciendis rerum nobis. Tempora maiores nobis magni facilis rerum repudiandae. Vel perferendis libero aspernatur necessitatibus dolore quo reprehenderit. Harum eum ut similique hic. Sint velit et aliquid ut voluptas. Minus corrupti placeat maxime nisi amet possimus. Rerum repudiandae ea enim velit ex.",
+                    "tags": [
+                        "eol",
+                        "front-page",
+                        "a",
+                        "sale",
+                        "focus",
+                        "pre-order",
+                        "b",
+                        "new",
+                        "wip"
+                    ],
+                    "price": "93.2",
+                    "title": "Crawford T-Shirt / M",
+                    "subtitle": "Cupiditate qui incidunt nobis praesentium minima.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "WBFT9945-L",
+                    "desc": "Officia non sint reiciendis rerum nobis. Tempora maiores nobis magni facilis rerum repudiandae. Vel perferendis libero aspernatur necessitatibus dolore quo reprehenderit. Harum eum ut similique hic. Sint velit et aliquid ut voluptas. Minus corrupti placeat maxime nisi amet possimus. Rerum repudiandae ea enim velit ex.",
+                    "tags": [
+                        "focus",
+                        "new",
+                        "wip",
+                        "b",
+                        "summer"
+                    ],
+                    "price": "28.61",
+                    "title": "Crawford T-Shirt / L",
+                    "subtitle": "Cupiditate qui incidunt nobis praesentium minima.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "WBFT9945-XL",
+                    "desc": "Officia non sint reiciendis rerum nobis. Tempora maiores nobis magni facilis rerum repudiandae. Vel perferendis libero aspernatur necessitatibus dolore quo reprehenderit. Harum eum ut similique hic. Sint velit et aliquid ut voluptas. Minus corrupti placeat maxime nisi amet possimus. Rerum repudiandae ea enim velit ex.",
+                    "tags": [
+                        "eol",
+                        "summer"
+                    ],
+                    "price": "51.85",
+                    "title": "Crawford T-Shirt / XL",
+                    "subtitle": "Cupiditate qui incidunt nobis praesentium minima.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "WBFT9945-2XL",
+                    "desc": "Officia non sint reiciendis rerum nobis. Tempora maiores nobis magni facilis rerum repudiandae. Vel perferendis libero aspernatur necessitatibus dolore quo reprehenderit. Harum eum ut similique hic. Sint velit et aliquid ut voluptas. Minus corrupti placeat maxime nisi amet possimus. Rerum repudiandae ea enim velit ex.",
+                    "tags": [
+                        "wip",
+                        "pre-order",
+                        "b",
+                        "a",
+                        "sale"
+                    ],
+                    "price": "15.43",
+                    "title": "Crawford T-Shirt / 2XL",
+                    "subtitle": "Cupiditate qui incidunt nobis praesentium minima.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Destini Jumper",
+            "sku": "WDDA3851",
+            "type": "Jumper",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "WDDA3851-XS",
+                    "desc": "Et quam alias aliquid voluptas amet quia aspernatur. Id similique rerum quo eligendi. Id qui aut consequatur natus non pariatur voluptas. Praesentium ipsam error et. Aut esse rerum repellendus. Voluptatem sed recusandae odit rerum.",
+                    "tags": [
+                        "wip",
+                        "b",
+                        "sale",
+                        "summer",
+                        "front-page"
+                    ],
+                    "price": "69.35",
+                    "title": "Destini Jumper / XS",
+                    "subtitle": "Impedit et consequatur quae eum.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "WDDA3851-S",
+                    "desc": "Et quam alias aliquid voluptas amet quia aspernatur. Id similique rerum quo eligendi. Id qui aut consequatur natus non pariatur voluptas. Praesentium ipsam error et. Aut esse rerum repellendus. Voluptatem sed recusandae odit rerum.",
+                    "tags": [
+                        "a",
+                        "wip",
+                        "new",
+                        "summer",
+                        "eol",
+                        "focus",
+                        "b",
+                        "front-page"
+                    ],
+                    "price": "12.45",
+                    "title": "Destini Jumper / S",
+                    "subtitle": "Impedit et consequatur quae eum.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "WDDA3851-M",
+                    "desc": "Et quam alias aliquid voluptas amet quia aspernatur. Id similique rerum quo eligendi. Id qui aut consequatur natus non pariatur voluptas. Praesentium ipsam error et. Aut esse rerum repellendus. Voluptatem sed recusandae odit rerum.",
+                    "tags": [
+                        "eol",
+                        "front-page",
+                        "focus",
+                        "a"
+                    ],
+                    "price": "60.99",
+                    "title": "Destini Jumper / M",
+                    "subtitle": "Impedit et consequatur quae eum.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "WDDA3851-L",
+                    "desc": "Et quam alias aliquid voluptas amet quia aspernatur. Id similique rerum quo eligendi. Id qui aut consequatur natus non pariatur voluptas. Praesentium ipsam error et. Aut esse rerum repellendus. Voluptatem sed recusandae odit rerum.",
+                    "tags": [
+                        "wip",
+                        "eol",
+                        "b",
+                        "front-page",
+                        "summer",
+                        "pre-order",
+                        "new",
+                        "focus",
+                        "a"
+                    ],
+                    "price": "4.06",
+                    "title": "Destini Jumper / L",
+                    "subtitle": "Impedit et consequatur quae eum.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Karine Skirt",
+            "sku": "XFAI7500",
+            "type": "Skirt",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "XFAI7500-XS",
+                    "desc": "Corrupti nostrum sunt tenetur tempora. Aut et aut consequuntur molestias. Quia qui beatae repudiandae sed tempore aspernatur magni. Doloremque dicta est laboriosam consequatur velit. Ad et autem consequuntur. Nam deleniti nesciunt dolores quisquam illo. Necessitatibus et ut quo reiciendis est autem quas voluptate.",
+                    "tags": [
+                        "a",
+                        "new"
+                    ],
+                    "price": "28.22",
+                    "title": "Karine Skirt / XS",
+                    "subtitle": "Cupiditate et libero perspiciatis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XFAI7500-S",
+                    "desc": "Corrupti nostrum sunt tenetur tempora. Aut et aut consequuntur molestias. Quia qui beatae repudiandae sed tempore aspernatur magni. Doloremque dicta est laboriosam consequatur velit. Ad et autem consequuntur. Nam deleniti nesciunt dolores quisquam illo. Necessitatibus et ut quo reiciendis est autem quas voluptate.",
+                    "tags": [
+                        "summer",
+                        "sale",
+                        "a",
+                        "focus",
+                        "new",
+                        "front-page",
+                        "b",
+                        "wip"
+                    ],
+                    "price": "12.81",
+                    "title": "Karine Skirt / S",
+                    "subtitle": "Cupiditate et libero perspiciatis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XFAI7500-L",
+                    "desc": "Corrupti nostrum sunt tenetur tempora. Aut et aut consequuntur molestias. Quia qui beatae repudiandae sed tempore aspernatur magni. Doloremque dicta est laboriosam consequatur velit. Ad et autem consequuntur. Nam deleniti nesciunt dolores quisquam illo. Necessitatibus et ut quo reiciendis est autem quas voluptate.",
+                    "tags": [
+                        "b",
+                        "wip",
+                        "eol"
+                    ],
+                    "price": "45.89",
+                    "title": "Karine Skirt / L",
+                    "subtitle": "Cupiditate et libero perspiciatis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XFAI7500-XL",
+                    "desc": "Corrupti nostrum sunt tenetur tempora. Aut et aut consequuntur molestias. Quia qui beatae repudiandae sed tempore aspernatur magni. Doloremque dicta est laboriosam consequatur velit. Ad et autem consequuntur. Nam deleniti nesciunt dolores quisquam illo. Necessitatibus et ut quo reiciendis est autem quas voluptate.",
+                    "tags": [
+                        "front-page",
+                        "b",
+                        "wip",
+                        "sale"
+                    ],
+                    "price": "14.62",
+                    "title": "Karine Skirt / XL",
+                    "subtitle": "Cupiditate et libero perspiciatis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XFAI7500-2XL",
+                    "desc": "Corrupti nostrum sunt tenetur tempora. Aut et aut consequuntur molestias. Quia qui beatae repudiandae sed tempore aspernatur magni. Doloremque dicta est laboriosam consequatur velit. Ad et autem consequuntur. Nam deleniti nesciunt dolores quisquam illo. Necessitatibus et ut quo reiciendis est autem quas voluptate.",
+                    "tags": [
+                        "front-page",
+                        "focus",
+                        "eol",
+                        "new",
+                        "pre-order",
+                        "a",
+                        "wip",
+                        "b",
+                        "summer"
+                    ],
+                    "price": "49.14",
+                    "title": "Karine Skirt / 2XL",
+                    "subtitle": "Cupiditate et libero perspiciatis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XFAI7500-3XL",
+                    "desc": "Corrupti nostrum sunt tenetur tempora. Aut et aut consequuntur molestias. Quia qui beatae repudiandae sed tempore aspernatur magni. Doloremque dicta est laboriosam consequatur velit. Ad et autem consequuntur. Nam deleniti nesciunt dolores quisquam illo. Necessitatibus et ut quo reiciendis est autem quas voluptate.",
+                    "tags": [
+                        "wip",
+                        "summer",
+                        "a"
+                    ],
+                    "price": "5.33",
+                    "title": "Karine Skirt / 3XL",
+                    "subtitle": "Cupiditate et libero perspiciatis.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Eldon Suit",
+            "sku": "XSRB3815",
+            "type": "Suit",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "XSRB3815-XS",
+                    "desc": "At ut consequatur asperiores id ab aliquid. Recusandae sequi hic magnam illum quibusdam rem vero consequatur. Qui ducimus quasi fugit necessitatibus. Optio dignissimos deserunt fuga maiores incidunt.",
+                    "tags": [
+                        "focus",
+                        "front-page",
+                        "summer",
+                        "a",
+                        "b"
+                    ],
+                    "price": "38.04",
+                    "title": "Eldon Suit / XS",
+                    "subtitle": "Id ut illum voluptates repellat.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XSRB3815-S",
+                    "desc": "At ut consequatur asperiores id ab aliquid. Recusandae sequi hic magnam illum quibusdam rem vero consequatur. Qui ducimus quasi fugit necessitatibus. Optio dignissimos deserunt fuga maiores incidunt.",
+                    "tags": [
+                        "summer",
+                        "new",
+                        "sale",
+                        "eol",
+                        "a",
+                        "front-page",
+                        "b",
+                        "wip",
+                        "focus"
+                    ],
+                    "price": "49.07",
+                    "title": "Eldon Suit / S",
+                    "subtitle": "Id ut illum voluptates repellat.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XSRB3815-L",
+                    "desc": "At ut consequatur asperiores id ab aliquid. Recusandae sequi hic magnam illum quibusdam rem vero consequatur. Qui ducimus quasi fugit necessitatibus. Optio dignissimos deserunt fuga maiores incidunt.",
+                    "tags": [
+                        "front-page",
+                        "sale",
+                        "new",
+                        "wip",
+                        "b",
+                        "pre-order",
+                        "a",
+                        "focus"
+                    ],
+                    "price": "75.91",
+                    "title": "Eldon Suit / L",
+                    "subtitle": "Id ut illum voluptates repellat.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XSRB3815-XL",
+                    "desc": "At ut consequatur asperiores id ab aliquid. Recusandae sequi hic magnam illum quibusdam rem vero consequatur. Qui ducimus quasi fugit necessitatibus. Optio dignissimos deserunt fuga maiores incidunt.",
+                    "tags": [
+                        "a",
+                        "eol",
+                        "wip",
+                        "summer",
+                        "b"
+                    ],
+                    "price": "74.41",
+                    "title": "Eldon Suit / XL",
+                    "subtitle": "Id ut illum voluptates repellat.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "XSRB3815-2XL",
+                    "desc": "At ut consequatur asperiores id ab aliquid. Recusandae sequi hic magnam illum quibusdam rem vero consequatur. Qui ducimus quasi fugit necessitatibus. Optio dignissimos deserunt fuga maiores incidunt.",
+                    "tags": [
+                        "eol",
+                        "front-page",
+                        "wip",
+                        "new",
+                        "summer",
+                        "b"
+                    ],
+                    "price": "80.42",
+                    "title": "Eldon Suit / 2XL",
+                    "subtitle": "Id ut illum voluptates repellat.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Erich Coat",
+            "sku": "YJXM3154",
+            "type": "Coat",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "YJXM3154-XS",
+                    "desc": "Qui enim possimus magnam. Et rerum nemo laboriosam nostrum eius est distinctio. Nostrum adipisci necessitatibus qui perspiciatis recusandae a illo. Blanditiis a eos facilis reiciendis ducimus.",
+                    "tags": [
+                        "a",
+                        "summer"
+                    ],
+                    "price": "56.97",
+                    "title": "Erich Coat / XS",
+                    "subtitle": "Velit sit labore qui quisquam.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "YJXM3154-S",
+                    "desc": "Qui enim possimus magnam. Et rerum nemo laboriosam nostrum eius est distinctio. Nostrum adipisci necessitatibus qui perspiciatis recusandae a illo. Blanditiis a eos facilis reiciendis ducimus.",
+                    "tags": [
+                        "wip",
+                        "eol",
+                        "pre-order",
+                        "summer",
+                        "front-page",
+                        "b",
+                        "a",
+                        "focus"
+                    ],
+                    "price": "99.44",
+                    "title": "Erich Coat / S",
+                    "subtitle": "Velit sit labore qui quisquam.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "YJXM3154-M",
+                    "desc": "Qui enim possimus magnam. Et rerum nemo laboriosam nostrum eius est distinctio. Nostrum adipisci necessitatibus qui perspiciatis recusandae a illo. Blanditiis a eos facilis reiciendis ducimus.",
+                    "tags": [
+                        "summer",
+                        "pre-order",
+                        "new",
+                        "eol",
+                        "front-page",
+                        "focus",
+                        "wip",
+                        "sale"
+                    ],
+                    "price": "78.57",
+                    "title": "Erich Coat / M",
+                    "subtitle": "Velit sit labore qui quisquam.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "YJXM3154-L",
+                    "desc": "Qui enim possimus magnam. Et rerum nemo laboriosam nostrum eius est distinctio. Nostrum adipisci necessitatibus qui perspiciatis recusandae a illo. Blanditiis a eos facilis reiciendis ducimus.",
+                    "tags": [
+                        "pre-order",
+                        "summer"
+                    ],
+                    "price": "50.15",
+                    "title": "Erich Coat / L",
+                    "subtitle": "Velit sit labore qui quisquam.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "YJXM3154-XL",
+                    "desc": "Qui enim possimus magnam. Et rerum nemo laboriosam nostrum eius est distinctio. Nostrum adipisci necessitatibus qui perspiciatis recusandae a illo. Blanditiis a eos facilis reiciendis ducimus.",
+                    "tags": [
+                        "front-page",
+                        "summer",
+                        "eol",
+                        "new",
+                        "b",
+                        "pre-order",
+                        "focus",
+                        "wip"
+                    ],
+                    "price": "98.67",
+                    "title": "Erich Coat / XL",
+                    "subtitle": "Velit sit labore qui quisquam.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "YJXM3154-2XL",
+                    "desc": "Qui enim possimus magnam. Et rerum nemo laboriosam nostrum eius est distinctio. Nostrum adipisci necessitatibus qui perspiciatis recusandae a illo. Blanditiis a eos facilis reiciendis ducimus.",
+                    "tags": [
+                        "front-page"
+                    ],
+                    "price": "97.87",
+                    "title": "Erich Coat / 2XL",
+                    "subtitle": "Velit sit labore qui quisquam.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "YJXM3154-3XL",
+                    "desc": "Qui enim possimus magnam. Et rerum nemo laboriosam nostrum eius est distinctio. Nostrum adipisci necessitatibus qui perspiciatis recusandae a illo. Blanditiis a eos facilis reiciendis ducimus.",
+                    "tags": [
+                        "wip",
+                        "a"
+                    ],
+                    "price": "8.85",
+                    "title": "Erich Coat / 3XL",
+                    "subtitle": "Velit sit labore qui quisquam.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "YJXM3154-4XL",
+                    "desc": "Qui enim possimus magnam. Et rerum nemo laboriosam nostrum eius est distinctio. Nostrum adipisci necessitatibus qui perspiciatis recusandae a illo. Blanditiis a eos facilis reiciendis ducimus.",
+                    "tags": [
+                        "focus",
+                        "wip",
+                        "pre-order",
+                        "eol",
+                        "front-page"
+                    ],
+                    "price": "25.84",
+                    "title": "Erich Coat / 4XL",
+                    "subtitle": "Velit sit labore qui quisquam.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Kristin Dress",
+            "sku": "ZNLO6327",
+            "type": "Dress",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "ZNLO6327-XS",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "summer",
+                        "sale",
+                        "front-page",
+                        "eol",
+                        "pre-order",
+                        "new",
+                        "wip"
+                    ],
+                    "price": "2.36",
+                    "title": "Kristin Dress / XS",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZNLO6327-S",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "b"
+                    ],
+                    "price": "70.95",
+                    "title": "Kristin Dress / S",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZNLO6327-L",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "new",
+                        "b",
+                        "eol",
+                        "pre-order",
+                        "focus",
+                        "sale",
+                        "wip"
+                    ],
+                    "price": "11.89",
+                    "title": "Kristin Dress / L",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZNLO6327-XL",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "a",
+                        "pre-order",
+                        "wip",
+                        "sale",
+                        "front-page",
+                        "new",
+                        "b",
+                        "focus",
+                        "summer"
+                    ],
+                    "price": "82.54",
+                    "title": "Kristin Dress / XL",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZNLO6327-2XL",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "new",
+                        "summer",
+                        "a",
+                        "eol",
+                        "front-page",
+                        "wip",
+                        "focus",
+                        "pre-order"
+                    ],
+                    "price": "84.26",
+                    "title": "Kristin Dress / 2XL",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZNLO6327-3XL",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "summer",
+                        "focus",
+                        "sale",
+                        "b"
+                    ],
+                    "price": "64.85",
+                    "title": "Kristin Dress / 3XL",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZNLO6327-4XL",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "sale",
+                        "summer",
+                        "new",
+                        "focus",
+                        "a",
+                        "b",
+                        "front-page",
+                        "eol",
+                        "pre-order"
+                    ],
+                    "price": "84.77",
+                    "title": "Kristin Dress / 4XL",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZNLO6327-5XL",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "eol",
+                        "front-page",
+                        "new",
+                        "pre-order",
+                        "focus",
+                        "b",
+                        "a"
+                    ],
+                    "price": "99.15",
+                    "title": "Kristin Dress / 5XL",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZNLO6327-6XL",
+                    "desc": "Et quis accusantium adipisci voluptatem ratione qui quia. Voluptas quo nulla vero dolores. Rerum similique sit dolor iure quasi et dolorem. Consequuntur dolores nobis illum ullam consequatur harum. Ea quia repellendus libero.",
+                    "tags": [
+                        "eol",
+                        "summer",
+                        "front-page",
+                        "a",
+                        "sale",
+                        "new",
+                        "focus",
+                        "wip"
+                    ],
+                    "price": "5.31",
+                    "title": "Kristin Dress / 6XL",
+                    "subtitle": "Libero sint debitis pariatur unde.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Odie Jumper",
+            "sku": "ZWVG1800",
+            "type": "Jumper",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "ZWVG1800-XS",
+                    "desc": "Officia error nisi quaerat. Accusamus possimus aperiam accusamus voluptatibus recusandae eveniet fugiat. Provident voluptatem distinctio eveniet magni sit aut possimus ad. Nobis quisquam sint beatae quod esse iusto laboriosam. Ratione consequatur ea fugiat asperiores. Quasi autem qui sunt at maiores.",
+                    "tags": [
+                        "new",
+                        "b",
+                        "focus",
+                        "front-page",
+                        "pre-order",
+                        "a",
+                        "wip"
+                    ],
+                    "price": "84.78",
+                    "title": "Odie Jumper / XS",
+                    "subtitle": "Nemo aliquid error ducimus dicta rerum.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZWVG1800-S",
+                    "desc": "Officia error nisi quaerat. Accusamus possimus aperiam accusamus voluptatibus recusandae eveniet fugiat. Provident voluptatem distinctio eveniet magni sit aut possimus ad. Nobis quisquam sint beatae quod esse iusto laboriosam. Ratione consequatur ea fugiat asperiores. Quasi autem qui sunt at maiores.",
+                    "tags": [
+                        "b",
+                        "front-page",
+                        "summer",
+                        "sale",
+                        "pre-order",
+                        "wip",
+                        "eol",
+                        "a",
+                        "focus"
+                    ],
+                    "price": "23.06",
+                    "title": "Odie Jumper / S",
+                    "subtitle": "Nemo aliquid error ducimus dicta rerum.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZWVG1800-M",
+                    "desc": "Officia error nisi quaerat. Accusamus possimus aperiam accusamus voluptatibus recusandae eveniet fugiat. Provident voluptatem distinctio eveniet magni sit aut possimus ad. Nobis quisquam sint beatae quod esse iusto laboriosam. Ratione consequatur ea fugiat asperiores. Quasi autem qui sunt at maiores.",
+                    "tags": [
+                        "summer",
+                        "pre-order"
+                    ],
+                    "price": "47.14",
+                    "title": "Odie Jumper / M",
+                    "subtitle": "Nemo aliquid error ducimus dicta rerum.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ZWVG1800-L",
+                    "desc": "Officia error nisi quaerat. Accusamus possimus aperiam accusamus voluptatibus recusandae eveniet fugiat. Provident voluptatem distinctio eveniet magni sit aut possimus ad. Nobis quisquam sint beatae quod esse iusto laboriosam. Ratione consequatur ea fugiat asperiores. Quasi autem qui sunt at maiores.",
+                    "tags": [
+                        "a",
+                        "new"
+                    ],
+                    "price": "69.77",
+                    "title": "Odie Jumper / L",
+                    "subtitle": "Nemo aliquid error ducimus dicta rerum.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        }
+    ],
+    "first_page_url": "https://target-api.local/api/products?sort=sku&page=1",
+    "from": 16,
+    "last_page": 2,
+    "last_page_url": "https://target-api.local/api/products?sort=sku&page=2",
+    "links": [
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=1",
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=1",
+            "label": "1",
+            "active": false
+        },
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=2",
+            "label": "2",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "https://target-api.local/api/products",
+    "per_page": 15,
+    "prev_page_url": "https://target-api.local/api/products?sort=sku&page=1",
+    "to": 25,
+    "total": 25
+}

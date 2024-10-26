@@ -1,0 +1,2079 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "title": "Brendan Suit",
+            "sku": "1231DUFL",
+            "type": "Suit",
+            "inventory_policy": "voluptas",
+            "taxable": "1",
+            "min_price": "provident",
+            "max_price": "quisquam",
+            "tags": [
+                "test",
+                "zwei"
+            ],
+            "variants": [
+                {
+                    "sku": "689Indigo",
+                    "desc": "quisquam",
+                    "tags": [
+                        "world",
+                        "foo"
+                    ],
+                    "price": "882",
+                    "title": "Voluptas dolores veritatis a.",
+                    "subtitle": "harum",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "146Aquamarine",
+                    "desc": "provident",
+                    "tags": [
+                        "bar",
+                        "hello"
+                    ],
+                    "price": "357",
+                    "title": "Rerum deleniti sapiente cum praesentium.",
+                    "subtitle": "assumenda",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "470YellowGreen",
+                    "desc": "velit",
+                    "tags": [
+                        "bar",
+                        "foo"
+                    ],
+                    "price": "199",
+                    "title": "Rerum ut.",
+                    "subtitle": "sed",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "779LightYellow",
+                    "desc": "incidunt",
+                    "tags": [
+                        "world",
+                        "foo"
+                    ],
+                    "price": "929",
+                    "title": "Qui qui natus error dolor.",
+                    "subtitle": "iste",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "480Moccasin",
+                    "desc": "non",
+                    "tags": [
+                        "hello",
+                        "world"
+                    ],
+                    "price": "944",
+                    "title": "Rem placeat.",
+                    "subtitle": "incidunt",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "694LightYellow",
+                    "desc": "recusandae",
+                    "tags": [
+                        "hello",
+                        "bar"
+                    ],
+                    "price": "900",
+                    "title": "Aspernatur ipsa exercitationem quas.",
+                    "subtitle": "commodi",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "859PaleGreen",
+                    "desc": "alias",
+                    "tags": [
+                        "bar",
+                        "hello"
+                    ],
+                    "price": "766",
+                    "title": "Quo unde iure.",
+                    "subtitle": "et",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "212GhostWhite",
+                    "desc": "et",
+                    "tags": [
+                        "foo",
+                        "baz"
+                    ],
+                    "price": "280",
+                    "title": "Corporis dolorem quia.",
+                    "subtitle": "iure",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "897Turquoise",
+                    "desc": "magnam",
+                    "tags": [
+                        "world",
+                        "hello"
+                    ],
+                    "price": "114",
+                    "title": "Beatae quidem non sapiente.",
+                    "subtitle": "provident",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "360Orange",
+                    "desc": "voluptatem",
+                    "tags": [
+                        "foo",
+                        "hello"
+                    ],
+                    "price": "715",
+                    "title": "Doloribus in autem.",
+                    "subtitle": "et",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "672YellowGreen",
+                    "desc": "molestias",
+                    "tags": [
+                        "baz",
+                        "foo"
+                    ],
+                    "price": "635",
+                    "title": "Quo quisquam minima et blanditiis.",
+                    "subtitle": "at",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "219DarkGoldenRod",
+                    "desc": "vel",
+                    "tags": [
+                        "world",
+                        "foo"
+                    ],
+                    "price": "166",
+                    "title": "Corporis hic soluta nisi necessitatibus.",
+                    "subtitle": "commodi",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "1000IndianRed",
+                    "desc": "nam",
+                    "tags": [
+                        "foo",
+                        "baz"
+                    ],
+                    "price": "690",
+                    "title": "Id porro ab qui.",
+                    "subtitle": "eius",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "722DarkCyan",
+                    "desc": "sed",
+                    "tags": [
+                        "world",
+                        "hello"
+                    ],
+                    "price": "787",
+                    "title": "Commodi mollitia nesciunt et.",
+                    "subtitle": "asperiores",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "138DimGray",
+                    "desc": "cumque",
+                    "tags": [
+                        "bar",
+                        "world"
+                    ],
+                    "price": "275",
+                    "title": "Tenetur velit animi nemo.",
+                    "subtitle": "dicta",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "878ForestGreen",
+                    "desc": "dolore",
+                    "tags": [
+                        "baz",
+                        "world"
+                    ],
+                    "price": "955",
+                    "title": "Et quo molestiae quidem.",
+                    "subtitle": "amet",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-26T13:41:35.000000Z",
+            "updated_at": "2024-10-26T13:41:35.000000Z"
+        },
+        {
+            "title": "Hilario Skirt",
+            "sku": "3192SZPD",
+            "type": "Skirt",
+            "inventory_policy": "sunt",
+            "taxable": "1",
+            "min_price": "ab",
+            "max_price": "assumenda",
+            "tags": [
+                "test",
+                "zwei"
+            ],
+            "variants": [
+                {
+                    "sku": "874PapayaWhip",
+                    "desc": "nisi",
+                    "tags": [
+                        "foo",
+                        "world"
+                    ],
+                    "price": "285",
+                    "title": "Dignissimos perferendis accusantium omnis.",
+                    "subtitle": "aut",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "265SeaShell",
+                    "desc": "nobis",
+                    "tags": [
+                        "world",
+                        "bar"
+                    ],
+                    "price": "981",
+                    "title": "In laudantium et nulla.",
+                    "subtitle": "expedita",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "123Moccasin",
+                    "desc": "tempora",
+                    "tags": [
+                        "bar",
+                        "foo"
+                    ],
+                    "price": "714",
+                    "title": "Hic repellendus qui eum.",
+                    "subtitle": "minima",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "221Blue",
+                    "desc": "et",
+                    "tags": [
+                        "bar",
+                        "foo"
+                    ],
+                    "price": "682",
+                    "title": "A eveniet quia.",
+                    "subtitle": "fuga",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "418MidnightBlue",
+                    "desc": "est",
+                    "tags": [
+                        "baz",
+                        "world"
+                    ],
+                    "price": "1000",
+                    "title": "Explicabo porro error eius.",
+                    "subtitle": "possimus",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "579MediumSeaGreen",
+                    "desc": "illo",
+                    "tags": [
+                        "bar",
+                        "baz"
+                    ],
+                    "price": "680",
+                    "title": "Blanditiis omnis quisquam aut.",
+                    "subtitle": "distinctio",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "255MistyRose",
+                    "desc": "adipisci",
+                    "tags": [
+                        "bar",
+                        "baz"
+                    ],
+                    "price": "506",
+                    "title": "Sequi ratione molestiae.",
+                    "subtitle": "optio",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "672Maroon",
+                    "desc": "similique",
+                    "tags": [
+                        "world",
+                        "foo"
+                    ],
+                    "price": "593",
+                    "title": "Commodi iste ducimus libero.",
+                    "subtitle": "illo",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "644PaleVioletRed",
+                    "desc": "magni",
+                    "tags": [
+                        "bar",
+                        "world"
+                    ],
+                    "price": "591",
+                    "title": "Dolores sequi nesciunt laboriosam.",
+                    "subtitle": "atque",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "726DarkSlateGray",
+                    "desc": "modi",
+                    "tags": [
+                        "baz",
+                        "foo"
+                    ],
+                    "price": "137",
+                    "title": "Ad qui et blanditiis hic.",
+                    "subtitle": "velit",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "718LightSteelBlue",
+                    "desc": "minima",
+                    "tags": [
+                        "baz",
+                        "world"
+                    ],
+                    "price": "834",
+                    "title": "Totam rerum accusamus deleniti.",
+                    "subtitle": "sit",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "486Thistle",
+                    "desc": "ipsum",
+                    "tags": [
+                        "world",
+                        "baz"
+                    ],
+                    "price": "862",
+                    "title": "Aut rerum aut doloribus.",
+                    "subtitle": "voluptatem",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "315Cornsilk",
+                    "desc": "quaerat",
+                    "tags": [
+                        "foo",
+                        "baz"
+                    ],
+                    "price": "349",
+                    "title": "Assumenda nostrum est ea.",
+                    "subtitle": "sed",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "566Tomato",
+                    "desc": "id",
+                    "tags": [
+                        "bar",
+                        "baz"
+                    ],
+                    "price": "731",
+                    "title": "Vel voluptatem repudiandae et.",
+                    "subtitle": "vel",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "118LightSeaGreen",
+                    "desc": "omnis",
+                    "tags": [
+                        "hello",
+                        "baz"
+                    ],
+                    "price": "457",
+                    "title": "Cum et aut voluptatum.",
+                    "subtitle": "eos",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "939Crimson",
+                    "desc": "magnam",
+                    "tags": [
+                        "world",
+                        "hello"
+                    ],
+                    "price": "626",
+                    "title": "Autem beatae qui ut.",
+                    "subtitle": "autem",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-26T13:41:35.000000Z",
+            "updated_at": "2024-10-26T13:41:35.000000Z"
+        },
+        {
+            "title": "Esmeralda Dress",
+            "sku": "3378MKVC",
+            "type": "Dress",
+            "inventory_policy": "aliquam",
+            "taxable": "1",
+            "min_price": "deleniti",
+            "max_price": "dolor",
+            "tags": [
+                "test",
+                "zwei"
+            ],
+            "variants": [
+                {
+                    "sku": "576LightGreen",
+                    "desc": "ut",
+                    "tags": [
+                        "world",
+                        "foo"
+                    ],
+                    "price": "340",
+                    "title": "Et porro explicabo.",
+                    "subtitle": "sint",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "711SaddleBrown",
+                    "desc": "accusamus",
+                    "tags": [
+                        "hello",
+                        "baz"
+                    ],
+                    "price": "672",
+                    "title": "Non quibusdam quos rerum.",
+                    "subtitle": "delectus",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "484LightSlateGray",
+                    "desc": "facere",
+                    "tags": [
+                        "baz",
+                        "world"
+                    ],
+                    "price": "462",
+                    "title": "Esse libero ratione.",
+                    "subtitle": "sunt",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "501Bisque",
+                    "desc": "iste",
+                    "tags": [
+                        "hello",
+                        "foo"
+                    ],
+                    "price": "859",
+                    "title": "Est est voluptas voluptas.",
+                    "subtitle": "ab",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "571Salmon",
+                    "desc": "officiis",
+                    "tags": [
+                        "baz",
+                        "bar"
+                    ],
+                    "price": "528",
+                    "title": "Placeat vel.",
+                    "subtitle": "saepe",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "257DarkBlue",
+                    "desc": "quas",
+                    "tags": [
+                        "baz",
+                        "hello"
+                    ],
+                    "price": "323",
+                    "title": "Itaque officiis sint velit itaque.",
+                    "subtitle": "qui",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "405Coral",
+                    "desc": "eius",
+                    "tags": [
+                        "world",
+                        "foo"
+                    ],
+                    "price": "259",
+                    "title": "Ipsam quo quia quia.",
+                    "subtitle": "distinctio",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "358LemonChiffon",
+                    "desc": "nobis",
+                    "tags": [
+                        "hello",
+                        "bar"
+                    ],
+                    "price": "590",
+                    "title": "Quo dolorem ut et deserunt.",
+                    "subtitle": "repellat",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "995DarkTurquoise",
+                    "desc": "at",
+                    "tags": [
+                        "world",
+                        "baz"
+                    ],
+                    "price": "219",
+                    "title": "Voluptatem excepturi sequi consequatur.",
+                    "subtitle": "adipisci",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "744Chocolate",
+                    "desc": "consectetur",
+                    "tags": [
+                        "world",
+                        "hello"
+                    ],
+                    "price": "562",
+                    "title": "Sapiente illum veritatis minima.",
+                    "subtitle": "vel",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "168LightGoldenRodYellow",
+                    "desc": "perferendis",
+                    "tags": [
+                        "foo",
+                        "baz"
+                    ],
+                    "price": "485",
+                    "title": "Praesentium fuga ab voluptatem.",
+                    "subtitle": "consequuntur",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "257Coral",
+                    "desc": "magni",
+                    "tags": [
+                        "hello",
+                        "baz"
+                    ],
+                    "price": "515",
+                    "title": "Expedita illum quas.",
+                    "subtitle": "a",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "152SandyBrown",
+                    "desc": "impedit",
+                    "tags": [
+                        "baz",
+                        "world"
+                    ],
+                    "price": "620",
+                    "title": "Possimus qui est quia.",
+                    "subtitle": "quisquam",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "885Purple",
+                    "desc": "quo",
+                    "tags": [
+                        "bar",
+                        "hello"
+                    ],
+                    "price": "394",
+                    "title": "Et accusamus non consequuntur.",
+                    "subtitle": "maiores",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "181MediumVioletRed",
+                    "desc": "nihil",
+                    "tags": [
+                        "baz",
+                        "world"
+                    ],
+                    "price": "102",
+                    "title": "Veniam nihil nulla.",
+                    "subtitle": "sed",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "248SlateGray",
+                    "desc": "officia",
+                    "tags": [
+                        "bar",
+                        "world"
+                    ],
+                    "price": "699",
+                    "title": "Odio sed consequuntur dolorem.",
+                    "subtitle": "expedita",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-26T13:41:35.000000Z",
+            "updated_at": "2024-10-26T13:41:35.000000Z"
+        },
+        {
+            "title": "Maximillian Suit",
+            "sku": "4527UPXI",
+            "type": "Suit",
+            "inventory_policy": "quia",
+            "taxable": "1",
+            "min_price": "sunt",
+            "max_price": "assumenda",
+            "tags": [
+                "test",
+                "zwei"
+            ],
+            "variants": [
+                {
+                    "sku": "233SpringGreen",
+                    "desc": "iure",
+                    "tags": [
+                        "hello",
+                        "foo"
+                    ],
+                    "price": "443",
+                    "title": "Corrupti pariatur.",
+                    "subtitle": "et",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "435ForestGreen",
+                    "desc": "dolor",
+                    "tags": [
+                        "foo",
+                        "hello"
+                    ],
+                    "price": "138",
+                    "title": "Nam assumenda et.",
+                    "subtitle": "similique",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "215Brown",
+                    "desc": "possimus",
+                    "tags": [
+                        "foo",
+                        "bar"
+                    ],
+                    "price": "936",
+                    "title": "Repellat repellat doloribus.",
+                    "subtitle": "aut",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "945DeepSkyBlue",
+                    "desc": "reprehenderit",
+                    "tags": [
+                        "hello",
+                        "world"
+                    ],
+                    "price": "828",
+                    "title": "Adipisci molestiae suscipit beatae qui.",
+                    "subtitle": "illum",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "936LavenderBlush",
+                    "desc": "velit",
+                    "tags": [
+                        "hello",
+                        "bar"
+                    ],
+                    "price": "177",
+                    "title": "Quia rem.",
+                    "subtitle": "laboriosam",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "462LightPink",
+                    "desc": "tenetur",
+                    "tags": [
+                        "foo",
+                        "bar"
+                    ],
+                    "price": "799",
+                    "title": "Et asperiores aliquam.",
+                    "subtitle": "rem",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "525Maroon",
+                    "desc": "et",
+                    "tags": [
+                        "world",
+                        "bar"
+                    ],
+                    "price": "954",
+                    "title": "Magnam qui consequuntur vel.",
+                    "subtitle": "adipisci",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "164HotPink",
+                    "desc": "fugiat",
+                    "tags": [
+                        "bar",
+                        "baz"
+                    ],
+                    "price": "958",
+                    "title": "Iure omnis fugit.",
+                    "subtitle": "voluptatem",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "334CornflowerBlue",
+                    "desc": "ut",
+                    "tags": [
+                        "bar",
+                        "world"
+                    ],
+                    "price": "628",
+                    "title": "Incidunt ut voluptatem.",
+                    "subtitle": "quas",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "835OrangeRed",
+                    "desc": "vitae",
+                    "tags": [
+                        "baz",
+                        "foo"
+                    ],
+                    "price": "197",
+                    "title": "Dolore cumque sit.",
+                    "subtitle": "ut",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "524DarkSalmon",
+                    "desc": "voluptatibus",
+                    "tags": [
+                        "foo",
+                        "baz"
+                    ],
+                    "price": "329",
+                    "title": "Eveniet temporibus dolorem.",
+                    "subtitle": "quam",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "938Tan",
+                    "desc": "maiores",
+                    "tags": [
+                        "bar",
+                        "hello"
+                    ],
+                    "price": "880",
+                    "title": "Hic possimus sint.",
+                    "subtitle": "quidem",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "684LightSteelBlue",
+                    "desc": "provident",
+                    "tags": [
+                        "baz",
+                        "bar"
+                    ],
+                    "price": "779",
+                    "title": "Sit aut et nulla.",
+                    "subtitle": "quia",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "544MediumBlue",
+                    "desc": "nihil",
+                    "tags": [
+                        "hello",
+                        "baz"
+                    ],
+                    "price": "423",
+                    "title": "Aliquid amet velit distinctio quia.",
+                    "subtitle": "doloremque",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "187Tomato",
+                    "desc": "autem",
+                    "tags": [
+                        "world",
+                        "foo"
+                    ],
+                    "price": "820",
+                    "title": "Natus quas quisquam.",
+                    "subtitle": "quas",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "883HoneyDew",
+                    "desc": "mollitia",
+                    "tags": [
+                        "hello",
+                        "world"
+                    ],
+                    "price": "782",
+                    "title": "Voluptatem quis dolorem.",
+                    "subtitle": "est",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-26T13:41:35.000000Z",
+            "updated_at": "2024-10-26T13:41:35.000000Z"
+        },
+        {
+            "title": "Tiffany Jumper",
+            "sku": "8495SJBV",
+            "type": "Jumper",
+            "inventory_policy": "vitae",
+            "taxable": "1",
+            "min_price": "facilis",
+            "max_price": "consectetur",
+            "tags": [
+                "test",
+                "zwei"
+            ],
+            "variants": [
+                {
+                    "sku": "673LightYellow",
+                    "desc": "molestiae",
+                    "tags": [
+                        "baz",
+                        "bar"
+                    ],
+                    "price": "149",
+                    "title": "Aut omnis at animi.",
+                    "subtitle": "voluptatibus",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "440DarkRed",
+                    "desc": "quia",
+                    "tags": [
+                        "foo",
+                        "baz"
+                    ],
+                    "price": "863",
+                    "title": "Facilis illo soluta quibusdam.",
+                    "subtitle": "inventore",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "733Bisque",
+                    "desc": "et",
+                    "tags": [
+                        "bar",
+                        "world"
+                    ],
+                    "price": "192",
+                    "title": "Ut autem et.",
+                    "subtitle": "quia",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "166ForestGreen",
+                    "desc": "soluta",
+                    "tags": [
+                        "world",
+                        "bar"
+                    ],
+                    "price": "285",
+                    "title": "Doloremque molestiae.",
+                    "subtitle": "facere",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "221Gray",
+                    "desc": "labore",
+                    "tags": [
+                        "bar",
+                        "baz"
+                    ],
+                    "price": "739",
+                    "title": "Qui non et ipsam.",
+                    "subtitle": "consequuntur",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "451LimeGreen",
+                    "desc": "enim",
+                    "tags": [
+                        "bar",
+                        "hello"
+                    ],
+                    "price": "834",
+                    "title": "Sequi soluta dolorem ipsa.",
+                    "subtitle": "autem",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "858LightSkyBlue",
+                    "desc": "fugit",
+                    "tags": [
+                        "hello",
+                        "world"
+                    ],
+                    "price": "664",
+                    "title": "Rem velit doloremque rerum.",
+                    "subtitle": "dolor",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "905DarkViolet",
+                    "desc": "odio",
+                    "tags": [
+                        "world",
+                        "hello"
+                    ],
+                    "price": "722",
+                    "title": "Quia accusantium.",
+                    "subtitle": "corporis",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "485MediumPurple",
+                    "desc": "maxime",
+                    "tags": [
+                        "hello",
+                        "baz"
+                    ],
+                    "price": "716",
+                    "title": "Nobis molestiae totam.",
+                    "subtitle": "aut",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "931SeaGreen",
+                    "desc": "nihil",
+                    "tags": [
+                        "foo",
+                        "bar"
+                    ],
+                    "price": "656",
+                    "title": "Blanditiis id dolor quibusdam.",
+                    "subtitle": "qui",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "308Teal",
+                    "desc": "nobis",
+                    "tags": [
+                        "bar",
+                        "foo"
+                    ],
+                    "price": "629",
+                    "title": "Velit facilis nihil.",
+                    "subtitle": "expedita",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "424HotPink",
+                    "desc": "eaque",
+                    "tags": [
+                        "bar",
+                        "baz"
+                    ],
+                    "price": "453",
+                    "title": "Est similique porro.",
+                    "subtitle": "et",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "401GoldenRod",
+                    "desc": "voluptatem",
+                    "tags": [
+                        "foo",
+                        "hello"
+                    ],
+                    "price": "101",
+                    "title": "Voluptas doloribus voluptas.",
+                    "subtitle": "molestiae",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "739SpringGreen",
+                    "desc": "velit",
+                    "tags": [
+                        "hello",
+                        "baz"
+                    ],
+                    "price": "745",
+                    "title": "Voluptatem rem perferendis error.",
+                    "subtitle": "et",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "443PaleVioletRed",
+                    "desc": "illum",
+                    "tags": [
+                        "foo",
+                        "world"
+                    ],
+                    "price": "184",
+                    "title": "Quia at omnis deserunt.",
+                    "subtitle": "perspiciatis",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "530CornflowerBlue",
+                    "desc": "eos",
+                    "tags": [
+                        "foo",
+                        "bar"
+                    ],
+                    "price": "123",
+                    "title": "Ipsum sequi et.",
+                    "subtitle": "fugiat",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-26T13:41:35.000000Z",
+            "updated_at": "2024-10-26T13:41:35.000000Z"
+        },
+        {
+            "title": "Patricia Coat",
+            "sku": "ACLN8907",
+            "type": "Coat",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "ACLN8907-XS",
+                    "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+                    "tags": [
+                        "wip",
+                        "eol",
+                        "a",
+                        "pre-order",
+                        "sale",
+                        "b",
+                        "focus"
+                    ],
+                    "price": "65.23",
+                    "title": "Patricia Coat / XS",
+                    "subtitle": "Sit error libero aut reprehenderit.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ACLN8907-S",
+                    "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+                    "tags": [
+                        "wip",
+                        "a",
+                        "pre-order",
+                        "eol",
+                        "front-page",
+                        "new"
+                    ],
+                    "price": "57.98",
+                    "title": "Patricia Coat / S",
+                    "subtitle": "Sit error libero aut reprehenderit.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ACLN8907-M",
+                    "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+                    "tags": [
+                        "new",
+                        "wip",
+                        "focus",
+                        "pre-order",
+                        "sale",
+                        "eol",
+                        "summer",
+                        "front-page"
+                    ],
+                    "price": "58.5",
+                    "title": "Patricia Coat / M",
+                    "subtitle": "Sit error libero aut reprehenderit.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ACLN8907-L",
+                    "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+                    "tags": [
+                        "b",
+                        "focus",
+                        "a",
+                        "summer",
+                        "new",
+                        "wip",
+                        "sale"
+                    ],
+                    "price": "13.81",
+                    "title": "Patricia Coat / L",
+                    "subtitle": "Sit error libero aut reprehenderit.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ACLN8907-XL",
+                    "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+                    "tags": [
+                        "sale",
+                        "front-page",
+                        "eol",
+                        "summer",
+                        "new",
+                        "a",
+                        "focus",
+                        "wip",
+                        "pre-order"
+                    ],
+                    "price": "82.58",
+                    "title": "Patricia Coat / XL",
+                    "subtitle": "Sit error libero aut reprehenderit.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "ACLN8907-3XL",
+                    "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+                    "tags": [
+                        "sale",
+                        "wip",
+                        "focus",
+                        "summer"
+                    ],
+                    "price": "6.03",
+                    "title": "Patricia Coat / 3XL",
+                    "subtitle": "Sit error libero aut reprehenderit.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Hazle Jumper",
+            "sku": "AMIY9626",
+            "type": "Jumper",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "AMIY9626-XS",
+                    "desc": "Molestiae sequi magni ipsa natus et in eligendi. Alias illo dolorem nisi autem. Dolorem similique cumque voluptate quia ratione dolorem eum. Et quia a expedita minus. Ab deleniti iste et sit rem incidunt. Reiciendis porro autem ipsa earum eum assumenda. Inventore sit qui vel fuga consequatur officia.",
+                    "tags": [
+                        "eol",
+                        "focus",
+                        "sale",
+                        "front-page",
+                        "pre-order",
+                        "b",
+                        "wip"
+                    ],
+                    "price": "85.1",
+                    "title": "Hazle Jumper / XS",
+                    "subtitle": "Itaque magnam neque eum ea.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "AMIY9626-S",
+                    "desc": "Molestiae sequi magni ipsa natus et in eligendi. Alias illo dolorem nisi autem. Dolorem similique cumque voluptate quia ratione dolorem eum. Et quia a expedita minus. Ab deleniti iste et sit rem incidunt. Reiciendis porro autem ipsa earum eum assumenda. Inventore sit qui vel fuga consequatur officia.",
+                    "tags": [
+                        "front-page",
+                        "sale",
+                        "summer",
+                        "wip"
+                    ],
+                    "price": "58.78",
+                    "title": "Hazle Jumper / S",
+                    "subtitle": "Itaque magnam neque eum ea.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "AMIY9626-M",
+                    "desc": "Molestiae sequi magni ipsa natus et in eligendi. Alias illo dolorem nisi autem. Dolorem similique cumque voluptate quia ratione dolorem eum. Et quia a expedita minus. Ab deleniti iste et sit rem incidunt. Reiciendis porro autem ipsa earum eum assumenda. Inventore sit qui vel fuga consequatur officia.",
+                    "tags": [
+                        "focus",
+                        "b",
+                        "sale",
+                        "summer",
+                        "pre-order",
+                        "eol",
+                        "wip",
+                        "new"
+                    ],
+                    "price": "84.91",
+                    "title": "Hazle Jumper / M",
+                    "subtitle": "Itaque magnam neque eum ea.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Carey Suit",
+            "sku": "BHUY7734",
+            "type": "Suit",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "BHUY7734-XS",
+                    "desc": "Non consequatur pariatur ut sit. Nihil enim ut rerum labore. At commodi quae quaerat inventore dolores quam. Laborum ut dolor quisquam eligendi. Ea consequatur sunt voluptates enim assumenda aspernatur.",
+                    "tags": [
+                        "a"
+                    ],
+                    "price": "30.16",
+                    "title": "Carey Suit / XS",
+                    "subtitle": "Aut veniam quaerat ipsa architecto.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "BHUY7734-S",
+                    "desc": "Non consequatur pariatur ut sit. Nihil enim ut rerum labore. At commodi quae quaerat inventore dolores quam. Laborum ut dolor quisquam eligendi. Ea consequatur sunt voluptates enim assumenda aspernatur.",
+                    "tags": [
+                        "wip",
+                        "b",
+                        "new",
+                        "pre-order",
+                        "a",
+                        "sale",
+                        "summer"
+                    ],
+                    "price": "60.66",
+                    "title": "Carey Suit / S",
+                    "subtitle": "Aut veniam quaerat ipsa architecto.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "BHUY7734-M",
+                    "desc": "Non consequatur pariatur ut sit. Nihil enim ut rerum labore. At commodi quae quaerat inventore dolores quam. Laborum ut dolor quisquam eligendi. Ea consequatur sunt voluptates enim assumenda aspernatur.",
+                    "tags": [
+                        "a",
+                        "new",
+                        "summer",
+                        "sale",
+                        "wip",
+                        "focus"
+                    ],
+                    "price": "99.34",
+                    "title": "Carey Suit / M",
+                    "subtitle": "Aut veniam quaerat ipsa architecto.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "BHUY7734-L",
+                    "desc": "Non consequatur pariatur ut sit. Nihil enim ut rerum labore. At commodi quae quaerat inventore dolores quam. Laborum ut dolor quisquam eligendi. Ea consequatur sunt voluptates enim assumenda aspernatur.",
+                    "tags": [
+                        "focus",
+                        "a",
+                        "wip",
+                        "eol",
+                        "pre-order"
+                    ],
+                    "price": "94.84",
+                    "title": "Carey Suit / L",
+                    "subtitle": "Aut veniam quaerat ipsa architecto.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "BHUY7734-XL",
+                    "desc": "Non consequatur pariatur ut sit. Nihil enim ut rerum labore. At commodi quae quaerat inventore dolores quam. Laborum ut dolor quisquam eligendi. Ea consequatur sunt voluptates enim assumenda aspernatur.",
+                    "tags": [
+                        "summer",
+                        "pre-order"
+                    ],
+                    "price": "3.79",
+                    "title": "Carey Suit / XL",
+                    "subtitle": "Aut veniam quaerat ipsa architecto.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "BHUY7734-2XL",
+                    "desc": "Non consequatur pariatur ut sit. Nihil enim ut rerum labore. At commodi quae quaerat inventore dolores quam. Laborum ut dolor quisquam eligendi. Ea consequatur sunt voluptates enim assumenda aspernatur.",
+                    "tags": [
+                        "a",
+                        "sale",
+                        "b",
+                        "focus"
+                    ],
+                    "price": "16.8",
+                    "title": "Carey Suit / 2XL",
+                    "subtitle": "Aut veniam quaerat ipsa architecto.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "BHUY7734-3XL",
+                    "desc": "Non consequatur pariatur ut sit. Nihil enim ut rerum labore. At commodi quae quaerat inventore dolores quam. Laborum ut dolor quisquam eligendi. Ea consequatur sunt voluptates enim assumenda aspernatur.",
+                    "tags": [
+                        "eol",
+                        "focus",
+                        "b",
+                        "wip",
+                        "front-page",
+                        "summer",
+                        "a",
+                        "new"
+                    ],
+                    "price": "61.02",
+                    "title": "Carey Suit / 3XL",
+                    "subtitle": "Aut veniam quaerat ipsa architecto.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "America Dress",
+            "sku": "FCSS6466",
+            "type": "Dress",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "FCSS6466-XS",
+                    "desc": "Repudiandae minima voluptatum tempore ea rerum nam. Sunt aliquid consequatur dolorum non. Nostrum nemo sit harum voluptatem. Illum exercitationem minus in praesentium. Quidem enim assumenda voluptas possimus qui.",
+                    "tags": [
+                        "pre-order",
+                        "new"
+                    ],
+                    "price": "3.5",
+                    "title": "America Dress / XS",
+                    "subtitle": "Consequatur nihil aut voluptas quas.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "FCSS6466-S",
+                    "desc": "Repudiandae minima voluptatum tempore ea rerum nam. Sunt aliquid consequatur dolorum non. Nostrum nemo sit harum voluptatem. Illum exercitationem minus in praesentium. Quidem enim assumenda voluptas possimus qui.",
+                    "tags": [
+                        "sale",
+                        "focus",
+                        "pre-order",
+                        "wip",
+                        "a",
+                        "front-page"
+                    ],
+                    "price": "8.39",
+                    "title": "America Dress / S",
+                    "subtitle": "Consequatur nihil aut voluptas quas.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "FCSS6466-L",
+                    "desc": "Repudiandae minima voluptatum tempore ea rerum nam. Sunt aliquid consequatur dolorum non. Nostrum nemo sit harum voluptatem. Illum exercitationem minus in praesentium. Quidem enim assumenda voluptas possimus qui.",
+                    "tags": [
+                        "summer",
+                        "focus",
+                        "eol"
+                    ],
+                    "price": "82.22",
+                    "title": "America Dress / L",
+                    "subtitle": "Consequatur nihil aut voluptas quas.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "FCSS6466-XL",
+                    "desc": "Repudiandae minima voluptatum tempore ea rerum nam. Sunt aliquid consequatur dolorum non. Nostrum nemo sit harum voluptatem. Illum exercitationem minus in praesentium. Quidem enim assumenda voluptas possimus qui.",
+                    "tags": [
+                        "a",
+                        "pre-order",
+                        "new"
+                    ],
+                    "price": "1.48",
+                    "title": "America Dress / XL",
+                    "subtitle": "Consequatur nihil aut voluptas quas.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "FCSS6466-2XL",
+                    "desc": "Repudiandae minima voluptatum tempore ea rerum nam. Sunt aliquid consequatur dolorum non. Nostrum nemo sit harum voluptatem. Illum exercitationem minus in praesentium. Quidem enim assumenda voluptas possimus qui.",
+                    "tags": [
+                        "wip",
+                        "summer",
+                        "new",
+                        "eol",
+                        "front-page",
+                        "pre-order",
+                        "sale"
+                    ],
+                    "price": "5.78",
+                    "title": "America Dress / 2XL",
+                    "subtitle": "Consequatur nihil aut voluptas quas.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "FCSS6466-3XL",
+                    "desc": "Repudiandae minima voluptatum tempore ea rerum nam. Sunt aliquid consequatur dolorum non. Nostrum nemo sit harum voluptatem. Illum exercitationem minus in praesentium. Quidem enim assumenda voluptas possimus qui.",
+                    "tags": [
+                        "summer",
+                        "new",
+                        "wip",
+                        "a",
+                        "b",
+                        "front-page"
+                    ],
+                    "price": "49",
+                    "title": "America Dress / 3XL",
+                    "subtitle": "Consequatur nihil aut voluptas quas.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "FCSS6466-5XL",
+                    "desc": "Repudiandae minima voluptatum tempore ea rerum nam. Sunt aliquid consequatur dolorum non. Nostrum nemo sit harum voluptatem. Illum exercitationem minus in praesentium. Quidem enim assumenda voluptas possimus qui.",
+                    "tags": [
+                        "sale",
+                        "wip",
+                        "summer",
+                        "pre-order",
+                        "eol",
+                        "front-page",
+                        "focus"
+                    ],
+                    "price": "50.63",
+                    "title": "America Dress / 5XL",
+                    "subtitle": "Consequatur nihil aut voluptas quas.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Donny Jeans",
+            "sku": "GLYE1987",
+            "type": "Jeans",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "GLYE1987-XS",
+                    "desc": "Non illo repellendus aliquid dolorum vel rem. Fugiat velit deleniti qui assumenda debitis aut itaque. Sit ut autem maiores animi ut. Aut iure est ut omnis neque. Dolor voluptatem ipsam fugit repellat reprehenderit. Cupiditate et illo sed in quis.",
+                    "tags": [
+                        "pre-order",
+                        "a",
+                        "eol",
+                        "b",
+                        "wip",
+                        "focus"
+                    ],
+                    "price": "91.6",
+                    "title": "Donny Jeans / XS",
+                    "subtitle": "Quis quod repellendus.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "GLYE1987-S",
+                    "desc": "Non illo repellendus aliquid dolorum vel rem. Fugiat velit deleniti qui assumenda debitis aut itaque. Sit ut autem maiores animi ut. Aut iure est ut omnis neque. Dolor voluptatem ipsam fugit repellat reprehenderit. Cupiditate et illo sed in quis.",
+                    "tags": [
+                        "wip",
+                        "eol",
+                        "a"
+                    ],
+                    "price": "50.87",
+                    "title": "Donny Jeans / S",
+                    "subtitle": "Quis quod repellendus.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Wade T-Shirt",
+            "sku": "HXNO5518",
+            "type": "T-Shirt",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "HXNO5518-XS",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "wip",
+                        "front-page"
+                    ],
+                    "price": "10.72",
+                    "title": "Wade T-Shirt / XS",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-S",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "wip",
+                        "eol",
+                        "b",
+                        "front-page",
+                        "summer"
+                    ],
+                    "price": "27.31",
+                    "title": "Wade T-Shirt / S",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-M",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "wip",
+                        "front-page",
+                        "b",
+                        "summer",
+                        "eol",
+                        "focus",
+                        "a"
+                    ],
+                    "price": "26.45",
+                    "title": "Wade T-Shirt / M",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-L",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "a",
+                        "summer",
+                        "wip",
+                        "pre-order",
+                        "front-page",
+                        "focus"
+                    ],
+                    "price": "45.99",
+                    "title": "Wade T-Shirt / L",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-XL",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "focus",
+                        "sale",
+                        "eol",
+                        "wip",
+                        "summer",
+                        "a",
+                        "b"
+                    ],
+                    "price": "7.58",
+                    "title": "Wade T-Shirt / XL",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-2XL",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "focus",
+                        "new",
+                        "wip",
+                        "b",
+                        "summer",
+                        "eol",
+                        "pre-order",
+                        "a"
+                    ],
+                    "price": "37.96",
+                    "title": "Wade T-Shirt / 2XL",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-3XL",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "pre-order",
+                        "eol",
+                        "summer",
+                        "focus",
+                        "wip",
+                        "new"
+                    ],
+                    "price": "59.26",
+                    "title": "Wade T-Shirt / 3XL",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-4XL",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "sale",
+                        "front-page",
+                        "eol",
+                        "pre-order",
+                        "b"
+                    ],
+                    "price": "42.99",
+                    "title": "Wade T-Shirt / 4XL",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-5XL",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "new",
+                        "wip",
+                        "focus",
+                        "front-page",
+                        "summer",
+                        "b"
+                    ],
+                    "price": "3.24",
+                    "title": "Wade T-Shirt / 5XL",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "HXNO5518-6XL",
+                    "desc": "In exercitationem hic vel quos qui. Explicabo magnam excepturi earum reiciendis est atque velit dolores. Quo qui esse id mollitia corporis sit quas. Maxime aut quod soluta commodi. Et et velit in cumque.",
+                    "tags": [
+                        "front-page",
+                        "new",
+                        "summer",
+                        "b"
+                    ],
+                    "price": "97.16",
+                    "title": "Wade T-Shirt / 6XL",
+                    "subtitle": "Sint enim esse quidem perferendis.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Geraldine Suit",
+            "sku": "IXBN6087",
+            "type": "Suit",
+            "inventory_policy": "continue",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "IXBN6087-XS",
+                    "desc": "Dolor quia qui ipsam aperiam. Hic consequuntur necessitatibus eligendi et illo officia fuga. Voluptatem velit id eveniet earum laborum quae omnis. Sint officiis harum voluptas occaecati dolorem non. Nihil et cumque explicabo labore error hic similique. Distinctio magnam ab nisi et mollitia et laborum.",
+                    "tags": [
+                        "b",
+                        "eol",
+                        "pre-order",
+                        "new"
+                    ],
+                    "price": "59.86",
+                    "title": "Geraldine Suit / XS",
+                    "subtitle": "Sint sed eum ducimus.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "IXBN6087-S",
+                    "desc": "Dolor quia qui ipsam aperiam. Hic consequuntur necessitatibus eligendi et illo officia fuga. Voluptatem velit id eveniet earum laborum quae omnis. Sint officiis harum voluptas occaecati dolorem non. Nihil et cumque explicabo labore error hic similique. Distinctio magnam ab nisi et mollitia et laborum.",
+                    "tags": [
+                        "front-page",
+                        "focus"
+                    ],
+                    "price": "96.7",
+                    "title": "Geraldine Suit / S",
+                    "subtitle": "Sint sed eum ducimus.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "IXBN6087-M",
+                    "desc": "Dolor quia qui ipsam aperiam. Hic consequuntur necessitatibus eligendi et illo officia fuga. Voluptatem velit id eveniet earum laborum quae omnis. Sint officiis harum voluptas occaecati dolorem non. Nihil et cumque explicabo labore error hic similique. Distinctio magnam ab nisi et mollitia et laborum.",
+                    "tags": [
+                        "new",
+                        "sale",
+                        "eol",
+                        "b",
+                        "a",
+                        "focus",
+                        "summer",
+                        "pre-order"
+                    ],
+                    "price": "67.49",
+                    "title": "Geraldine Suit / M",
+                    "subtitle": "Sint sed eum ducimus.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "IXBN6087-L",
+                    "desc": "Dolor quia qui ipsam aperiam. Hic consequuntur necessitatibus eligendi et illo officia fuga. Voluptatem velit id eveniet earum laborum quae omnis. Sint officiis harum voluptas occaecati dolorem non. Nihil et cumque explicabo labore error hic similique. Distinctio magnam ab nisi et mollitia et laborum.",
+                    "tags": [
+                        "b",
+                        "pre-order",
+                        "new",
+                        "wip",
+                        "front-page",
+                        "sale",
+                        "summer",
+                        "eol"
+                    ],
+                    "price": "87.4",
+                    "title": "Geraldine Suit / L",
+                    "subtitle": "Sint sed eum ducimus.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Kaleb Jumper",
+            "sku": "MYYB9870",
+            "type": "Jumper",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "MYYB9870-XS",
+                    "desc": "Sit laudantium sit consequatur autem. Rerum odio aut impedit nisi. Enim voluptatibus autem enim culpa eum. Tempore voluptatem asperiores omnis.",
+                    "tags": [
+                        "focus"
+                    ],
+                    "price": "64.01",
+                    "title": "Kaleb Jumper / XS",
+                    "subtitle": "Aut ut nihil saepe.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "MYYB9870-S",
+                    "desc": "Sit laudantium sit consequatur autem. Rerum odio aut impedit nisi. Enim voluptatibus autem enim culpa eum. Tempore voluptatem asperiores omnis.",
+                    "tags": [
+                        "sale",
+                        "front-page"
+                    ],
+                    "price": "5.09",
+                    "title": "Kaleb Jumper / S",
+                    "subtitle": "Aut ut nihil saepe.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "MYYB9870-L",
+                    "desc": "Sit laudantium sit consequatur autem. Rerum odio aut impedit nisi. Enim voluptatibus autem enim culpa eum. Tempore voluptatem asperiores omnis.",
+                    "tags": [
+                        "summer",
+                        "focus"
+                    ],
+                    "price": "59.74",
+                    "title": "Kaleb Jumper / L",
+                    "subtitle": "Aut ut nihil saepe.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "MYYB9870-XL",
+                    "desc": "Sit laudantium sit consequatur autem. Rerum odio aut impedit nisi. Enim voluptatibus autem enim culpa eum. Tempore voluptatem asperiores omnis.",
+                    "tags": [
+                        "b",
+                        "summer",
+                        "eol",
+                        "a",
+                        "pre-order",
+                        "front-page",
+                        "focus",
+                        "wip",
+                        "sale"
+                    ],
+                    "price": "59.61",
+                    "title": "Kaleb Jumper / XL",
+                    "subtitle": "Aut ut nihil saepe.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Sasha Coat",
+            "sku": "PBDV3217",
+            "type": "Coat",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "PBDV3217-XS",
+                    "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+                    "tags": [
+                        "summer"
+                    ],
+                    "price": "77.6",
+                    "title": "Sasha Coat / XS",
+                    "subtitle": "Ducimus est omnis rerum eaque.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "PBDV3217-S",
+                    "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+                    "tags": [
+                        "focus",
+                        "summer"
+                    ],
+                    "price": "93.63",
+                    "title": "Sasha Coat / S",
+                    "subtitle": "Ducimus est omnis rerum eaque.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "PBDV3217-M",
+                    "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+                    "tags": [
+                        "focus",
+                        "a",
+                        "summer",
+                        "eol",
+                        "new"
+                    ],
+                    "price": "63.96",
+                    "title": "Sasha Coat / M",
+                    "subtitle": "Ducimus est omnis rerum eaque.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "PBDV3217-L",
+                    "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+                    "tags": [
+                        "summer",
+                        "new",
+                        "wip",
+                        "a",
+                        "sale",
+                        "eol",
+                        "b"
+                    ],
+                    "price": "79.48",
+                    "title": "Sasha Coat / L",
+                    "subtitle": "Ducimus est omnis rerum eaque.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "PBDV3217-XL",
+                    "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+                    "tags": [
+                        "front-page",
+                        "new"
+                    ],
+                    "price": "82.94",
+                    "title": "Sasha Coat / XL",
+                    "subtitle": "Ducimus est omnis rerum eaque.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "PBDV3217-2XL",
+                    "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+                    "tags": [
+                        "front-page",
+                        "b",
+                        "sale",
+                        "wip",
+                        "focus",
+                        "pre-order"
+                    ],
+                    "price": "96.15",
+                    "title": "Sasha Coat / 2XL",
+                    "subtitle": "Ducimus est omnis rerum eaque.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "PBDV3217-3XL",
+                    "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+                    "tags": [
+                        "pre-order",
+                        "a",
+                        "sale",
+                        "eol",
+                        "wip",
+                        "summer",
+                        "front-page",
+                        "focus"
+                    ],
+                    "price": "85.25",
+                    "title": "Sasha Coat / 3XL",
+                    "subtitle": "Ducimus est omnis rerum eaque.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "PBDV3217-4XL",
+                    "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+                    "tags": [
+                        "front-page",
+                        "sale"
+                    ],
+                    "price": "45.77",
+                    "title": "Sasha Coat / 4XL",
+                    "subtitle": "Ducimus est omnis rerum eaque.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        },
+        {
+            "title": "Steve Jeans",
+            "sku": "SRBQ1127",
+            "type": "Jeans",
+            "inventory_policy": "deny",
+            "taxable": "1",
+            "min_price": "FIXME",
+            "max_price": "FIXME",
+            "tags": [
+                "FIXME"
+            ],
+            "variants": [
+                {
+                    "sku": "SRBQ1127-XS",
+                    "desc": "Aut commodi dignissimos necessitatibus. Optio qui deserunt porro dignissimos qui et. Deleniti iure non provident temporibus. Placeat nobis et ea voluptas.",
+                    "tags": [
+                        "pre-order",
+                        "eol",
+                        "wip",
+                        "new",
+                        "sale",
+                        "focus",
+                        "b",
+                        "summer",
+                        "front-page"
+                    ],
+                    "price": "47.88",
+                    "title": "Steve Jeans / XS",
+                    "subtitle": "Non rerum at autem.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "SRBQ1127-S",
+                    "desc": "Aut commodi dignissimos necessitatibus. Optio qui deserunt porro dignissimos qui et. Deleniti iure non provident temporibus. Placeat nobis et ea voluptas.",
+                    "tags": [
+                        "pre-order",
+                        "new",
+                        "focus",
+                        "wip",
+                        "summer",
+                        "b",
+                        "eol",
+                        "a",
+                        "sale"
+                    ],
+                    "price": "35.08",
+                    "title": "Steve Jeans / S",
+                    "subtitle": "Non rerum at autem.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "SRBQ1127-M",
+                    "desc": "Aut commodi dignissimos necessitatibus. Optio qui deserunt porro dignissimos qui et. Deleniti iure non provident temporibus. Placeat nobis et ea voluptas.",
+                    "tags": [
+                        "focus"
+                    ],
+                    "price": "29.89",
+                    "title": "Steve Jeans / M",
+                    "subtitle": "Non rerum at autem.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "SRBQ1127-L",
+                    "desc": "Aut commodi dignissimos necessitatibus. Optio qui deserunt porro dignissimos qui et. Deleniti iure non provident temporibus. Placeat nobis et ea voluptas.",
+                    "tags": [
+                        "wip",
+                        "sale",
+                        "new",
+                        "a",
+                        "pre-order",
+                        "front-page",
+                        "summer"
+                    ],
+                    "price": "85.79",
+                    "title": "Steve Jeans / L",
+                    "subtitle": "Non rerum at autem.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-18T14:54:01.000000Z",
+            "updated_at": "2024-10-18T14:54:01.000000Z"
+        }
+    ],
+    "first_page_url": "https://target-api.local/api/products?sort=sku&page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "https://target-api.local/api/products?sort=sku&page=2",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=2",
+            "label": "2",
+            "active": false
+        },
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": "https://target-api.local/api/products?sort=sku&page=2",
+    "path": "https://target-api.local/api/products",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 15,
+    "total": 25
+}
