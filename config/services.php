@@ -43,6 +43,6 @@ return [
     'target-api' => [
         'base_url' => env('TARGET_API_BASE_URL'),
         'key' => env('TARGET_API_KEY'),
-    ]
+    ],
 
 ];

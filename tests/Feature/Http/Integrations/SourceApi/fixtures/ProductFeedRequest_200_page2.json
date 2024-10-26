@@ -1,0 +1,2210 @@
+{
+    "current_page": 2,
+    "data": [
+        {
+            "id": 564,
+            "title": "Madalyn T-Shirt / 5XL",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "active",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-5XL",
+            "barcode": "9426303968884",
+            "tags": "a,b",
+            "price": "36.09",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "a666b3ea-e8ad-38d0-89c1-4ba0c2733c9e",
+                    "type": "size",
+                    "value": "5XL"
+                },
+                {
+                    "id": "0fdd6999-6705-3262-9dba-cae6160ed892",
+                    "type": "materials",
+                    "value": [
+                        "Frozen"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "2291",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "22c17bca-b39f-35a4-b2e8-fa375b93d6de",
+                    "hash": "3741dade29bc1c258463b23828cd7c31b8249006",
+                    "quantity": -89
+                },
+                {
+                    "id": "b0615d9d-98b3-3e61-86b5-df805bed02e5",
+                    "hash": "33d8d909daa94a4b34a475223f0775b531c00195",
+                    "quantity": -35
+                },
+                {
+                    "id": "0fa69fed-ec1e-3501-b3a5-05f6bf75657d",
+                    "hash": "02e99f117b2c7a2a2036f6cb777f7ec892a64979",
+                    "quantity": -54
+                },
+                {
+                    "id": "9bbb497c-c776-3511-a46f-8b0d2b2b6b7a",
+                    "hash": "2993ac1e96bcfb4d42ff6919c1587cf390276ee3",
+                    "quantity": -80
+                },
+                {
+                    "id": "8836b0b0-aff1-3c46-83f1-37ec49cce4cd",
+                    "hash": "80992a5d435418ec1e016f3b450d9baf295dcf4f",
+                    "quantity": 40
+                },
+                {
+                    "id": "05e9d91a-0688-316a-8b2e-6af4a7a77dd9",
+                    "hash": "62213c62a4fcbdd45a0b618e0c28b351a3faec96",
+                    "quantity": 93
+                },
+                {
+                    "id": "beddfc83-ac27-3d5f-ab1e-931f9d94eab4",
+                    "hash": "ef91ec89b5722df8f38e06afe6dbdfb88a5beca8",
+                    "quantity": -22
+                },
+                {
+                    "id": "baed52ab-27b9-3a5d-a3f4-025872c322cf",
+                    "hash": "ae3527dc0b8399bc0697b2b3bdfa80dfb2e35f96",
+                    "quantity": -81
+                },
+                {
+                    "id": "d34b7cc7-a760-3f0d-841d-6a9bf8bd3d96",
+                    "hash": "7b1af2b3aeb2dbdaf3be01a9b7f27405b634ef0f",
+                    "quantity": -75
+                },
+                {
+                    "id": "58404568-83ea-3bf2-8c03-3fe84231d0bd",
+                    "hash": "e6d0fc783d45268c9c1380b2383cf3e19634bef1",
+                    "quantity": 38
+                },
+                {
+                    "id": "b13cfeaa-0950-3c76-8b79-0bc70df99628",
+                    "hash": "0953b23b9fa3c56757a8722bda7158fa5a0caf23",
+                    "quantity": -75
+                },
+                {
+                    "id": "d33e6182-59bc-32e9-80ca-b06c18784170",
+                    "hash": "0d7d2c8ef21926ccf0743ddc1f4c51a3138e6317",
+                    "quantity": 16
+                },
+                {
+                    "id": "7a8c23b4-6182-3a0f-8970-85525d70cf7b",
+                    "hash": "6a3a53f38b2d0d131da5d6b93916562cecdeca5c",
+                    "quantity": -33
+                },
+                {
+                    "id": "4b377b22-7854-354a-b779-1b09473df8a7",
+                    "hash": "3a652740fd366103899078525020f05f6399b87d",
+                    "quantity": 38
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "DM",
+            "categories": [
+                "070a8cc5-317a-367d-a348-448a52607317",
+                "576b3439-7a08-3ee8-ad2d-12b2340b5220",
+                "6f264fea-02be-3119-a80c-4084f09c7591",
+                "c82dabbb-7f62-3e13-85b2-ad357af122cd",
+                "1c65abfc-8cfa-3423-8066-ec017aea627e",
+                "7775b574-1fdf-3810-895c-3abc4381cbf8",
+                "a8925e40-dc88-399c-bc3f-ed786f31c389",
+                "a11855db-1f2b-3284-90ef-fcf7e787409c"
+            ],
+            "amazon_categories": [
+                "70fa6ff1-aba9-3245-97d2-07d04546455f",
+                "13ee9b44-51fd-3d7c-9bbb-bfc1be2c9d58",
+                "014b2436-73eb-38e5-8108-56676dcf5391",
+                "4f2dfd09-813f-37df-9be7-806e8424dafd",
+                "cb618909-429a-3e7b-8b2d-9c2aea70bf60",
+                "e7202d1c-966e-309d-bcd6-2712d5bf4642",
+                "4251064c-375f-3f71-b19a-a7210f15bb71",
+                "0e16953f-03ab-31bd-ac72-c55c1a28ea7c"
+            ],
+            "tb_categories": [
+                "1e8ebca5-85e7-3fc7-a92d-7e3e55b0d128",
+                "b119b631-f457-3526-a2fe-e785670835d8",
+                "c6bfc563-6197-3f59-bc3f-51977f894231"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 563,
+            "title": "Madalyn T-Shirt / 4XL",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "active",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-4XL",
+            "barcode": "7192637995095",
+            "tags": "summer,eol,wip,pre-order,new,sale,a",
+            "price": null,
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "452fe234-57c4-3f34-b2ec-892e7f1bbbf9",
+                    "type": "size",
+                    "value": "4XL"
+                },
+                {
+                    "id": "dc7479d8-1f55-3e8b-bf98-8a4ffdebc942",
+                    "type": "materials",
+                    "value": [
+                        "Fresh"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "4357",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "34934e58-ef64-3e63-9862-cbf108f6b3cc",
+                    "hash": "c7b58ed4aa5632e37c30a02b295304401e3c4f9e",
+                    "quantity": 1
+                },
+                {
+                    "id": "e4ca6caf-c8d1-344d-a60e-e52afe4ef613",
+                    "hash": "d60f3a1b2f133859a10abed023c787eadcdb33b2",
+                    "quantity": 90
+                },
+                {
+                    "id": "55e9a6ad-643d-33ec-8c65-5b0a8fc15fe5",
+                    "hash": "b9c7b91e74c5979e8196dcc4453ea10d45e7930a",
+                    "quantity": 75
+                },
+                {
+                    "id": "4ba43ebe-08da-3f1a-82db-6e67db9ca728",
+                    "hash": "4b8b7c13bfb9a4c7da5a1cd8eee4fe510a310551",
+                    "quantity": 51
+                },
+                {
+                    "id": "8478f962-fdc2-3c08-a635-2be68fbb9c98",
+                    "hash": "628c543889eb7299c636f34aa1cbf5ffc8ae8b75",
+                    "quantity": -16
+                },
+                {
+                    "id": "7d7e612c-b0c7-3151-92f6-5e05477657a3",
+                    "hash": "faedd67e88e453405b78e2d48daed1773c274b46",
+                    "quantity": 58
+                },
+                {
+                    "id": "534538fe-3aa3-3d29-8a59-17e1ebced16d",
+                    "hash": "e642bffdf477cff906c3c3ae2344652f6b6e693a",
+                    "quantity": -93
+                },
+                {
+                    "id": "b93a416e-e9a7-368e-97a4-14ce0736304c",
+                    "hash": "9c6f2bda0f1f14d6981c5176fb01bffbc2f81f72",
+                    "quantity": 93
+                },
+                {
+                    "id": "9b33686a-a2b7-3a20-a503-e1a10b304a2a",
+                    "hash": "a9be3dd2674c1c3639d0b74aac1779d24baebc71",
+                    "quantity": 42
+                },
+                {
+                    "id": "9420334f-cd94-39b3-a49c-34182194a152",
+                    "hash": "91d64032b598fc5454df91d42bfc27ae9803fbee",
+                    "quantity": 91
+                },
+                {
+                    "id": "6d453a36-172b-33e4-80ee-14207840f775",
+                    "hash": "8ba5960e8255f8206bc08ed65342b824542b8cb8",
+                    "quantity": 86
+                },
+                {
+                    "id": "cb509fa9-c4b1-326e-8679-9eaa2068b58d",
+                    "hash": "427edf1a331ad8baa4c938204fdf56fa36276c40",
+                    "quantity": 48
+                },
+                {
+                    "id": "67f01a5f-e4c0-3b25-a5c1-f1e08b3b2be5",
+                    "hash": "12b41b7b38f079c6344a86e3f3e449c0b516d356",
+                    "quantity": -35
+                },
+                {
+                    "id": "2cc7b244-625d-3c1c-a5c0-60ddf8ca5ae3",
+                    "hash": "d5707fff4cc029d2238587c732248dac08982719",
+                    "quantity": 19
+                },
+                {
+                    "id": "83982221-12cf-320f-b500-70df00a5a488",
+                    "hash": "9e6d7a36ec057f471239e94c538379b669bfb76f",
+                    "quantity": -38
+                },
+                {
+                    "id": "ba3387f9-e861-3326-b054-a4655c4c8219",
+                    "hash": "4a8810a370a347d34c212c548c60ce9844268f8a",
+                    "quantity": -62
+                },
+                {
+                    "id": "7704c59d-3264-3911-b388-b8af2865aac6",
+                    "hash": "5f45d0cd685b33e9aa77f4b1e84d12f190781020",
+                    "quantity": -79
+                },
+                {
+                    "id": "e67870c0-e31e-3233-a03b-798462163c9d",
+                    "hash": "2ef755ebfd519c2ca91cd0b634131402eb968fcc",
+                    "quantity": 96
+                },
+                {
+                    "id": "61f61eb5-bc88-326c-afb7-3e2c252f17ed",
+                    "hash": "1a7cb38a3a46a61c509aeb377c599e2938e4a1d5",
+                    "quantity": 67
+                },
+                {
+                    "id": "5b1b12d5-0d2f-3bea-a2d9-838317f59ff4",
+                    "hash": "d0dd7d052ba9f27d41f40a455c0d85af2ac2b651",
+                    "quantity": -30
+                },
+                {
+                    "id": "d92ff50e-1afe-33b5-870a-e3585533321f",
+                    "hash": "09ddeb79bb33504afac5ce4790ed3cc30f92e79a",
+                    "quantity": -36
+                },
+                {
+                    "id": "2ff42517-f2ba-33f1-a5b7-b49ced374fb4",
+                    "hash": "3175c7fdd7cbe7701eb064705cd0808ad37ce439",
+                    "quantity": -3
+                },
+                {
+                    "id": "aa2b7b56-0a40-348d-ba7c-1eb216a45f2c",
+                    "hash": "7955766b93d89ae119c3073a11094d2eab80c8f7",
+                    "quantity": 68
+                },
+                {
+                    "id": "283e1e9d-32d3-357c-b570-e98ffd9a33e1",
+                    "hash": "549895313f244e37b84225b113e88a4bf0b8928a",
+                    "quantity": -12
+                },
+                {
+                    "id": "f3340450-81b6-3d5b-b105-0237a30703fb",
+                    "hash": "23813bfeda04d3b39f5a3622cd48a5647a0b4080",
+                    "quantity": 35
+                },
+                {
+                    "id": "00fc3a0d-bcc8-3988-b9d5-631677ffdc21",
+                    "hash": "fae0ebd11622431544777d6d570a5082004b43bb",
+                    "quantity": -63
+                },
+                {
+                    "id": "8db48f0e-bd3a-36a7-9f27-29a36017ada3",
+                    "hash": "3d2a052c2bb9cf0f40ec0dc1934b5c4fa77bcdc7",
+                    "quantity": -95
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "FK",
+            "categories": [
+                "1aa287c7-8579-39a2-b235-b18d055682f7"
+            ],
+            "amazon_categories": [
+                "3d44a5fb-c0d3-3a13-8e08-8e46ed26de19",
+                "5c19d33d-d3cc-3029-90e4-621ebe1dbf04",
+                "56697055-d615-3195-962b-6ef962d5c507",
+                "802315b9-0e8c-3864-9aa9-8e4e91fb53af"
+            ],
+            "tb_categories": [
+                "323905a5-7a13-3d78-9370-f37ecc2a75c7",
+                "59d59635-79a4-326d-a070-e2cc2e11f8c7",
+                "eb7c7704-153d-3ea6-a59d-791482eab3d5",
+                "2de68cc4-e3f7-32e1-9852-ff0fb8d9f6f7",
+                "5a9b733e-75c2-3ecb-9261-554afcc057a4",
+                "8f9c0122-61e6-3794-9df5-30c60068f2fc",
+                "ce6f9469-d6fe-350d-9ca0-286251da22f2"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 562,
+            "title": "Madalyn T-Shirt / 3XL",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "active",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-3XL",
+            "barcode": "3561473156696",
+            "tags": "eol,a,summer,sale,front-page,wip,b",
+            "price": "80.63",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "d85a5d96-9c54-3a2c-84f9-7f4814de1b00",
+                    "type": "size",
+                    "value": "3XL"
+                },
+                {
+                    "id": "1318288c-8d4f-379c-98f4-79b65f2d0e9f",
+                    "type": "materials",
+                    "value": [
+                        "Soft"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "5083",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "f6c5b663-3956-3511-88a0-bb60890b28c0",
+                    "hash": "2aaad4cf65a873a965f894b0800f119f26cd8ebc",
+                    "quantity": 57
+                },
+                {
+                    "id": "8c051f34-0fe4-3b45-9e1f-c180036035a9",
+                    "hash": "849a57ec7e0eb9fec0f26fc499cf0128d49cabc3",
+                    "quantity": -45
+                },
+                {
+                    "id": "7e8e66ad-81f0-3299-a00e-a12f5164b75a",
+                    "hash": "c74187261c1e57140b82c3f148f283a78e161684",
+                    "quantity": -50
+                },
+                {
+                    "id": "c8c6997d-2ee9-3134-b1ca-735f11ea9807",
+                    "hash": "0bfa2ac01eebb68f0194a728ef30a8f65d42946b",
+                    "quantity": 45
+                },
+                {
+                    "id": "e0dda00a-e34f-3875-9bbf-91ded0839130",
+                    "hash": "b9aeef4ec78ad94569f3a99af526db6d539db838",
+                    "quantity": 33
+                },
+                {
+                    "id": "84d38e2d-4780-3b8f-95ba-9c4d76058db4",
+                    "hash": "ad0ceb4913f92ceeb43d1d7c53533876dad05e37",
+                    "quantity": 37
+                },
+                {
+                    "id": "ea27f4e8-180a-3cf3-bc64-d9a77835bf1f",
+                    "hash": "829730690c0228d622b17b5ac4af574904439391",
+                    "quantity": -20
+                },
+                {
+                    "id": "27e72f93-5034-3385-a451-8c133738417e",
+                    "hash": "d572c4dbfc69a6716e1dfc7cbdbee00dc9794b49",
+                    "quantity": 97
+                },
+                {
+                    "id": "14608be5-467e-394f-a8cd-64cf3d429dab",
+                    "hash": "f716559b24ab54f0b83f6354c5e3622e6a355b6b",
+                    "quantity": 28
+                },
+                {
+                    "id": "6745c104-cd8b-3299-8794-31f883b4b070",
+                    "hash": "e695daf9ceb951a94771a253afe8216de27fbf09",
+                    "quantity": 27
+                },
+                {
+                    "id": "9bbb3e71-e40d-354c-acae-daa737414f17",
+                    "hash": "2553f5e684ee298e57c4e2f7c5353fe58250d06f",
+                    "quantity": 45
+                },
+                {
+                    "id": "f65835e2-f30a-3217-bbf5-4158a45b2017",
+                    "hash": "1079ec9849f1309ee8fc9ac3a8164fdd6c806429",
+                    "quantity": 72
+                },
+                {
+                    "id": "1f85bd67-2d57-38d1-9a0f-d8f1b2519476",
+                    "hash": "d80039a01477272c4547392e8427b72e86a6527b",
+                    "quantity": 53
+                },
+                {
+                    "id": "2d9ada53-d218-3864-9497-7ddcf1ca0798",
+                    "hash": "3f1c1de76f7092222570a91a3afbe150240bde43",
+                    "quantity": -89
+                },
+                {
+                    "id": "c782af69-7f92-387a-85ae-f9f484c4c8f7",
+                    "hash": "47501663ccd2cb3b44429d3e111650c63d553fb0",
+                    "quantity": -97
+                },
+                {
+                    "id": "2769c8c6-ce98-311a-9753-aa173cf91639",
+                    "hash": "41767adeb353dd0da2f78cd447e2a40b2076e73a",
+                    "quantity": 9
+                },
+                {
+                    "id": "262a4bb6-d9b2-308e-baf9-ef980278f4ce",
+                    "hash": "1bfb5e1fdbe9c57c53320a187b5e2521518f8fe6",
+                    "quantity": -36
+                },
+                {
+                    "id": "2ad31ba4-e1d1-3636-aee7-e936b0e8dbcc",
+                    "hash": "0942c9a95f5f1e5a9fcf38f338b5ee2f358275ae",
+                    "quantity": -23
+                },
+                {
+                    "id": "0da4ca4f-b8e2-3606-80d7-4243906ccf01",
+                    "hash": "70baf28d0405ae7e5a2cee1f92a4187d9ac1990b",
+                    "quantity": 15
+                },
+                {
+                    "id": "5c2d8725-3cfd-36e8-be21-534a62605a3f",
+                    "hash": "6974646c5e17a1c80d5495efa40d239bbd7b8baf",
+                    "quantity": -4
+                },
+                {
+                    "id": "da927876-aa69-3962-bf2a-4f8e2219730f",
+                    "hash": "aa422772c0683f1b43f6c4f35fc217e12445271a",
+                    "quantity": -54
+                },
+                {
+                    "id": "6e9d6b6c-b385-3fe0-a99c-b54802ac409a",
+                    "hash": "e9a6eb77c9af93d980be853e67a02a2c2952a904",
+                    "quantity": 58
+                },
+                {
+                    "id": "9a949110-4318-3e17-a901-047d42f1b8eb",
+                    "hash": "78e713b3dfd4604bbe472673f015ecccb2c4d7b7",
+                    "quantity": -69
+                },
+                {
+                    "id": "efff2e47-4d49-3ca3-92fd-b9950688c34c",
+                    "hash": "3780197d4bf654b3144e0cf598527876d772756b",
+                    "quantity": -58
+                },
+                {
+                    "id": "9699df88-2a40-3170-b496-37c0163fa570",
+                    "hash": "40ed740ad2ae04230db5d5291ef9f1d261c301b4",
+                    "quantity": 0
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "ER",
+            "categories": [
+                "655787e8-28ae-3637-9d8e-d5eba0a79bd0"
+            ],
+            "amazon_categories": [
+                "100b2518-f355-31be-ab43-d5b8d44cd914",
+                "585f3e29-6119-360e-a789-6e9778f912e6"
+            ],
+            "tb_categories": [
+                "60b9e806-1b1d-3def-bdf7-e80557585af3",
+                "3950b5a9-2551-3a74-928f-688578842a96",
+                "6c53dc99-53a7-33b2-bb64-58cf183d70ce",
+                "1ed9a6cc-05a5-3ad4-9320-1ad30c26e811",
+                "ede74864-4e78-39ee-8ce6-c0d929817b75",
+                "181c737f-927a-38eb-95cd-e82ee37b5596",
+                "6cbaed8a-871e-3326-8812-83b0fb6c2b41",
+                "651d24b8-846b-3883-ba1d-8b39414de92d",
+                "d8b18d7e-86f0-3605-b4b2-f7bf44153bf0",
+                "6d8b1719-8910-3769-8a52-71c6190418a5",
+                "a4ef474c-823b-353a-bddf-f8c2ec7f002b",
+                "a5bf7bfb-72b1-3c3c-886a-8fc25e985aea",
+                "7e0bf1b5-0c51-37af-ac4f-77048534c29e",
+                "1841becc-96ce-3eb8-a163-6b4fc7b41657",
+                "8051b1bf-ba71-3409-8030-625ca66be38c"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 561,
+            "title": "Madalyn T-Shirt / 2XL",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "active",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": null,
+            "barcode": "5529367646553",
+            "tags": "focus",
+            "price": "92.53",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "1136ab0f-a4ad-35ec-8bc2-eb53ecad23b1",
+                    "type": "size",
+                    "value": "2XL"
+                },
+                {
+                    "id": "5418cede-839b-3f44-a957-d0583f5e09f8",
+                    "type": "materials",
+                    "value": [
+                        "Metal"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "831",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "99f6a8e3-f4b8-3b5f-9ed5-ad87892318eb",
+                    "hash": "fb598d1994dc52a1413778af42276a7a9e35d390",
+                    "quantity": 70
+                },
+                {
+                    "id": "305328d4-76c0-3868-b758-bfb7ee61b66c",
+                    "hash": "bcfb6d0ff77d58646bc5534c75bca814075b3678",
+                    "quantity": -7
+                },
+                {
+                    "id": "df0e5ccc-14a9-3840-9d80-f684a6fca7cc",
+                    "hash": "86c7a195ff85fc47aa5261fd72130e30e1c25e59",
+                    "quantity": -11
+                },
+                {
+                    "id": "cdaf64b6-38ba-395e-9cad-fa962242a42e",
+                    "hash": "60073fee53803e65a69d34473b9d3a866e855179",
+                    "quantity": 52
+                },
+                {
+                    "id": "313c576e-e623-3405-8429-f44f09971bb3",
+                    "hash": "567363d212598c2ea92fd283235d1e44d02b927c",
+                    "quantity": 15
+                },
+                {
+                    "id": "e7f63b26-5560-3999-a672-681412c17369",
+                    "hash": "15496cf455f9ff4dcf5811b280462e02b1d14370",
+                    "quantity": 74
+                },
+                {
+                    "id": "68976e4e-8572-3a34-840e-e3b0454f7a0b",
+                    "hash": "049f2dd80ba20815946d7bc03b6bee4db7fa69c3",
+                    "quantity": 17
+                },
+                {
+                    "id": "20b007cd-f5bf-369f-a2e6-6ad7057c2f90",
+                    "hash": "830da996bf4c005395768b870bd05270345c9048",
+                    "quantity": 9
+                },
+                {
+                    "id": "31abe7c7-1e8f-351c-bbb6-911e70ce048c",
+                    "hash": "6e0659109faa7510d20e05b62d02f74eb676ea39",
+                    "quantity": -25
+                },
+                {
+                    "id": "c045f956-f19d-37d6-81b3-6a52346b2471",
+                    "hash": "6611a3248ed020ce065544982ab2169a1a09d985",
+                    "quantity": 26
+                },
+                {
+                    "id": "18f741cd-c6b0-341f-999b-cc4a969f9577",
+                    "hash": "00b77aa1f45396894e2023fec76b7ee2a084cd23",
+                    "quantity": 65
+                },
+                {
+                    "id": "6f521e5d-3f03-3204-aee1-59f36fcf9ff3",
+                    "hash": "7842f2f3bedb2eb57d3a818f2fd0cd49fdcf0b86",
+                    "quantity": -95
+                },
+                {
+                    "id": "958c4308-402f-3da7-a6ab-346681a495b9",
+                    "hash": "9b2e358e9476d8dc244a2afe22594fbb38ee85a1",
+                    "quantity": -2
+                },
+                {
+                    "id": "f6012b19-3eb6-35e0-9af2-dba2c1016304",
+                    "hash": "2e5c90d61130cb15a0714774d2f204160465c652",
+                    "quantity": 34
+                },
+                {
+                    "id": "771f8aa5-8904-343d-9d7f-e1412d9bacf0",
+                    "hash": "39bded29e6ece262627f960b7f93f5097614770d",
+                    "quantity": -18
+                },
+                {
+                    "id": "1f490d68-bbfd-3da8-89a4-7ef3fbd876eb",
+                    "hash": "66b5bfe768b71b5bc6f6c9d5bca3bc39049ebb68",
+                    "quantity": 26
+                },
+                {
+                    "id": "d394c224-dafd-33c6-8b58-b5e329e1dafd",
+                    "hash": "0734ee6fff793c8306ae9fd2cb0a3f75a992b616",
+                    "quantity": 94
+                },
+                {
+                    "id": "5a204867-b482-31e7-b47d-5465e405fc60",
+                    "hash": "9e1609a1a0a7dfbecbd8ca0504021d15ec1b7286",
+                    "quantity": 59
+                },
+                {
+                    "id": "59736229-add3-3442-8410-fc884c994938",
+                    "hash": "04fd6f2999ccde3cda495b86915d6ce4a8390376",
+                    "quantity": -99
+                },
+                {
+                    "id": "4b322ea9-6f25-32ef-a905-99ee755c7dc2",
+                    "hash": "555104e035372800e3571c6b06f4b50b32da6f0f",
+                    "quantity": -1
+                },
+                {
+                    "id": "11857e87-b0b5-3ad2-8b43-633e411d22fc",
+                    "hash": "352976d166c4456d13313f74caed7784ddb50a6f",
+                    "quantity": -31
+                },
+                {
+                    "id": "b4112651-8a6e-3088-b5e5-bebb4e746ed5",
+                    "hash": "7fd0a09cd2936770b089b6e6f16ae31d81e51441",
+                    "quantity": -75
+                },
+                {
+                    "id": "da734674-ec59-34d5-8921-2debd543eb8d",
+                    "hash": "593489bb09e4bb61c11deac0df9951473162c8ed",
+                    "quantity": 97
+                },
+                {
+                    "id": "32d963fc-d8fd-34d2-8c06-878b459678c7",
+                    "hash": "03ced9d060b4b8add7e426324d18d23f89dbfaf5",
+                    "quantity": -15
+                },
+                {
+                    "id": "9c0cc9a1-b540-34ef-8540-41f8c5cb0665",
+                    "hash": "77e4d0490bcfcfed359d9b7328b2b18842c965d7",
+                    "quantity": -83
+                },
+                {
+                    "id": "cc961842-b817-358e-b2d0-2c6f0b3d9746",
+                    "hash": "1f0d042432fb75f666e4d9c8b83c48199aa43e41",
+                    "quantity": -44
+                },
+                {
+                    "id": "9ba6779e-792a-381e-9c46-c49f8c8ef61b",
+                    "hash": "6be67496e8442b930c98dc35eab3d4ff67f0b86f",
+                    "quantity": -7
+                },
+                {
+                    "id": "a0c75212-80a8-3685-ad94-4a2707d414c6",
+                    "hash": "a3e4156e51e5b6fa8180d840895484468cbd44f3",
+                    "quantity": -28
+                },
+                {
+                    "id": "138972b0-a486-3727-a29c-e13d1444ee0b",
+                    "hash": "b81b271de95bc8212e4a6c8ae9f6b0f2f99887d0",
+                    "quantity": -82
+                },
+                {
+                    "id": "852525ce-1cd6-3898-9402-eef69ecba082",
+                    "hash": "8e3f4e9887aaaeae070d0fff88867ed64983d9d9",
+                    "quantity": -96
+                },
+                {
+                    "id": "85b91354-a578-3f8f-8770-f31456225707",
+                    "hash": "2c6ffd9dff3cd5127810acc5602ae125018fbf1d",
+                    "quantity": 91
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "SO",
+            "categories": [
+                "6031acd9-a7be-3af0-a29a-b789bd7a4f81"
+            ],
+            "amazon_categories": [
+                "957aa591-379a-387b-8c25-8bcfd9d46e00",
+                "058dd81a-c394-34b4-93f8-53d54f218d0d",
+                "10f097e1-6266-3466-a88d-7f62ed3c7d9f",
+                "7f07a299-a468-361d-aa5b-f6c9dfb437f0",
+                "51ed24cb-5f66-3582-b9c6-5a36fa554d50",
+                "b7e3dd3c-0505-3c60-b879-5857e0d9a08f",
+                "be251f57-9701-3916-9942-ec180d949b16",
+                "744c03d3-5c76-328a-b6b8-25033d6e8e41",
+                "a23af72b-c914-35db-b1d9-968ad6504f26",
+                "a4f4dfba-d800-3e4a-bbf5-3684bcf3aacc",
+                "7a46538f-7b8d-3b53-8215-9a012a336c9c",
+                "fa16efb3-7cc6-36b8-87a7-8c153fcdafe2"
+            ],
+            "tb_categories": [
+                "97af493c-7da5-3b67-9265-b1a336c23d14",
+                "ab626c83-3b61-38ca-8735-b728e30a4221",
+                "e97d8f37-4653-35dc-a6ea-f7ff42170cdc",
+                "ff26db08-a974-3bb3-a43e-0d0c2b7ba968",
+                "8814182a-eaa6-3e8a-8213-dfb7decd8127",
+                "f794b77a-963b-30a8-a918-1d06ab1f8029",
+                "5b8e9ca8-5d4d-3602-9de9-01a92fe255e3",
+                "3513cb7a-5243-3e87-beb6-cbfcc74aaa8a",
+                "912ce7c7-f346-3eb1-991d-cb526fdf310d",
+                "e2a94ace-1093-3900-ab44-f1b05b8d2092",
+                "cb326ad8-348f-327b-9210-f0d34c4bca44",
+                "097b28d7-91e6-3cb1-9448-bb263c365bcd",
+                "01d259da-c256-37fc-a4ce-227414cc7ff7",
+                "0c6650d2-55f3-39e2-af90-137802651ac9",
+                "328df9b3-2847-3afa-85e9-cc4eeb23c59f",
+                "99c38261-e774-358f-9359-376f3f815431"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 560,
+            "title": "Madalyn T-Shirt / XL",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "active",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-XL",
+            "barcode": "7235644675403",
+            "tags": "sale,new,wip,summer,eol",
+            "price": "10.76",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "ba6b4381-7d47-382c-8fb5-1e556c83fda3",
+                    "type": "size",
+                    "value": "XL"
+                },
+                {
+                    "id": "65513434-9557-39c6-9295-566e2f38c0c0",
+                    "type": "materials",
+                    "value": [
+                        "Metal"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "2037",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "51b573f7-0a96-304e-82b7-0b7623ec5758",
+                    "hash": "774a8e41cc8e1437ad0ca90a754b608c1add2b1a",
+                    "quantity": 89
+                },
+                {
+                    "id": "42d573e1-0861-3d22-9899-cfc846b141ae",
+                    "hash": "4b04c88c4ff0df339f8b3823ce5dc9a0c856a9c4",
+                    "quantity": 83
+                },
+                {
+                    "id": "10e5391f-3fdc-306a-8e7a-c6835b94973d",
+                    "hash": "8aecfe5581be59103b75e7234974b37849baa056",
+                    "quantity": 79
+                },
+                {
+                    "id": "d8cc4534-7f7a-31f1-bfdc-71879c00663e",
+                    "hash": "6c10d783240dedfb6f4c06bf64cd56d400d2170c",
+                    "quantity": -96
+                },
+                {
+                    "id": "974030e4-3628-3b02-b32a-215dee4c77a7",
+                    "hash": "6dbf760f9eb138b712452ee22be526513cf1b39f",
+                    "quantity": -20
+                },
+                {
+                    "id": "68f44aa5-72f9-3864-b9e3-6f24eb20fc95",
+                    "hash": "95abd82f7b16ab3b22aa239e6a87d184bf03ba76",
+                    "quantity": -81
+                },
+                {
+                    "id": "8e9ddc00-ba92-3b11-9395-c6bcdefa547b",
+                    "hash": "8885b85ada988aedbdcb4f466638e74771727e67",
+                    "quantity": -79
+                },
+                {
+                    "id": "aa5a48a5-52ad-35a6-8837-e8eefe97ea61",
+                    "hash": "fe5150db9b00ef8b9bdc94c035790b63795d7a21",
+                    "quantity": 7
+                },
+                {
+                    "id": "477a53f4-5b4a-3c67-8ca2-222072b3c51f",
+                    "hash": "acdb7d5c6688b13a5891163dc3261dd90bc09022",
+                    "quantity": 6
+                },
+                {
+                    "id": "a4d956a8-48b7-3864-b953-605cf957ea5c",
+                    "hash": "74936e5d2d419aedaf5a598384e5b56a1cf43e96",
+                    "quantity": -33
+                },
+                {
+                    "id": "ba035830-3cdb-38b2-8811-51b2e5cb6be6",
+                    "hash": "d3c7de102f38504e6792a27e0cb1bb88dd964348",
+                    "quantity": -85
+                },
+                {
+                    "id": "27738b57-0aac-36d6-ac13-c6b13ffffc3e",
+                    "hash": "eb957df75e2068343e95e6dbdff6abf287511b3a",
+                    "quantity": -93
+                },
+                {
+                    "id": "69f26ec9-d3be-398f-8875-46b687902057",
+                    "hash": "40da2c01c3a3c031362bc9fc698962c7c0472b68",
+                    "quantity": 31
+                },
+                {
+                    "id": "04b1e008-93e5-323a-a4c8-18496be70cf3",
+                    "hash": "ddd43a90e0ab7c7f4d87affdaef7b1c4afdc26e7",
+                    "quantity": -62
+                },
+                {
+                    "id": "82f929c7-29bc-3a20-8073-db4a2570a834",
+                    "hash": "e88b3a34586dc4d13c3e0bccdce45567437f8f0c",
+                    "quantity": -28
+                },
+                {
+                    "id": "5f445356-2bab-3f7e-91ff-96d2a01e7a8a",
+                    "hash": "1e84c5b05076f933c25ff9e0afa2d2923ff7ee81",
+                    "quantity": -13
+                },
+                {
+                    "id": "c26e2e15-c6bb-3722-91f6-358121a2c4fe",
+                    "hash": "b41882ecc6430f87d27f561e528344cd20ab4fdd",
+                    "quantity": -1
+                },
+                {
+                    "id": "1e27a5a0-18dc-394c-9a61-1c947839b07f",
+                    "hash": "081126fab04f9c2baa10ed3d3706480f388be63b",
+                    "quantity": 50
+                },
+                {
+                    "id": "ec324c29-628a-3d6d-8e2d-4a0a3cda2a14",
+                    "hash": "faf515dff2984c28ab4e2e5e988c7009af0ffb1f",
+                    "quantity": 6
+                },
+                {
+                    "id": "dddc1eb8-4368-39b8-b7e8-a915406d2bf2",
+                    "hash": "15321592af5ed79f9fd56007be395285cddb1cab",
+                    "quantity": -14
+                },
+                {
+                    "id": "16e9a6f8-fdfd-38dd-9c07-43edb3fee949",
+                    "hash": "57df6b940cb5b436f1ff9c00fefb410ddb6357b2",
+                    "quantity": 12
+                },
+                {
+                    "id": "649b01af-15d9-32e7-b088-c3198661962f",
+                    "hash": "adf95b47df5bf7c3b892edbee274caf32b9cdd14",
+                    "quantity": -14
+                },
+                {
+                    "id": "45189044-25f5-342b-af74-ae2d758686e6",
+                    "hash": "1dd7bbebe5ef65fd2d87ab21d69c32a8de692d3e",
+                    "quantity": 25
+                },
+                {
+                    "id": "f10d30fe-8ea8-3ce7-aeac-98cd54044eb5",
+                    "hash": "4f62cc0a14a565b4fefac848bce1677eb87a3077",
+                    "quantity": -42
+                },
+                {
+                    "id": "84b969d2-5d82-32ee-b047-3a7521544786",
+                    "hash": "3be16a8cad4721b748e7e21305562d4dbbc221e4",
+                    "quantity": -20
+                },
+                {
+                    "id": "66c88ecb-9cc2-3fa6-a0eb-a3679747d397",
+                    "hash": "4b440bf000d64cd69b78d03bfeefc31fb60744a9",
+                    "quantity": 87
+                },
+                {
+                    "id": "65c4b571-b532-3e56-97ba-dbae94e51495",
+                    "hash": "70b7c83c47a4d2b056a374ccd6e399a9cab31be6",
+                    "quantity": 29
+                },
+                {
+                    "id": "596801c1-c189-3c88-90e8-59a52041f00b",
+                    "hash": "a614b7849a5794fcbdb4021c6cb000a466b1c957",
+                    "quantity": -6
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "CL",
+            "categories": [
+                "4cf656a1-945c-32f8-9861-3b1ab84a9c13"
+            ],
+            "amazon_categories": [
+                "16353c65-284c-3c30-a11d-b277a4851767",
+                "d77df633-df2e-3ece-a44a-8d2fee04a8bf",
+                "741c017c-357f-3b8d-815f-b217dd615d92",
+                "70dd530f-e0f1-38c6-a3f5-8434f9564e97",
+                "d619f68d-c8fb-372b-be7d-f18d614712fc",
+                "53d5cd14-5d83-33ec-87aa-cac571c41363",
+                "4b8611b9-c685-312a-a820-edc4266284bc",
+                "3461aaeb-fefe-3936-b3b5-bf7497870d82",
+                "34c97b6a-8151-34af-9da2-3488cd584508"
+            ],
+            "tb_categories": [
+                "c14bf626-1af6-3f24-a152-a658320e4555",
+                "8babdef2-51b3-3c79-bc70-f7625a99da0f",
+                "bc9bd9b2-9049-3690-9b11-4221b80f409c",
+                "5d6b2f9f-dd51-327b-aead-274c31c05e28"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 559,
+            "title": "Madalyn T-Shirt / M",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "draft",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-M",
+            "barcode": "8749265886371",
+            "tags": "wip,summer",
+            "price": "7.97",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "f33dc13a-f5f3-3a27-9731-c3b9897d33fc",
+                    "type": "size",
+                    "value": "M"
+                },
+                {
+                    "id": "1edc3a74-fe85-3c7a-8f3f-f6d4167dadee",
+                    "type": "materials",
+                    "value": [
+                        "Plastic"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "1510",
+            "weight_unit": "g",
+            "inventory_log": [],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "BQ",
+            "categories": [
+                "473e06e2-89cd-3a29-ad31-b41c134802eb"
+            ],
+            "amazon_categories": [
+                "ffb2dedd-ffd5-3908-ab71-fda1b984453d",
+                "45c58906-2b65-3bce-8686-34902a23b6a9",
+                "e8afb4dd-72cd-3a29-9ba2-b5d24900eaa4",
+                "338601cd-dd77-3d55-a2ea-e43801b23d48",
+                "8ff91706-0a7a-3772-8375-c9b6435a03ba",
+                "98375e12-84e3-395b-b2af-3f2e74414c35",
+                "b1db8e7c-c1eb-3b5a-977c-32e92da8cc28",
+                "035d9448-9c3e-30db-af68-51da7bb99388",
+                "9fab080e-cc02-36fa-b575-838bfb68f31d",
+                "26757952-90da-3fc5-a0c9-3069aa6b0ba6",
+                "fe4257a3-0983-3cf5-9d35-1eeb12d8dd96",
+                "5f6371ce-9d52-3c51-bf8c-36625c1e9d59",
+                "147f384b-7728-377b-b96a-f0863b62ece9",
+                "d227f690-56cd-3d84-a3cb-57e5be749c91",
+                "58b288fa-f38f-31df-a48e-ecef1b2c1c34"
+            ],
+            "tb_categories": [
+                "1c1cdf7e-0854-3c6c-b798-dbb11c74529f",
+                "a5bead5c-b00d-3144-8c9f-e13d93748362",
+                "ccb4c4dc-2002-3107-be4a-345e94854544",
+                "d6428bf9-b254-3bfd-bbf3-a2b78b7c4d2d",
+                "a6ff9597-954a-37eb-8834-b00a358488e9",
+                "e8eacf19-7a72-3727-8444-9c38140fec71",
+                "9f7bba00-93c4-3a7e-9ddb-d848d80bb583",
+                "c91e90e1-e58f-33a2-be59-02b1e8498ee9",
+                "7c084ede-643c-311d-867d-c13e2378a732",
+                "c53eb44d-e02d-3ec6-9f37-ea125a8c6398",
+                "5890bbce-fc2c-3723-a7ce-0ecaa1f3c6f3",
+                "b95254bc-bac0-390c-83b8-a4ab267ccc20",
+                "ee304916-ec31-384c-9ff4-091082b8bb41",
+                "11504473-d9dc-322f-b2bc-21fa35ea460a",
+                "d90f94d3-f75c-3fe3-a275-0c27608e9cd8"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 558,
+            "title": "Madalyn T-Shirt / M",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "active",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-M",
+            "barcode": "9080267352969",
+            "tags": "front-page,a,new,b,eol,summer,pre-order,focus,sale",
+            "price": "50.63",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "3ea62d61-2ed9-3fea-b396-b95cf8f09d93",
+                    "type": "size",
+                    "value": "M"
+                },
+                {
+                    "id": "6508b2ea-da48-3f26-bb0b-f1527e2383f6",
+                    "type": "materials",
+                    "value": [
+                        "Granite"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "3326",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "05d4c472-8135-3b9e-b6ae-f4a82fdbf675",
+                    "hash": "c6e284d061a9ab6a0ecc333fc8e8bc6b9fa094b5",
+                    "quantity": 98
+                },
+                {
+                    "id": "10750f42-ecae-3468-bad3-1690c8bb7e5e",
+                    "hash": "67c38f904cef0003fecedd3c73e06111bad8d503",
+                    "quantity": -61
+                },
+                {
+                    "id": "3acd1c18-2950-342b-a36f-0bdb39af9205",
+                    "hash": "2e699b628badde0b28375d57d75540822d21da6d",
+                    "quantity": 73
+                },
+                {
+                    "id": "fc812e44-4715-363d-bc80-3f590c0de481",
+                    "hash": "300bdc1edfcab4712f8f18aef939f080cf5f724f",
+                    "quantity": 22
+                },
+                {
+                    "id": "75ead3af-27a3-391d-a7dd-12cef54e0013",
+                    "hash": "792949320928226ea887d01a4dbad53996e30a5b",
+                    "quantity": 58
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "ME",
+            "categories": [
+                "d268c6e4-84f4-30c5-bb0b-9ccfef961eac",
+                "b3561815-8ee9-36fa-9841-12c0d6342a1f",
+                "c82c4292-c80d-3fe6-b663-4c4a1c31a294"
+            ],
+            "amazon_categories": [
+                "6b632373-c9bf-3f95-b5fe-f3ef38036084"
+            ],
+            "tb_categories": [
+                "6e81f10d-8f52-3da6-b92e-0a32125d81f2",
+                "82e7bd4f-ce4c-3c1e-88bb-b6ec6f286718",
+                "c78b6d94-4834-3bb8-8346-d14b0407b7d7",
+                "2fd828a1-9388-3ba7-8195-025f706a77e9",
+                "1f6e91c9-7472-370e-b1ab-83e2703673af",
+                "24973ed4-7346-3e83-ab11-81f1dd7743eb"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 557,
+            "title": "Madalyn T-Shirt / S",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "active",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-S",
+            "barcode": "9636848341305",
+            "tags": "a,b,eol,pre-order,new,focus,front-page,sale",
+            "price": "37.07",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "dbf0cf86-00b1-32bb-bc13-5dbfb3fdaf5c",
+                    "type": "size",
+                    "value": "S"
+                },
+                {
+                    "id": "3709fe6b-9469-3080-abc4-55c669d94a77",
+                    "type": "materials",
+                    "value": [
+                        "Granite"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "975",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "7b0265a6-f23f-3c92-a2b1-023b7bab9219",
+                    "hash": "b576e10f23993b1b370776306c8c1b3ab9490d05",
+                    "quantity": 14
+                },
+                {
+                    "id": "91b97592-94cf-3c13-bc7b-32d1752f496b",
+                    "hash": "fe28e51c8b5d42934f23700117ce85db6a90948e",
+                    "quantity": -41
+                },
+                {
+                    "id": "9bcf8b6d-2522-3f98-8aa2-ff6cdd40ffdd",
+                    "hash": "9a4bfccc218a5b4510ba4b138d4527bf6445b8f9",
+                    "quantity": -21
+                },
+                {
+                    "id": "858e2a50-f1ba-3dbb-9644-5aa63edae8ad",
+                    "hash": "b69a0e96e63f52fb491bb9d21c44b23dd884e50e",
+                    "quantity": -6
+                },
+                {
+                    "id": "1c30af28-8a74-3cb7-8e02-8c1e337d292d",
+                    "hash": "291eede17cb60199c07e6d90f8852a1ab8f44739",
+                    "quantity": 92
+                },
+                {
+                    "id": "46a0378a-2ab8-3e65-9191-b02f785a8e5f",
+                    "hash": "4cce3cf99b6fc6a33fd112ac30f98b1d73670bd7",
+                    "quantity": -94
+                },
+                {
+                    "id": "2989e7a5-fbdb-337b-bda9-e08f241d2952",
+                    "hash": "1f16ac82ca3d91ae5ce23f3e54c8f30063537b82",
+                    "quantity": -53
+                },
+                {
+                    "id": "b7ac773b-92c2-32b2-ad28-bf4bede7e93e",
+                    "hash": "1c2bdc3d20bf6ac411431fac2fa97d48d35210a7",
+                    "quantity": -47
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "PF",
+            "categories": [
+                "976f7398-5456-31a9-85bf-f610412b8ecd",
+                "85535f40-1c16-3221-a0bc-0fc2fa40ffd2",
+                "f0ac2561-214e-3206-a4eb-2732e01a38d5",
+                "4ea507be-6f2a-3ac4-b497-f8c164372e2d",
+                "103ca2c4-153e-3644-a548-aafb04d34493",
+                "5377121b-86ab-3978-b030-4f89b75cd6b3",
+                "2e9831d5-dc18-3652-a6ff-9b3df6537408"
+            ],
+            "amazon_categories": [
+                "667256cd-e5e3-3dd8-b844-17da1cc3ae0d",
+                "92da312f-1f7c-3d59-a1d0-888f28aa4895",
+                "3ba785f7-3a55-3f40-ac8a-c87313db5e0e",
+                "a3c90d88-cca7-3bb8-b359-4307421724f9",
+                "057b1e4b-eeb3-3586-b773-abf7123cecb9",
+                "5d805b1f-3df5-3580-8b67-af357a3f940e",
+                "6cccbd8f-586f-3848-9641-e55b2d9e81de",
+                "eb5032c6-6a2f-3219-abff-3a08a4fea887",
+                "f9d1c2fd-6876-3546-aa67-f43467c49690",
+                "1ad72864-57c3-397c-b067-c8f7ba7e9bd1",
+                "252db885-5755-3ca8-9e62-646aaffb44f4"
+            ],
+            "tb_categories": [
+                "4bea6994-bf8e-304a-8fb6-075b6309d162",
+                "32e053ca-14be-3b84-9b51-e595a2e8d56d",
+                "49a1b1ef-e189-3986-8368-9bb3e338c725",
+                "02da6751-1d0c-37a2-86ba-96cbbaeed14b",
+                "4d0d0354-44a9-30b8-86f8-1acf010b31ac",
+                "2bce1cbd-0ba4-3682-8775-6e171b8d67d8",
+                "1097c21a-02ce-3d4c-a0e7-bd200520a59b",
+                "17217f39-2ced-3722-9ac7-aeedc62b02a1",
+                "352dabea-129b-3cf1-bb2a-a75cbca40030",
+                "bd5759b0-f01f-34be-9b7e-70dfbcabcce7",
+                "1a3d7950-c49d-3a58-9657-859c71035c3a",
+                "fe730afa-da50-3282-9b47-563faecd3ede",
+                "8efd2b30-a251-31c7-a5f4-b4858c7064c5",
+                "f179257f-2671-3631-9b5a-5cd11cbb9aea",
+                "157e4d16-b1d7-331b-8217-76689ab65c19"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 556,
+            "title": "Madalyn T-Shirt / XS",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "archived",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-XS",
+            "barcode": "3297744435626",
+            "tags": "wip,sale,new",
+            "price": "26.3",
+            "compare_at_price": "34.30",
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "477b2cc3-8feb-3361-8562-c5da1c1df1c2",
+                    "type": "size",
+                    "value": "XS"
+                },
+                {
+                    "id": "e942cfeb-a6ab-3421-8815-2935d52a236c",
+                    "type": "materials",
+                    "value": [
+                        "Rubber"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "5368",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "180a598a-a66f-318e-9bae-2bc27a24b1d2",
+                    "hash": "d38e3aecda63278dd5cb0a303b3adf8c120207d2",
+                    "quantity": 76
+                },
+                {
+                    "id": "616bbf72-6323-33d4-a9af-4ff13c8b62f1",
+                    "hash": "9e24e8acaddb389e1724b8410af45e63ffd48b97",
+                    "quantity": 46
+                },
+                {
+                    "id": "0fdddc35-c3f8-3019-9085-18838b07611a",
+                    "hash": "b1acc8b667ffec417cd7eb32166ff7acc2d66439",
+                    "quantity": -61
+                },
+                {
+                    "id": "1eb0e997-d8e3-37e2-99be-b6e44ec1882f",
+                    "hash": "844937ec74da3a4a13e4d72c293998e2ef6f1d81",
+                    "quantity": -3
+                },
+                {
+                    "id": "3f952da9-21a0-3d6a-a47c-dd538aa263af",
+                    "hash": "32fcd60897b2b2943061c191ec1248963b85bf74",
+                    "quantity": -30
+                },
+                {
+                    "id": "cda6f446-28e7-31ee-bdb3-aeaab81675d2",
+                    "hash": "837ed084cc0858fbabd453c989bfcc73380e4a05",
+                    "quantity": -26
+                },
+                {
+                    "id": "d6f22ff5-4221-345e-ae14-cebc60eeb391",
+                    "hash": "88db81a9f5ad56f9a702641ef199e24616ed3c2d",
+                    "quantity": -17
+                },
+                {
+                    "id": "7f2dcb86-6f88-3842-ace3-8c5c94e20562",
+                    "hash": "6b772f48fa2eae646e7d5735b790847dbb5cf4fb",
+                    "quantity": 8
+                },
+                {
+                    "id": "931445b3-f178-37ac-9a30-c16144fcc535",
+                    "hash": "724a0eaef7a28aea6cb483590e1b98a2185ffe56",
+                    "quantity": 16
+                },
+                {
+                    "id": "9b8ef4e7-3515-3f37-a1cf-3d11e888486b",
+                    "hash": "e9665e06d69882fc3e58e068598aac4cf711b141",
+                    "quantity": 9
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "GR",
+            "categories": [
+                "06e0cc3d-f039-375d-b3bb-e4fdeee24513",
+                "d93913d0-a6ac-3e08-868f-c7afb2ad57a5",
+                "2f404d63-4e13-39a9-8c94-3f15782e4be7",
+                "4f3d87e8-5a75-36e4-9e52-f3578bfc7403",
+                "b0eaf73a-d3b5-35a9-8ec9-0263e258fd3b"
+            ],
+            "amazon_categories": [
+                "e4e74656-06b2-39e5-a6df-3af89af70f11",
+                "f14278f8-4ea5-37e3-82c6-06fb5a43c0a5",
+                "c76adbe9-0131-30cd-b065-583a8f50a874",
+                "632d0e48-269c-3b21-8011-fd3993bc4f03",
+                "fd2e202e-e1b8-3d27-97d1-ebaf66073d35",
+                "bf1b20f9-11aa-3a5c-9ab5-126b80442dda",
+                "cc46ea5e-e1fd-3f7b-a84b-6765fd820e68",
+                "9456ac85-dce3-3cea-a776-9d7be0cdeb9a",
+                "8b125d99-6f15-3b33-ad76-74cd4049bbdf",
+                "a0b37055-678a-3af5-8db2-2b7bc2a86f39",
+                "fdd35587-c873-3488-b3dc-6689d6a154f3"
+            ],
+            "tb_categories": [
+                "fac2c1bd-21ab-3bf5-9c78-b747d2bd695e",
+                "fb761ba2-56f9-3c09-82f1-7951c1f6c394",
+                "f9a12ec8-9375-3b97-add9-1430528d7eca",
+                "7b06b986-844b-3bb5-92a4-ddefea5af9ba"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 555,
+            "title": "Dangelo T-Shirt / S",
+            "subtitle": "Sunt et ad.",
+            "status": "active",
+            "desc": "Molestiae corrupti quis eligendi velit sed qui. Est labore hic aut soluta quibusdam. Et exercitationem illo velit in porro dicta odit. Adipisci ullam in dolor et.",
+            "sku": "HBAM1559-S",
+            "barcode": "4638442195945",
+            "tags": "pre-order,new,a,wip,eol,focus",
+            "price": "36.34",
+            "compare_at_price": null,
+            "inventory_policy": "continue",
+            "attributes": [
+                {
+                    "id": "1aa188de-4e7e-35eb-992e-893927b47110",
+                    "type": "size",
+                    "value": "S"
+                },
+                {
+                    "id": "7b8c6c4f-5afb-31e6-94c6-12dd3a03bd38",
+                    "type": "materials",
+                    "value": [
+                        "Concrete"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "4286",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "663e36e7-626d-37c7-bd19-3f857961ead1",
+                    "hash": "b37b920a45d97f54c0f1aabab0cf79ee3663b0b5",
+                    "quantity": -4
+                },
+                {
+                    "id": "13c3976a-c591-330a-8e47-f59e5cf90346",
+                    "hash": "53425671969798f5dd63727b6ea1e2696e8fd33a",
+                    "quantity": 41
+                },
+                {
+                    "id": "1963393a-06d3-3645-80a9-82c0c5ddd0b1",
+                    "hash": "e98c041c4281030d1861015fd2d043c3ca77b038",
+                    "quantity": -85
+                },
+                {
+                    "id": "602e4501-19e7-395c-9120-3d50756701f9",
+                    "hash": "cbe7ae07ba279c57cb511661c86dacec6e858b1e",
+                    "quantity": 14
+                },
+                {
+                    "id": "661e3d6d-a07f-3474-b598-2093b4ebd0a4",
+                    "hash": "a0159ee671412930e37b9176defce3e119ebd713",
+                    "quantity": -94
+                },
+                {
+                    "id": "e53b88f9-458c-3c5b-af9a-fdd911b71f13",
+                    "hash": "47d619954a38973c26508d567da8e6696b62aa6a",
+                    "quantity": -45
+                }
+            ],
+            "parent_sku": "HBAM1559",
+            "parent_title": "Dangelo T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "ZW",
+            "categories": [
+                "74429d10-3f27-38ab-8a6e-932cd39c3ff5"
+            ],
+            "amazon_categories": [
+                "cf0f6dfe-05a1-3993-bb6e-418dd15d7f7a",
+                "9eefebaa-354e-3d08-9606-cd1c34805af0",
+                "70402f99-bd09-3818-8476-4fe9f55e33c4",
+                "223ef8b2-b6e2-3f53-a4d7-68bacd38737d",
+                "4c70c318-fd13-3bb0-b113-792c0d58cb99",
+                "f8ba7a94-5b98-3e67-9518-a619fffa7939"
+            ],
+            "tb_categories": [
+                "339c1d74-f852-355f-9471-21d1dee27754",
+                "8aa759a9-5f8e-31ab-9438-8566e4cb9784",
+                "6a57b4f9-297f-31c0-85e3-68a85749609c",
+                "577ec001-b89f-36b2-9f12-92c22106721b",
+                "7f95ad40-2c24-31f7-bff9-a962bdbbd8e1",
+                "a0f206d6-00ff-31cc-94c3-006a3b48114f",
+                "64380509-1449-3008-92f3-3e5d86612722",
+                "81d14cd8-3f33-3724-a22e-40b70681bce1",
+                "e4910fb9-9a67-3ff7-a2fb-a95e2003b9fa",
+                "0277aa68-2e12-3452-bfd1-fcb67e29c261",
+                "b1dbb050-8ba7-3abe-87ef-e25d52f474ee",
+                "2c980790-96f8-3d37-80a9-721be2578525",
+                "703bd83a-14fd-31d0-8569-7a56c785e8c7"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 554,
+            "title": "Dangelo T-Shirt / XS",
+            "subtitle": "Sunt et ad.",
+            "status": "active",
+            "desc": "Molestiae corrupti quis eligendi velit sed qui. Est labore hic aut soluta quibusdam. Et exercitationem illo velit in porro dicta odit. Adipisci ullam in dolor et.",
+            "sku": "HBAM1559-XS",
+            "barcode": "6282421044816",
+            "tags": "front-page,focus,pre-order,b,summer,sale,new",
+            "price": "11.39",
+            "compare_at_price": null,
+            "inventory_policy": "continue",
+            "attributes": [
+                {
+                    "id": "9609c905-359d-3235-8e81-5adc387e8b54",
+                    "type": "size",
+                    "value": "XS"
+                },
+                {
+                    "id": "0c7187ed-94df-3ad5-ad7c-5a5d79101de7",
+                    "type": "materials",
+                    "value": [
+                        "Soft"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "6498",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "a135644e-ad41-3988-82ed-8870cd6e2e4d",
+                    "hash": "b28e27dfcdfbb5ffb42c0da2a0ef3824852b0a5c",
+                    "quantity": 70
+                },
+                {
+                    "id": "dcb3c7d1-62a7-3b77-accd-93fa6b71d157",
+                    "hash": "8258514a99e7547690a13c005f1b86bc33b80f5f",
+                    "quantity": -25
+                },
+                {
+                    "id": "2e9db5ab-e3ae-3218-984d-3ef6ef0936c9",
+                    "hash": "3baf11086b752af0d28b53eb11d78461b94ba526",
+                    "quantity": -37
+                },
+                {
+                    "id": "7d93dba2-2f64-38b6-8508-6e91b1cb6c31",
+                    "hash": "f8f9b9265f0790e25eeec02fe8c09e08ae1d6a5f",
+                    "quantity": -40
+                },
+                {
+                    "id": "3c8440ce-7add-3afb-90d0-3553c06a44e0",
+                    "hash": "e88b51d81101f8f217e4eadc28f48413b4532068",
+                    "quantity": -73
+                },
+                {
+                    "id": "347f46de-de29-3111-b9d1-514630ef44b2",
+                    "hash": "5a7600acae5799c1c33f335cdd567d7c79f8e474",
+                    "quantity": -18
+                },
+                {
+                    "id": "6e3eb91d-ee80-3b11-b331-7e6eb36a68a3",
+                    "hash": "c9b9c22e2cc7431890fca062d616d69f3330c768",
+                    "quantity": -99
+                },
+                {
+                    "id": "8611ca65-1f6d-3a9c-b435-356d52c9ede8",
+                    "hash": "ea7fcc85ab85a28f0e9602ab13ea3414151f4998",
+                    "quantity": 80
+                },
+                {
+                    "id": "20304a6f-ab0a-38ff-9a6a-77df273f8972",
+                    "hash": "33b26604d705bc319fe1a9f45634bc59ebb759a3",
+                    "quantity": -49
+                },
+                {
+                    "id": "2093c049-79bc-3353-bfef-06ba2c45ecc3",
+                    "hash": "3d795531fca2721a57d8ae4a438c3bcf14a8146c",
+                    "quantity": -50
+                },
+                {
+                    "id": "b6e06b15-d69f-327e-83fc-33e4c541cf27",
+                    "hash": "b0f45a996b5821d5e4259dd28f138278ceb68063",
+                    "quantity": 95
+                },
+                {
+                    "id": "0647e37a-272e-3170-91cf-56cdd313eeb3",
+                    "hash": "6314d48af9d80a7538e1675103b266dffe0f8616",
+                    "quantity": -53
+                },
+                {
+                    "id": "c9e9aaea-b85e-3dd8-be58-f2f89d535dea",
+                    "hash": "c92463f7d924f6dcc8f786b72baba53350387adf",
+                    "quantity": -93
+                },
+                {
+                    "id": "dba19081-ad65-3846-b619-22c80f4def38",
+                    "hash": "56a9cc4aff95826d9c349ae6ff7ed24974155cd9",
+                    "quantity": -69
+                },
+                {
+                    "id": "27b61ff7-a60a-3375-b7ff-9bf4a4aa7b59",
+                    "hash": "826a4e03e866335d9d2bb01970de7ce315df0b47",
+                    "quantity": -18
+                },
+                {
+                    "id": "3df7486c-2a20-3992-aa55-1e9c39c8f5b1",
+                    "hash": "727dba06bb9a0147c9e29390818dee5d6b60a3ee",
+                    "quantity": 3
+                },
+                {
+                    "id": "4b0932a7-4f30-3e38-b413-618fc6a1844c",
+                    "hash": "f7150f5e015a85ad8a404c687b960fa15d9dfa03",
+                    "quantity": -51
+                },
+                {
+                    "id": "4b4c87b4-7a9c-3afc-b630-ac43fbdce3e2",
+                    "hash": "342a55d1925bf61a1d273dee57a61f10867cdaf9",
+                    "quantity": 99
+                },
+                {
+                    "id": "7bbcd2d5-5413-3b3e-856c-2793e060cd07",
+                    "hash": "474d1231120dd8ff31dff1ae63adce35ea25f6ce",
+                    "quantity": 43
+                },
+                {
+                    "id": "d661a907-9af8-3fed-b6b9-30de227fecd5",
+                    "hash": "444ab0fe925828f5f71897fa20d6617e5d92b69f",
+                    "quantity": 63
+                },
+                {
+                    "id": "c595e89c-8fcf-35ea-9b4b-e5128f9118b8",
+                    "hash": "006e63e1d793ebd70f31958aa24d29d14c25e8d5",
+                    "quantity": -66
+                },
+                {
+                    "id": "17efc5b5-754c-3da3-a260-31fd18029953",
+                    "hash": "aebfebda881d4a2330faa14a69d134cd3022af74",
+                    "quantity": 29
+                },
+                {
+                    "id": "df4011ee-106d-3d36-9b04-5fbc05ef4f8c",
+                    "hash": "04731c563a6fe32bd4b25145a949076524ff9146",
+                    "quantity": 24
+                },
+                {
+                    "id": "b5b99075-7afa-3b56-8702-7c14817eb0ed",
+                    "hash": "2b6b361bed1e94758bd1ae70b8b5ca9e771424b4",
+                    "quantity": 45
+                },
+                {
+                    "id": "f6cd5645-60f4-3910-ab3d-c10054680de0",
+                    "hash": "a84a8cd82561446fd48ec9a09885f4f1a5883763",
+                    "quantity": 65
+                },
+                {
+                    "id": "c43ca895-bc65-3379-b180-8bd81dfd7de7",
+                    "hash": "0122bd448695536ba65e68eb1c212f824a8ae758",
+                    "quantity": -7
+                },
+                {
+                    "id": "ee15c54a-6bdd-3e18-8949-60cde99e8542",
+                    "hash": "f40c0e64ae05cb895d0be0c49d669ab196e6c04b",
+                    "quantity": -38
+                },
+                {
+                    "id": "a31bdfb9-6296-34be-8132-7957f5cb7a09",
+                    "hash": "7cb49433a133b2fcaad93e09a521a1d8626050bc",
+                    "quantity": -9
+                },
+                {
+                    "id": "0b3d981c-9daa-372f-aca8-ceb3134b68a0",
+                    "hash": "0887528ab6c7f4a48af1f4e4157b8a1a6d77df05",
+                    "quantity": -34
+                },
+                {
+                    "id": "a251bb7d-3c04-3081-9da8-0124fa4b63db",
+                    "hash": "4fdb816bd3450fb9756d2392772a679e3de95957",
+                    "quantity": 100
+                },
+                {
+                    "id": "46982867-9c6e-3710-98e4-bd63b2359580",
+                    "hash": "98626b33fcafa2cc25ab42b7f7add815c11d28a5",
+                    "quantity": -33
+                }
+            ],
+            "parent_sku": "HBAM1559",
+            "parent_title": "Dangelo T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "MR",
+            "categories": [],
+            "amazon_categories": [
+                "3a306f8f-e929-3ab8-b110-d5ec59262ad3",
+                "77f5ac34-63df-3143-bee8-49bafa3cc0a4",
+                "fa8b59f4-7631-315e-ac60-0137b8273777",
+                "52949571-f783-3301-93cb-6f91e4c20789",
+                "7758a2c3-8644-3301-b04c-53c57b42c124",
+                "94145962-83a2-3289-8507-3a21d0c2fe5b",
+                "8e551961-e0ce-3bb3-b602-4034331a2f7f",
+                "690486bb-630e-3eb6-92e1-739d717cdee9",
+                "b3c3d02d-4ea3-35a1-a4f6-f6e575d3e41d",
+                "d83d8f25-75e1-31b5-8925-be54cd771318",
+                "dd57e9cf-fda3-3f5b-a866-4841acd697d1",
+                "069e3265-f2d4-3b0d-956c-8ef7ba1c612d",
+                "7e9715fb-de0b-38e5-88d0-468123847810",
+                "0193d94d-0659-3719-8725-80a3c8366eea",
+                "ad0e0cf3-17dd-3774-ab82-fb00e4b8f657"
+            ],
+            "tb_categories": [
+                "0568887b-e07f-38e7-a1b9-28fbabb9bac3",
+                "fc46ea31-f1c2-3db5-8220-8566a04d122a",
+                "aac0ba1b-d926-344b-ae20-a0c07fb52450",
+                "410841f8-4ac9-3cc8-bdd4-511a1406590a"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 553,
+            "title": "Jacky T-Shirt / XL",
+            "subtitle": "Omnis illo reprehenderit rerum.",
+            "status": "active",
+            "desc": "Veniam excepturi et autem alias ut. Amet tempore sint dolore voluptatem et omnis. Culpa aut a deserunt a corporis quaerat velit quo. Nisi id maiores voluptates quae eaque.",
+            "sku": "PQYL4097-XL",
+            "barcode": "4858552085664",
+            "tags": "focus,summer,eol,sale,wip,pre-order,new",
+            "price": "75.38",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "8cb7cd2b-1d0a-34ce-9751-d358590d1ea1",
+                    "type": "size",
+                    "value": "XL"
+                },
+                {
+                    "id": "622a10c6-fcdf-322a-8bb2-9818ce1c07c7",
+                    "type": "materials",
+                    "value": [
+                        "Wooden"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "1958",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "a460174d-d7e3-39c2-a06f-5a55419e06c2",
+                    "hash": "df89d9a140a2c97bafd13a3f27f0f90e1a310fdb",
+                    "quantity": -34
+                },
+                {
+                    "id": "93145ffd-7075-3a56-978e-8cd844b44f34",
+                    "hash": "a124e676fd310b3f29f05d9fce4261b87fe37006",
+                    "quantity": 57
+                },
+                {
+                    "id": "3ef65021-6c07-3977-931f-4c15fe3fd4a5",
+                    "hash": "43a5e6b119757760003abdb6cd1221b25f5136d4",
+                    "quantity": 30
+                },
+                {
+                    "id": "12a0b96b-36f2-31cf-8903-ca687467316f",
+                    "hash": "ca3aaaa2c762a989b68c5893f92407af32a0cd2f",
+                    "quantity": 45
+                },
+                {
+                    "id": "b2ec28f2-493c-31c5-83a4-6dd7b7df8e15",
+                    "hash": "7000e603ed61db07175d371f83b3d30d977d0831",
+                    "quantity": 28
+                },
+                {
+                    "id": "7128ba9e-4f56-36af-86ef-8bf5930c6791",
+                    "hash": "66769ca92b03d8f64e247e0017b0c20a361265e2",
+                    "quantity": 76
+                },
+                {
+                    "id": "d67dae8a-2e11-38e7-b54e-ec4bc472e967",
+                    "hash": "fbddadb45a4c5b52ca97c9acc709166ce499a791",
+                    "quantity": 71
+                },
+                {
+                    "id": "64b6c3e0-0301-34e1-aa78-b8ee25c2938a",
+                    "hash": "898bf143a796d79bfe1472cb69d2c87ee91ba1ca",
+                    "quantity": 86
+                },
+                {
+                    "id": "5e448feb-9dec-3ef1-b2ea-56e9ab7cb111",
+                    "hash": "64709fc57a2ed56a6c9ce62375169391ad50a79f",
+                    "quantity": -49
+                },
+                {
+                    "id": "5e3678b3-434c-3987-9bc4-c00809e633b7",
+                    "hash": "abc6e1d099f01a97dd00e24fffbb886f65c1e7ac",
+                    "quantity": -30
+                },
+                {
+                    "id": "05501694-ee40-3cd9-95dc-be16ee872fd1",
+                    "hash": "2b2890866886a79546eec95c941f040d4807c753",
+                    "quantity": -30
+                },
+                {
+                    "id": "5196805f-14be-3a03-8d4b-ea36848acc6b",
+                    "hash": "9d58ad26c19cac37c345535045f9551f0adb467e",
+                    "quantity": 86
+                },
+                {
+                    "id": "e16a96f7-cd96-31f9-ba69-a9b4dd8d90a3",
+                    "hash": "e1c6a10c0a73decd9b0e6e144240c2a9494a4a39",
+                    "quantity": -37
+                },
+                {
+                    "id": "463f13d2-94b3-34b2-827c-7db884df39a9",
+                    "hash": "1e165f40814f8c9c78cee41a997af6135bf292dd",
+                    "quantity": 80
+                },
+                {
+                    "id": "0e2cf59b-beb1-36c7-a83d-a84b3617721e",
+                    "hash": "6ee503850fd874626b12de956149d1b48c6eda44",
+                    "quantity": -50
+                },
+                {
+                    "id": "1da455e6-95da-3306-9c6f-842f27f15ff5",
+                    "hash": "392a0ecd15060d98ac2470781912141579c0c164",
+                    "quantity": 75
+                },
+                {
+                    "id": "807d947d-23bd-36f9-b5b5-b476ba8eb793",
+                    "hash": "0dddda1de941018683b141b4f5a513e7c1afdcb3",
+                    "quantity": -91
+                },
+                {
+                    "id": "a23d2d89-c2b7-3838-9460-138e1cc1661e",
+                    "hash": "b92a047b8de70a700950388fe00ee8a7ed8cde86",
+                    "quantity": -31
+                },
+                {
+                    "id": "7d5e3b9b-3b0d-32ef-9e5b-dec4918ae344",
+                    "hash": "cee4558abc70f60f86199de6d61d6a2dcaed8630",
+                    "quantity": 90
+                },
+                {
+                    "id": "ea2e78bd-fff0-3b37-9706-e374099bc78a",
+                    "hash": "33e3dc4d962509f8043dd34c1df653170fb8fb37",
+                    "quantity": -69
+                },
+                {
+                    "id": "189e9910-7306-3ed2-872c-9cc45a440ec7",
+                    "hash": "3102c396f4b60fbd017e57a2515650cde2b3e4ff",
+                    "quantity": -51
+                },
+                {
+                    "id": "efc1b3be-c0eb-3fd6-a9ce-50b9395ae222",
+                    "hash": "3bc1b3495be631f9e6f64a9b751fdca047b7dccb",
+                    "quantity": -33
+                },
+                {
+                    "id": "ebb61c36-8ce4-331a-884b-0bca2150bc66",
+                    "hash": "1bf60f88d561d9ffed82e41815dbc7c6a7be1cde",
+                    "quantity": 52
+                }
+            ],
+            "parent_sku": "PQYL4097",
+            "parent_title": "Jacky T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "NO",
+            "categories": [
+                "c7e8ee28-b7ad-3228-b254-1ffed9f85639"
+            ],
+            "amazon_categories": [
+                "a5292246-42e9-388c-8e4f-392aab45afaa",
+                "5a75bce0-aa84-3232-8164-1319de510e5f",
+                "8bfc9b58-7d43-346a-b2e0-238c080d889a",
+                "8177d0d3-d1fd-36af-b697-ba68720a43f5",
+                "4b9e85f3-d975-3444-8897-ecdef3ad472a",
+                "d3a5ccbe-ccde-3eba-b8f3-abcb6090b97b",
+                "8e9eee36-2578-327c-bc49-a6b63cdec70c",
+                "c7311335-8324-34b2-bdc4-f496c0098d1d",
+                "4232ff27-411a-39d2-bc4e-618830b7aa84",
+                "c61fccf2-153b-3aba-a435-bd97e4da6577",
+                "8be5b5f2-6445-3ac0-a728-138456a727c3",
+                "75da406d-73ce-3a0c-ad9b-bd444e286735",
+                "0ceeedcd-08dc-3935-9017-0c58c9d160da"
+            ],
+            "tb_categories": [
+                "d71def4f-ed3c-3843-8d68-88ea92c6b16e",
+                "db105348-49a4-3cd1-9d4a-8578e9613f02"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 552,
+            "title": "Jacky T-Shirt / L",
+            "subtitle": "Omnis illo reprehenderit rerum.",
+            "status": "active",
+            "desc": "Veniam excepturi et autem alias ut. Amet tempore sint dolore voluptatem et omnis. Culpa aut a deserunt a corporis quaerat velit quo. Nisi id maiores voluptates quae eaque.",
+            "sku": "PQYL4097-L",
+            "barcode": "2267479364776",
+            "tags": "a,focus,eol",
+            "price": "34.26",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "22194dbb-af2f-3ccd-87f2-229cf163723a",
+                    "type": "size",
+                    "value": "L"
+                },
+                {
+                    "id": "d88a6b76-7dfe-3a10-87ea-7695e3add35f",
+                    "type": "materials",
+                    "value": [
+                        "Cotton"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "1297",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "e189d525-4665-337a-9dbd-8c9cfd9868c0",
+                    "hash": "ba4e896d9d923f9a8a225624ad0b16717ba6cdb2",
+                    "quantity": 56
+                },
+                {
+                    "id": "61c5da94-c064-324e-a01d-3aa8a4b5a2e2",
+                    "hash": "b2ed244ce9e5fcaf6b0df4edc4bf7455d8fce036",
+                    "quantity": -22
+                },
+                {
+                    "id": "afdd7e78-502d-3183-b05a-1f841243a63e",
+                    "hash": "5e4f0605af103969a8e1cf60f7d6abc89ebbd899",
+                    "quantity": 44
+                },
+                {
+                    "id": "a43fb0a2-36a9-3068-9e3b-138741c1f680",
+                    "hash": "bfab78b716c9b1b1457b8db7d25b9e6a4290bc0b",
+                    "quantity": 58
+                },
+                {
+                    "id": "bef968ec-7f8a-32f9-81d6-de5c7386c4a8",
+                    "hash": "d1bcef21bd8c4ec0dc30e15e2d68baffd618f554",
+                    "quantity": -64
+                },
+                {
+                    "id": "c2c37b88-5fde-3b4c-b403-9b32dcddee98",
+                    "hash": "4c07cd9f801eb88cc7eff27e5ddda70be8e50087",
+                    "quantity": 53
+                },
+                {
+                    "id": "a6cefc7c-dcc0-384a-a2bc-2fa25efbc377",
+                    "hash": "1da88eedb9f479619d24ea77e05314cbbcf61699",
+                    "quantity": -78
+                },
+                {
+                    "id": "b3b4a18f-7cfb-33be-8d5b-d8e5e71fbf1c",
+                    "hash": "8d6c31042e5a11e3816c7318dfdf97a197661f0b",
+                    "quantity": 42
+                },
+                {
+                    "id": "793559c0-b9c2-3305-9594-2997adedbb48",
+                    "hash": "82e4ff3e181259f37a02e20bdace1516a93a4f7d",
+                    "quantity": 2
+                },
+                {
+                    "id": "eb957613-2d84-3587-9f12-66091431ec16",
+                    "hash": "819bf06461bad1d1b6d93591beb31374af0c032f",
+                    "quantity": 90
+                },
+                {
+                    "id": "51ae7839-abaa-3d9f-8c28-8b04f8db4f8a",
+                    "hash": "232a11aa05bbf62dfc6582a5b00018a36bd7dc01",
+                    "quantity": 67
+                },
+                {
+                    "id": "e6674c60-3e7b-3178-8669-d5d038f641be",
+                    "hash": "1d1232677e04c267842be1b12e705694a21fc37f",
+                    "quantity": 30
+                },
+                {
+                    "id": "2ea8a0cd-fbf3-3a12-9019-5a2255dc6377",
+                    "hash": "d517eb1927b0570fbe22b7f6e55ea597e5eff673",
+                    "quantity": 13
+                }
+            ],
+            "parent_sku": "PQYL4097",
+            "parent_title": "Jacky T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "VC",
+            "categories": [
+                "9daf7d38-f027-35f9-90ff-203b5987f030",
+                "de71136e-b3f1-31a7-b5ac-d7335741f05c",
+                "263af217-0693-3037-b37d-053eb5df4a8e",
+                "5ed7953e-2a21-36df-9515-3c43fd68e314",
+                "11f6a1e8-040c-3f42-a593-3ebd4bc9b2d8",
+                "7cdf72ed-b5c1-3599-8c2f-9a0449c721ee"
+            ],
+            "amazon_categories": [
+                "f71f0703-b431-3a97-bae4-5df88bfb8b3d",
+                "babc44c4-675a-386e-a254-b486402cc59b"
+            ],
+            "tb_categories": [
+                "39cbe1a4-0490-3d97-a913-d613f2529487",
+                "82ea6443-e3b6-3ddb-aa13-b9e76381a7b2",
+                "9335498c-b203-32bb-93c1-59957b0bb987",
+                "44ea3b8b-f23e-34fa-a851-3e15751325d8",
+                "06c478f1-6e6e-3b54-9c98-2c4b4ca09bc9",
+                "3e8a735f-8c65-3463-9181-f39e9acf9313",
+                "5a41ee56-1c12-3c38-91be-c5d86ca24504",
+                "aae282b1-875a-34c5-af60-6802b953a891",
+                "8f283501-5880-397f-b43c-8dae95c9cd2c",
+                "6cfc0d98-b1b0-3783-bf17-62982a368a79",
+                "d40b4dae-671f-3d70-b3b3-2ea31d11e0f9",
+                "8c0a1846-4874-3ab2-93ba-dd52f06c1c7f",
+                "40c4ad90-cff0-34c0-bfe8-1608745d5aff"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 551,
+            "title": "Jacky T-Shirt / M",
+            "subtitle": "Omnis illo reprehenderit rerum.",
+            "status": "active",
+            "desc": "Veniam excepturi et autem alias ut. Amet tempore sint dolore voluptatem et omnis. Culpa aut a deserunt a corporis quaerat velit quo. Nisi id maiores voluptates quae eaque.",
+            "sku": "PQYL4097-M",
+            "barcode": "7233899449817",
+            "tags": "new,front-page,focus,a,b,eol,summer,wip",
+            "price": "8.11",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "7d1ee551-827e-3d63-b03e-898207fd542a",
+                    "type": "size",
+                    "value": "M"
+                },
+                {
+                    "id": "b237a68a-e6b7-3dac-a2bd-291e872a2e80",
+                    "type": "materials",
+                    "value": [
+                        "Metal"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "316",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "1dc290bf-3ab0-3884-a696-e5149b0eee2c",
+                    "hash": "2ff31486eb1d10cf49b3d02e6e117311b5266fcc",
+                    "quantity": -2
+                },
+                {
+                    "id": "082ba572-582e-3924-ae66-4509e3f8fc68",
+                    "hash": "5969b27fe89bd755e84dc4ce23e76fc1ac50cb39",
+                    "quantity": 44
+                },
+                {
+                    "id": "fa8f57e0-4333-3b1d-9283-6feebba9c6ed",
+                    "hash": "215cc9079881c50ed1acbfdeff5bab63eaa93f2c",
+                    "quantity": 13
+                },
+                {
+                    "id": "98003f6b-c8b4-3318-a46c-8a8db2fe4111",
+                    "hash": "53b51abd0d845e26a5ee61ef6c61547c46623996",
+                    "quantity": -97
+                },
+                {
+                    "id": "f26444e8-9490-3e1e-b543-746f683e20e1",
+                    "hash": "b097b59b832533d81b9399b6a42e1e9226bc12ec",
+                    "quantity": 25
+                },
+                {
+                    "id": "71a9f4ff-0fac-3a93-a383-18fcc05685c4",
+                    "hash": "c0e53a60759e902ddb90718fac78a7566a671fe3",
+                    "quantity": 85
+                },
+                {
+                    "id": "05897841-23c2-3b51-84d4-dc95911ab54b",
+                    "hash": "af38c77befe4e9fda061f57707a97223d5e4baec",
+                    "quantity": -82
+                },
+                {
+                    "id": "3cb80341-d860-30d6-93d7-5ce22a27022e",
+                    "hash": "1e0b05a748f84c7ec58956dc3c7dc6509352e95b",
+                    "quantity": -25
+                },
+                {
+                    "id": "99e84910-f1d1-3d33-89f1-8fe2666b476e",
+                    "hash": "e86db181e1cf9b96e85f3ea354f2a21022495848",
+                    "quantity": -24
+                },
+                {
+                    "id": "b80d2a83-55d4-349f-b4c7-fb76297e8d53",
+                    "hash": "65a8e8495834859bc351fadeaaab023e57e6d36a",
+                    "quantity": -96
+                },
+                {
+                    "id": "398b5555-b32a-3e5c-8185-65a3559c40a6",
+                    "hash": "1242843fa573177505467103952d266281e85960",
+                    "quantity": -82
+                },
+                {
+                    "id": "a1d9e5bb-8635-3834-89c5-bba0c1c9caa2",
+                    "hash": "efb300c73bf8ebb2990288538849d2a2f7dbbed5",
+                    "quantity": 3
+                },
+                {
+                    "id": "8a1d0076-85ce-3222-9f9f-0205478723a4",
+                    "hash": "1b5b8e07494a3149c2c34851bb66c29885c77a75",
+                    "quantity": -53
+                },
+                {
+                    "id": "e62028e7-d5b1-3895-b8c4-906d36741b19",
+                    "hash": "3ed35c88efdd3922eb762e0e0423594fcfe83557",
+                    "quantity": -38
+                },
+                {
+                    "id": "1d39adfa-ae8d-3114-9c6b-2c4982eab7ca",
+                    "hash": "65acc8bcf8d3767c42650acd7e64e8228cd319b0",
+                    "quantity": -83
+                },
+                {
+                    "id": "cd8d09af-f7ef-3a0c-8cb5-79d11541751f",
+                    "hash": "45d0105cfb7c15b96b5c0689d7cfc332a5a3dfba",
+                    "quantity": -2
+                },
+                {
+                    "id": "cc9daada-646c-33e8-a3ae-6e68ed8b6832",
+                    "hash": "612792f21934ba3aab97a691e486807b5e50896f",
+                    "quantity": -81
+                },
+                {
+                    "id": "5159346f-d2c5-376f-ac63-d3dcff228746",
+                    "hash": "25bab8838ff1b8cf40dbd51e55481799a5938f66",
+                    "quantity": 92
+                },
+                {
+                    "id": "fa34f6d0-0d94-31e7-963e-5288471cffb6",
+                    "hash": "14cc39fb894d05bf86264ebf4e833d295bfa4433",
+                    "quantity": 34
+                },
+                {
+                    "id": "28f342cf-90b5-3051-9c7e-a7f90d3667c7",
+                    "hash": "78fcc1d24d3e49e94b3d0fe3a0a198f2ef57e141",
+                    "quantity": 19
+                },
+                {
+                    "id": "3087a337-5eeb-3a8a-8d03-633656401a28",
+                    "hash": "4679187063cec2e2ca6001321faef3cbbfd2d4f2",
+                    "quantity": 100
+                },
+                {
+                    "id": "0e663dae-822a-3717-95f8-418a0d41a4f7",
+                    "hash": "e781a14ac9a13e31b5272a2d8be3b82727dc1f20",
+                    "quantity": -17
+                },
+                {
+                    "id": "e517c12c-6999-3f7f-ae26-9054071f6d2c",
+                    "hash": "5882b5160c7110a3fef54179a6ae34728e6cfb18",
+                    "quantity": 25
+                },
+                {
+                    "id": "8fcfb866-1119-38c3-8648-1e0c5b54b3a3",
+                    "hash": "98a78a261f203da5c7f697fc782ff162152b842b",
+                    "quantity": 1
+                },
+                {
+                    "id": "9b2dbe55-65e8-30c2-a5b3-eb357a9fd6a6",
+                    "hash": "42d6ff881f6bd3c64e921d4caa539538b564bee5",
+                    "quantity": -7
+                },
+                {
+                    "id": "55cfd554-067b-3afb-b748-928e9f031865",
+                    "hash": "1d10b73e2c8a8bcd373aa4a57b7a2367b6b9da7f",
+                    "quantity": 45
+                },
+                {
+                    "id": "0ce98cdd-5582-3c58-8523-70ee1e361baa",
+                    "hash": "de824c0c8f1dbeb4ddc3252202b0d848f72294fd",
+                    "quantity": 80
+                },
+                {
+                    "id": "925ebf7d-3d0a-34aa-b3a9-e2fff5fd0e23",
+                    "hash": "f3a25f1ec2f9e45725c745c764a100b33de6df25",
+                    "quantity": -58
+                },
+                {
+                    "id": "0e22614b-59d9-3553-bed9-1369984cf1d9",
+                    "hash": "fa0f6c470484e514103d296398f43ba19575a5d0",
+                    "quantity": 0
+                },
+                {
+                    "id": "b2e77ebc-d176-3394-9433-d96bb7e3dab0",
+                    "hash": "4fbec3a23f5a93115f4131fcacdfd9ad190f5d41",
+                    "quantity": -93
+                },
+                {
+                    "id": "83824b15-2015-30f8-ac63-9ba0df08182a",
+                    "hash": "339f3eadeb7a28f5084e0527d5d1573dc68943ec",
+                    "quantity": -80
+                },
+                {
+                    "id": "b3a93afe-3e97-3b45-a7c1-444eb872bcb1",
+                    "hash": "523d1044a523b25dab03eb33f68a260080fb4288",
+                    "quantity": -50
+                }
+            ],
+            "parent_sku": "PQYL4097",
+            "parent_title": "Jacky T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "BN",
+            "categories": [
+                "9f4e6aa3-e59d-3395-b351-ae6414bae815",
+                "08adc0ca-4cd4-385f-ace5-fe88ac701cc7",
+                "580d24c4-d69d-3c7d-877b-c18bb46a2534",
+                "62f89423-7b96-3bb5-a8fb-da09d1f665e4",
+                "24c551fa-6bb9-394a-906a-1c959c6fc468"
+            ],
+            "amazon_categories": [
+                "5a41b657-eb5b-38ee-8a87-4b4bb4eb6742",
+                "0ce1fe79-7291-3819-8e86-2b77cc291358",
+                "95aab7d3-b2ad-3aa7-b6ef-14823ef0cb85",
+                "678025ef-8868-3070-ba36-a78761129caa",
+                "d29e924e-b656-304d-a0be-f9a9d54bfd69",
+                "8f9db178-70b6-391e-8564-1199343748d0",
+                "988cd440-d536-353b-b793-9f3628d7622f",
+                "877617ee-6295-34f4-82ea-2e1e58c672b3",
+                "391a2785-ded1-30ba-8591-dd580150acc8",
+                "a1b06b5c-b4ea-3252-b25e-4ad348b69a22",
+                "1adc7f09-79f2-3c6d-bca3-47d3238fbe78",
+                "2710456c-1e62-3c6e-a3c0-5aebfce158ea",
+                "855a0a84-d501-3212-b353-aa0d5b2168a0",
+                "f2bf475a-9fd1-36b0-8a79-d664ec026316",
+                "ac1583ce-6fb6-3678-8825-c2f85b125762",
+                "b336dead-8a6b-3ff7-a370-b72dcb9ed24e"
+            ],
+            "tb_categories": [
+                "e9505a38-2f4a-3f85-b935-e698322a61dd",
+                "5db03e82-de89-35ae-8ab0-ff64be2aeb42",
+                "19a173e1-4126-33c1-84f4-7949e50d1616",
+                "b6c7a091-d584-3d02-ac35-59644b0c05b8",
+                "d958c99f-f9b5-37b8-b30d-372b611c72d1",
+                "45238968-7bbb-3a7b-842c-1a3bd9ac1875",
+                "86bdcd8d-f0c7-3e00-b32a-2f51ec4b2020",
+                "b585e968-5b51-3eb7-b327-ec443c72a690",
+                "da41055a-1d98-3189-94f0-686cdc325e3c",
+                "037e7232-1572-3b17-82ef-3adcd2660310",
+                "645ae018-3609-3fc7-a38c-94396464bec5"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        }
+    ],
+    "first_page_url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+    "from": 16,
+    "last_page": 2,
+    "last_page_url": "https://source-api.local/api/flat-feed?sort=-id&page=2",
+    "links": [
+        {
+            "url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+            "label": "1",
+            "active": false
+        },
+        {
+            "url": "https://source-api.local/api/flat-feed?sort=-id&page=2",
+            "label": "2",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "https://source-api.local/api/flat-feed",
+    "per_page": 15,
+    "prev_page_url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+    "to": 29,
+    "total": 29
+}

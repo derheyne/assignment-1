@@ -11,8 +11,14 @@
 |
 */
 
+use Saloon\Http\Faking\MockClient;
+
 pest()->extend(Tests\TestCase::class)
     ->use(Illuminate\Foundation\Testing\RefreshDatabase::class)
+    ->in('Unit', 'Feature');
+
+uses()
+    ->beforeEach(fn () => MockClient::destroyGlobal())
     ->in('Unit', 'Feature');
 
 /*
@@ -26,9 +32,7 @@ pest()->extend(Tests\TestCase::class)
 |
 */
 
-expect()->extend('toBeOne', function () {
-    return $this->toBe(1);
-});
+//
 
 /*
 |--------------------------------------------------------------------------
@@ -41,7 +45,11 @@ expect()->extend('toBeOne', function () {
 |
 */
 
-function something()
+function loadJsonMockFile(string $file): mixed
 {
-    // ..
+    return json_decode(
+        json: file_get_contents($file),
+        associative: true,
+        flags: JSON_THROW_ON_ERROR,
+    );
 }

@@ -1,0 +1,1903 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 579,
+            "title": "Cayla Skirt / XL",
+            "subtitle": "Quis molestiae reprehenderit vero earum rem.",
+            "status": "active",
+            "desc": "Possimus eum delectus earum ad rerum et ex. Est sed veritatis autem quo doloremque. Est ab voluptatem modi enim suscipit magni eligendi provident. Ut cumque iusto consequatur natus pariatur natus.",
+            "sku": "VNQC7424-XL",
+            "barcode": "6088607554861",
+            "tags": "b,eol,front-page",
+            "price": "80.58",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "9b21f848-9f4f-3531-91b8-dadddf171fbd",
+                    "type": "size",
+                    "value": "XL"
+                },
+                {
+                    "id": "a508fe0c-ec6d-3ed2-8d70-4371536decec",
+                    "type": "materials",
+                    "value": [
+                        "Frozen"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "1575",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "7544e5f2-a043-377c-978d-e06c254fec71",
+                    "hash": "deef4f72d7c43f29cf7bc63c0cc86e683268100c",
+                    "quantity": -43
+                },
+                {
+                    "id": "2ea199b2-26a0-3d16-8541-b3f1c3d4c4c3",
+                    "hash": "ec659935477efc5d57b7423a26b6134e9880d78c",
+                    "quantity": 57
+                },
+                {
+                    "id": "8442ab21-55ff-3a3a-9730-1177bdeea790",
+                    "hash": "ccad8fc188d6474e7353d31bc2c501efa9f16dc6",
+                    "quantity": 52
+                },
+                {
+                    "id": "e9e4f48e-1d05-33f2-9d73-7d3ad8b571fb",
+                    "hash": "fdb716288c357972a78314a08e3e9e49b12f7da1",
+                    "quantity": -29
+                },
+                {
+                    "id": "8dfc7fad-caf3-31d4-9929-565a46750cfc",
+                    "hash": "b104117fa8788d66ab4cb8ffb00d6be7c4518bf7",
+                    "quantity": 16
+                },
+                {
+                    "id": "1942a317-a38a-3251-beee-e36008a30fe3",
+                    "hash": "5ad91deaf339035ee65517aeaf6145f857e52c7c",
+                    "quantity": 67
+                },
+                {
+                    "id": "5c7d1bcc-c172-39e2-80d7-62237d7f1878",
+                    "hash": "33eb802184de785ec931a35213a78338c3e302e7",
+                    "quantity": -48
+                },
+                {
+                    "id": "3408f569-2e2a-31c6-bfb5-918d0952b647",
+                    "hash": "9da283b45af2113be7c049f107e180aedc7b792a",
+                    "quantity": 39
+                },
+                {
+                    "id": "136688cc-6811-34e6-8413-ded9ff0deb14",
+                    "hash": "9c6b992aa2b9f856fb24c1b5cbaef764208486b3",
+                    "quantity": -16
+                },
+                {
+                    "id": "c93faa8a-aa1a-3259-b62b-f96bc958b0b7",
+                    "hash": "eda7808f6bf49e35c51a9d8e84a7bd3739d9cd2d",
+                    "quantity": 78
+                }
+            ],
+            "parent_sku": "VNQC7424",
+            "parent_title": "Cayla Skirt",
+            "product_type": "Skirt",
+            "county_of_origin": "TR",
+            "categories": [
+                "a684490d-de38-36eb-8dba-7d37bebd4cb2",
+                "aa0c6f41-c989-3a9e-9958-263036a1a954",
+                "590e1f7c-b743-31f0-9965-a15bdf1c99c4",
+                "fca70627-a212-3a82-9159-c843ec2bca57"
+            ],
+            "amazon_categories": [
+                "8cfd4100-ae42-3bde-87c1-cac9755764e9",
+                "d4abb0b8-ea55-39d0-9540-8fa9c85e331a",
+                "c4b2e805-68f2-312e-a1e9-83c2f39291d4",
+                "0d7746a6-502d-3e12-a4ff-85536941a90b",
+                "4a4cf8dd-a8c6-397b-82bf-5f031fe8c455",
+                "2664650b-ec2a-3328-b419-1f410bdab41f",
+                "fd66f4ea-6bdd-373b-bf4c-0b1a1a2b586b",
+                "65a60d6a-d9b2-3c5b-b4bf-1ad35ff61f75",
+                "c656d2a3-9a02-353f-8277-7b7acd714a96",
+                "17c9ae69-bc26-35ac-9592-2d34da91e1dd"
+            ],
+            "tb_categories": [
+                "77bae905-4584-3f41-ac40-5906e823df5b",
+                "cf2282c5-baaf-3017-b2c7-f2d00d93b7a9",
+                "0eea36f3-4974-3060-9ff8-12db42768755",
+                "f9684db0-6736-3450-9047-44b9d26c81fe",
+                "baadf8b1-6b6f-340f-95f8-ebd42b581071",
+                "78ce61db-09b8-3ba6-a0e0-6302e7e852be",
+                "48cdb489-88f4-36a0-a8b1-2e31378cb497",
+                "0ecc0e0e-6901-3f03-a9a5-0b8cf17ceb35"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 578,
+            "title": "Cayla Skirt / L",
+            "subtitle": "Quis molestiae reprehenderit vero earum rem.",
+            "status": "active",
+            "desc": "Possimus eum delectus earum ad rerum et ex. Est sed veritatis autem quo doloremque. Est ab voluptatem modi enim suscipit magni eligendi provident. Ut cumque iusto consequatur natus pariatur natus.",
+            "sku": "VNQC7424-L",
+            "barcode": "2153052824099",
+            "tags": "new,summer,eol,pre-order,b",
+            "price": "75.79",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "83aafe94-c12c-3235-b665-1b3b98b6dffc",
+                    "type": "size",
+                    "value": "L"
+                },
+                {
+                    "id": "bedde89c-e8f9-3379-a454-db165d1f9c0a",
+                    "type": "materials",
+                    "value": [
+                        "Fresh"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "2291",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "762bc28c-b5af-3d53-b859-f213f40b0a6f",
+                    "hash": "ef9f7b62715036679201acb1441a8d28073d8973",
+                    "quantity": -67
+                },
+                {
+                    "id": "59abfa73-0c5a-3d7a-acd2-7619915d0dff",
+                    "hash": "b2298d3bb7000dca569674be705ff709ef01d95e",
+                    "quantity": 65
+                },
+                {
+                    "id": "b280e823-1c42-3cb3-955f-bb3e89bb36c0",
+                    "hash": "110ed3eab3943ca6d46278b58969253eb57689d5",
+                    "quantity": 28
+                },
+                {
+                    "id": "6053c796-6ef6-3037-8002-a8c75c35f29f",
+                    "hash": "3bff5535c7b744a1ad7b27eb600cf99c6bf94463",
+                    "quantity": 97
+                },
+                {
+                    "id": "fb9360c9-e70d-39bc-b921-fb7efa604d95",
+                    "hash": "4fa2afb4bc9b66688bfff4b845df4837c97c965b",
+                    "quantity": -27
+                },
+                {
+                    "id": "d091fb4e-3201-3bff-8ea1-260b01ebe34f",
+                    "hash": "6cfb2165fb458ae4a1eae42cb15b0a785a553df8",
+                    "quantity": -11
+                },
+                {
+                    "id": "5f0d0328-cfdc-336a-8c4c-a3c268025c68",
+                    "hash": "3f257effb596c7c35f7901e48cbbc2af6a9db43c",
+                    "quantity": 17
+                },
+                {
+                    "id": "0f51ae20-d95f-3c19-b6d1-33620eec3e65",
+                    "hash": "a765ea8ac5f5bc24c1825dd7c7b2e79c0395f8b6",
+                    "quantity": 40
+                },
+                {
+                    "id": "e31a5d2b-be62-3f67-91bd-a9223a0dfdd6",
+                    "hash": "c99bcc0dcbfc1d64474160b01fd5946ba9e0f896",
+                    "quantity": 54
+                }
+            ],
+            "parent_sku": "VNQC7424",
+            "parent_title": "Cayla Skirt",
+            "product_type": "Skirt",
+            "county_of_origin": "PS",
+            "categories": [
+                "9b5d1498-e257-3ca6-8679-4194dc0168f5",
+                "bfbbb63d-b88e-362c-aa5d-cb8a22e47cc6",
+                "114ab505-6919-3c12-afba-f9dc1435a4f5"
+            ],
+            "amazon_categories": [
+                "e2e38fde-9340-3abc-b488-09bc13c16134",
+                "c3ced18c-8517-3fa6-81b4-2509357e9375",
+                "6745a761-bc61-3a49-b43c-6e38324fc65d",
+                "a2be5c6a-dfc6-3d06-a773-82929471e42e",
+                "a4b42eb4-e7c2-3e85-a71c-c2af710dacb3",
+                "323d06c9-c711-3f53-8f18-bbcb129035bf",
+                "d955b3c9-73eb-358f-8aa4-5c00e774bc4d",
+                "72a228bb-ddae-3761-8339-9726d618386b",
+                "6c2ccb09-0d0a-30a9-bbab-bfc705ef35f5",
+                "bf8dd4b9-8edb-3997-b371-6a0687a7ed4a"
+            ],
+            "tb_categories": [
+                "b0ac4423-250b-39d0-910a-d5260f30ef46",
+                "2b91493f-0907-39cb-a839-8904ee8c7b51",
+                "b072e870-f133-3db2-8f78-1da83cc129d8",
+                "5c0b499f-4868-30e0-8d9a-7a736e2fb728",
+                "5a5d5728-52c6-32b6-b5c3-bc5bc11b005c",
+                "ea3f7bb5-393c-3525-88df-20674aa51e20",
+                "1d70dade-d478-360b-969b-1a71304b21cc",
+                "70ed23ef-d9e2-3b19-814e-8992ae6c6a84",
+                "57e1b649-fab5-3604-9694-62cdbb4675ff",
+                "c7959545-d39d-3546-b910-37780e9e361c"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 577,
+            "title": "Cayla Skirt / M",
+            "subtitle": "Quis molestiae reprehenderit vero earum rem.",
+            "status": "active",
+            "desc": "Possimus eum delectus earum ad rerum et ex. Est sed veritatis autem quo doloremque. Est ab voluptatem modi enim suscipit magni eligendi provident. Ut cumque iusto consequatur natus pariatur natus.",
+            "sku": "VNQC7424-M",
+            "barcode": "4892342388672",
+            "tags": "front-page,a,eol,summer,wip,b",
+            "price": "25.08",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "881523f4-a5d7-3784-b9ad-9e00ac181bb5",
+                    "type": "size",
+                    "value": "M"
+                },
+                {
+                    "id": "96fa3b25-88df-3153-b8bc-a5f68da8699b",
+                    "type": "materials",
+                    "value": [
+                        "Wooden"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "6275",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "63776080-e493-3678-8a75-9e6f86e6659a",
+                    "hash": "a8901da192893fe0b09360e9e6e2307abe31107b",
+                    "quantity": 41
+                },
+                {
+                    "id": "ced33976-0a6e-3796-b90d-e2f836273dcc",
+                    "hash": "de8b70ff2b707de1f61fc834f0b0cd91888022d5",
+                    "quantity": -86
+                },
+                {
+                    "id": "d7a45c40-dede-3aac-afe7-8d86685d5a7c",
+                    "hash": "b3d7a2eb6e64693ddae45b2b0e22aa7e95a02c90",
+                    "quantity": -43
+                },
+                {
+                    "id": "056fca68-0dc7-36db-8a49-75d5165d60ea",
+                    "hash": "38abd7b9eb6b90ef835ed199f31830694caba2f4",
+                    "quantity": -85
+                },
+                {
+                    "id": "4b99ebd6-30c0-3024-9f50-e7245f47369a",
+                    "hash": "f6eb4c159d6befd8e0e3fd0fa994b39ad17d4909",
+                    "quantity": -96
+                },
+                {
+                    "id": "f4983d13-d0fa-3237-9738-05564d27f58f",
+                    "hash": "9cc3b14a4824189b4c617b70c432046538415672",
+                    "quantity": -66
+                },
+                {
+                    "id": "11f1d088-6903-3e47-8854-8d4a91e48901",
+                    "hash": "1934a8b6c4843b358f98f4bcc1b7b2f8b392e43b",
+                    "quantity": 49
+                },
+                {
+                    "id": "7d19d739-c426-3b11-a4e9-4d42e1e98c41",
+                    "hash": "27910465fe33f4f2b228a05cb62e94ffb4b2b224",
+                    "quantity": -49
+                },
+                {
+                    "id": "83e6b763-4a0c-3fd8-84d7-eb4130c61215",
+                    "hash": "ebc4e10be076b6f07b873592217a1b167d05e89e",
+                    "quantity": 50
+                },
+                {
+                    "id": "1355e16f-3d9a-3eee-a20d-de0efb6670d9",
+                    "hash": "ec35adef1d240e7d2e2bf0353a6de30850284722",
+                    "quantity": 31
+                },
+                {
+                    "id": "3ce67c8b-6d5a-3617-81be-9eba55985b1a",
+                    "hash": "0cf34d1f5d4fd43574252a9b167cdb38a002a352",
+                    "quantity": 10
+                },
+                {
+                    "id": "7f288311-710c-338e-8869-e66677c617d0",
+                    "hash": "6f4dbd01a5d7c60e2a3b8d7e6e2461c81a7b436e",
+                    "quantity": 36
+                },
+                {
+                    "id": "bbad0a2c-c2eb-3e38-95ef-a9e160de3fc0",
+                    "hash": "106eb1ba6e90c2a4c69f26c0773352875e22dce0",
+                    "quantity": -38
+                },
+                {
+                    "id": "0edd3209-a609-3c82-983f-0cbde8fac24c",
+                    "hash": "b22cb52a4a69c2459780b449cbb6b013915d04f5",
+                    "quantity": 4
+                },
+                {
+                    "id": "63daf920-df51-3ac3-9942-3a8faea0b696",
+                    "hash": "c7b1ffa9c3e7bfc1e887bd0db7d6769021d9d871",
+                    "quantity": 98
+                },
+                {
+                    "id": "035833e1-59f6-30ed-9c84-c9f49c40ba9e",
+                    "hash": "ab3da0187ff5a8ffcaa3b775e8f9d031314c3d99",
+                    "quantity": 30
+                },
+                {
+                    "id": "e3c85697-8854-3767-9abc-8b3320bd25c8",
+                    "hash": "64373f8dfa3e52639a6361ca03a668d744ee0a03",
+                    "quantity": -58
+                },
+                {
+                    "id": "b1893467-cf90-3a82-a114-71135eef76f8",
+                    "hash": "b2f8bb6d80e3512174d682b953d9b5831167ff88",
+                    "quantity": 88
+                },
+                {
+                    "id": "c7aa5dd1-2d4b-3bf1-ba12-5bf0c2d046b1",
+                    "hash": "7345caedb2f0c594e5f03f054015402433f171a6",
+                    "quantity": -91
+                },
+                {
+                    "id": "0bc17d5e-6be7-3aca-a18e-3f10e30ae341",
+                    "hash": "178917adcbb8ee77e0e44e4d622de86f411ea70e",
+                    "quantity": -38
+                },
+                {
+                    "id": "42844b89-22ab-31c9-9342-4e3d329ee793",
+                    "hash": "102fce0dec5c5a8f490c07f162cdfff17d5ddab7",
+                    "quantity": -36
+                },
+                {
+                    "id": "78b7dff2-4020-37d1-bb8a-b9ee4a765e27",
+                    "hash": "5fcaabbce9656adf17327916b6bc9b2f75866374",
+                    "quantity": 68
+                },
+                {
+                    "id": "bed2dd5e-cb24-38d2-bff7-fef3880d96e9",
+                    "hash": "c21c0e733167af0e98e81184c6df451c8abd8241",
+                    "quantity": -32
+                },
+                {
+                    "id": "7261138a-0cac-3656-8a4f-d98c090e0c9e",
+                    "hash": "be8ea00bf457b27c4d0c84079d4ce60ebb1a322d",
+                    "quantity": 71
+                },
+                {
+                    "id": "cc688b86-c62f-3b31-a61c-5f946a4382bc",
+                    "hash": "515ec1fdd33951e6152d5b7a841943cb0c6dae9c",
+                    "quantity": -19
+                }
+            ],
+            "parent_sku": "VNQC7424",
+            "parent_title": "Cayla Skirt",
+            "product_type": "Skirt",
+            "county_of_origin": "DO",
+            "categories": [
+                "8a142d44-6738-3cb6-8edd-a4e086eb8318",
+                "829862c5-f6d6-30b5-a6d6-347439dd7dce"
+            ],
+            "amazon_categories": [
+                "6699fff3-b43a-38c1-8a02-e3a222667b45",
+                "be10532b-8d65-3f9e-a8c2-e98bb61ff8db",
+                "361aa48c-1f90-31de-b300-8f2be23470e0"
+            ],
+            "tb_categories": [
+                "1dc0c755-f999-32db-b787-ea13f86c1170"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 576,
+            "title": "Cayla Skirt / S",
+            "subtitle": "Quis molestiae reprehenderit vero earum rem.",
+            "status": "active",
+            "desc": "Possimus eum delectus earum ad rerum et ex. Est sed veritatis autem quo doloremque. Est ab voluptatem modi enim suscipit magni eligendi provident. Ut cumque iusto consequatur natus pariatur natus.",
+            "sku": "VNQC7424-S",
+            "barcode": "9487475377737",
+            "tags": "summer,a",
+            "price": "15.09",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "f612c395-8c71-3da2-9b70-89984d4e4915",
+                    "type": "size",
+                    "value": "S"
+                },
+                {
+                    "id": "4a61cd78-8c08-314f-8f33-d2ccc9c2e42a",
+                    "type": "materials",
+                    "value": [
+                        "Wooden"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "2807",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "8e015be9-a894-3932-9b75-a95f873b10b6",
+                    "hash": "e52b874cf89035b4c174d2f099996686c0c8baa2",
+                    "quantity": -76
+                },
+                {
+                    "id": "1df530b0-6e0c-3ed0-aa54-76ddbe53a3c4",
+                    "hash": "184322044f31f0728ad97b8ae808534ffcccfd82",
+                    "quantity": -82
+                },
+                {
+                    "id": "655d02fd-dbef-32d7-af60-b57c3042e444",
+                    "hash": "89553c9232b7832d44937bf4ac24e9d4c4e54144",
+                    "quantity": 8
+                },
+                {
+                    "id": "bae3d460-3e15-3b0b-bec6-4c15a28763c8",
+                    "hash": "3e4908e41134a7d1059a8abee07bce48ea84537f",
+                    "quantity": -2
+                },
+                {
+                    "id": "19dd5c24-c4bd-3515-b3d5-3600407741a5",
+                    "hash": "b1b3ae7bec84b6acfa3aa2088578635e671a8158",
+                    "quantity": -73
+                },
+                {
+                    "id": "46b66a9a-ae93-3bd6-8678-518e2ee295b9",
+                    "hash": "60108c10b627a941a34e5868e4b1dd873dea9e2d",
+                    "quantity": 45
+                },
+                {
+                    "id": "0ff7b734-34c0-351d-907a-ac8bc55787f8",
+                    "hash": "e03f951ec6bca19bcc41e9532b2032a5b6307221",
+                    "quantity": -22
+                },
+                {
+                    "id": "f45aef9c-6ce4-3f9f-aca0-984cfa7e05b9",
+                    "hash": "c04d93b21750d40119b1f3ff04549a66915fd3d8",
+                    "quantity": -30
+                },
+                {
+                    "id": "e48137e3-c4ea-38e4-ae0a-06da2f9fd779",
+                    "hash": "ff385508dde82dc588d074217c33295637365a86",
+                    "quantity": -44
+                },
+                {
+                    "id": "6ce6da78-9643-308e-a40b-dedfcf999a82",
+                    "hash": "3d1717854fd1a32a619974f0694d2ed2716c3dab",
+                    "quantity": -14
+                },
+                {
+                    "id": "56cea5f4-8dab-305d-8b20-5ce1cd396ad9",
+                    "hash": "18b08f9fc827ef38fcce74efc749ea9513639387",
+                    "quantity": -91
+                },
+                {
+                    "id": "2764a930-abe3-3bbd-ba99-503ed6f9a22b",
+                    "hash": "9220181db16d1b44a694bdc745f48285143d096e",
+                    "quantity": 36
+                },
+                {
+                    "id": "2f6fb7ae-182b-37c3-a6f7-07f6c81a062c",
+                    "hash": "ac45b182d34a762b25f0751874e5e146af58e766",
+                    "quantity": 13
+                },
+                {
+                    "id": "f1c3b3b2-cf21-3cca-b84e-f7aa164857d7",
+                    "hash": "c222c75fb7fe13cb2ddd03abf25df695df0216ae",
+                    "quantity": 59
+                },
+                {
+                    "id": "0aaa5cd9-b40a-3650-af2f-b21cd611c06d",
+                    "hash": "e6637f9c723eb13bf1142c5575dd9539785de4f7",
+                    "quantity": -91
+                },
+                {
+                    "id": "1fcd6b84-b61c-3bcd-900e-6132e4471a70",
+                    "hash": "7a91838b0e4ad22f6fa19b789cde306226c7d155",
+                    "quantity": -20
+                },
+                {
+                    "id": "ea8f535a-405e-37d8-8616-b9b35ee11e3d",
+                    "hash": "ef9f632535b3ea3f27d52e4580091f49a0459334",
+                    "quantity": -34
+                },
+                {
+                    "id": "b70700b2-9bb9-3356-a2b5-dd7c0c3d8f8d",
+                    "hash": "21320c26580d3a38e1f1de430835737871ed1d72",
+                    "quantity": 31
+                },
+                {
+                    "id": "30216557-f4f5-341f-a0fb-9b5b831702d2",
+                    "hash": "60ac7fb8bb0c2c7206200f956bc11939a82fc2f2",
+                    "quantity": 79
+                },
+                {
+                    "id": "e425fe6f-3b73-34d2-ade4-616ab070ca6f",
+                    "hash": "8e2bf48e723f38924adad46bdf3e2bdf72042f61",
+                    "quantity": 9
+                },
+                {
+                    "id": "070789a3-c5c1-33cb-acdb-5947d8ddb74e",
+                    "hash": "f766bba856e1683b5b6673433e04a81e15b667ce",
+                    "quantity": -14
+                }
+            ],
+            "parent_sku": "VNQC7424",
+            "parent_title": "Cayla Skirt",
+            "product_type": "Skirt",
+            "county_of_origin": "AW",
+            "categories": [
+                "53ea134d-3784-3d81-ab2b-43f36c4fe025",
+                "01631df8-a408-3822-a1d2-65ec9e99c1eb",
+                "7a80f338-2431-3eb5-ac76-c57f6754ad26",
+                "5fb52e57-8699-3614-8d08-8dd1c0afc984"
+            ],
+            "amazon_categories": [
+                "b183edd3-f347-3582-961f-41b0da50ceca",
+                "7bfca828-a2ff-370b-b70c-42b9c68b722c",
+                "8f98341d-3d7a-3b1a-a5e3-0743f3764ade",
+                "ab344d0f-f953-3b3c-9675-511ad04b554a",
+                "cc77fd71-5c52-380e-8221-8fc7033e73ee",
+                "c819edbd-b19d-34f8-921d-ebd60f94190b",
+                "40516d19-cda6-3a59-a630-5770c7726ced",
+                "323996fa-8096-391a-8dda-428ee4205302",
+                "334cd1b2-26c9-3bec-b268-e74f245d01b0",
+                "03f491c7-cfc4-37f1-bf48-a25f26923825",
+                "a0426888-791f-3d5e-b984-0f024392917d",
+                "c5422af4-63f5-3355-bca0-96ee4586cd62",
+                "2f02f8fd-7887-3dd2-a2e8-a45f1b84cf65",
+                "ae0f3865-3a20-3bed-a6eb-1dc4792812e0",
+                "29cc5904-6013-3f03-8331-672b609885fc",
+                "c4eb1dca-0660-32b5-83e8-b7e465b9ac7a"
+            ],
+            "tb_categories": [
+                "a535449a-0b8c-3eb1-b5d5-21e25b1d1496",
+                "352dbd83-65ce-3d17-ad8c-76e68e128a7e",
+                "2a21c05c-95af-38f4-84d9-a8915db7fb56",
+                "39da0eb0-061c-30d7-95b8-eac7bef59b8e",
+                "1382409e-1d7a-359a-a44c-0cfb28a3fb6d",
+                "f2bb33d0-050d-3410-bdfe-2df4d61b1ffe"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 575,
+            "title": "Cayla Skirt / XS",
+            "subtitle": "Quis molestiae reprehenderit vero earum rem.",
+            "status": "draft",
+            "desc": "Possimus eum delectus earum ad rerum et ex. Est sed veritatis autem quo doloremque. Est ab voluptatem modi enim suscipit magni eligendi provident. Ut cumque iusto consequatur natus pariatur natus.",
+            "sku": "VNQC7424-XS",
+            "barcode": "7121631324228",
+            "tags": "a,front-page,sale,eol",
+            "price": "57.99",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "573e5da8-2f0b-345b-baf9-52daae4e7a75",
+                    "type": "size",
+                    "value": "XS"
+                },
+                {
+                    "id": "b3bd2e91-4bfe-3dd0-98d5-8ac96faf043e",
+                    "type": "materials",
+                    "value": [
+                        "Soft"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "1303",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "445a79a7-cf27-3d7f-8ae9-a452db6f0c16",
+                    "hash": "e38b9a0d6dbf8372e0a4f9f152336afc564bb457",
+                    "quantity": 93
+                }
+            ],
+            "parent_sku": "VNQC7424",
+            "parent_title": "Cayla Skirt",
+            "product_type": "Skirt",
+            "county_of_origin": "AR",
+            "categories": [
+                "f84112f7-8a53-3b53-b45e-f986359df7d3",
+                "8ab1bb42-9163-3324-92aa-ba8dc20e760d"
+            ],
+            "amazon_categories": [
+                "c3a92892-c09e-3ba9-bf65-cf7deaa3fa80",
+                "29e639ef-2c86-348e-a884-3f831223d1f1",
+                "a25b8523-f827-320c-a877-9a56bb5669ab",
+                "bc65b3d4-cd11-397f-811a-360b6f03eea0",
+                "b1632501-23a3-3be9-bd50-2f6671a03bc5",
+                "26504de5-201a-303c-8c4c-11350d9e8517",
+                "42bd295f-f0ef-3ccd-8171-47ba7892714e",
+                "72bce510-f99c-3bb3-b918-d9950f128af3",
+                "53673f6b-aa5e-33e3-8949-fedbce200f1c",
+                "fe90c829-358c-3ebd-b817-6844337b4fc6",
+                "1776a954-9981-333f-88dd-8ec1ff2ba40b",
+                "dd6f8768-7d1c-3c20-83a7-2eeb71c7a87d",
+                "e4b92523-fea5-318b-8800-775514861728",
+                "b67304e1-120d-3663-9318-66e49304fe7f"
+            ],
+            "tb_categories": [
+                "2260a032-d7b9-3bc8-a67a-ef16d52b0df8",
+                "4bdbb675-ccba-32b4-b6b9-eebe52b6e65e",
+                "5cb4d09e-4e78-3684-a8c5-4bbc57a762ea",
+                "b37ee987-8091-3cc6-887e-a6e8448691ee",
+                "ee962388-0029-39fe-af8e-4047db0dc340",
+                "db2683c2-2d03-3bd0-acdd-84f133bc246f",
+                "7f53ebe5-a281-3c7d-9c35-6cca1de29aaf",
+                "030c8e3c-5aaf-3980-a2b4-2ba4dcaff577",
+                "6207c8dd-bf80-36e4-a14c-ec0364ef82f1",
+                "6541c774-fa2d-350f-a49b-a7d2a25b9cfe",
+                "dac030e0-0990-3e6d-a86d-0a19b87d7db4",
+                "fcfe82eb-b31c-318d-b829-64da6e9faf2f",
+                "448428b8-f5c9-3a8f-a71a-259196c00f25",
+                "42b1859d-dafd-3233-9399-0c8d76060bd5",
+                "1915ed50-8e98-31ea-ab90-7142ccd454ac"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 574,
+            "title": "Sasha Coat / 5XL",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "active",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-5XL",
+            "barcode": "6707716046981",
+            "tags": "front-page,pre-order,wip,eol,new,focus",
+            "price": null,
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "38f0dfb1-7dea-3556-b46f-fd2896166a2d",
+                    "type": "size",
+                    "value": "5XL"
+                },
+                {
+                    "id": "d21149d3-f4bf-3ce4-a2eb-b406866c34be",
+                    "type": "materials",
+                    "value": [
+                        "Concrete"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "728",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "3685ee89-e510-39ef-9129-b3720b8d4f68",
+                    "hash": "5ca2dc4ecb483b28a7cfd55285f39ef70c1645d1",
+                    "quantity": 1
+                },
+                {
+                    "id": "835f8645-04b4-3958-943f-a38d80cae8df",
+                    "hash": "876f1d97164299319ffddfdccd646613107077e1",
+                    "quantity": -11
+                },
+                {
+                    "id": "cebcc91b-3149-332a-9ae7-42027b119e15",
+                    "hash": "b8fd8a8223b0b2e5370124afa9f53ec68509ef52",
+                    "quantity": 16
+                },
+                {
+                    "id": "ee64111e-886e-3278-a86b-5db26751763e",
+                    "hash": "9c2c2416ec3e12e0582c35469878e2f20f8001a6",
+                    "quantity": -17
+                },
+                {
+                    "id": "110fc8c7-00f3-322d-a4b0-94bd18c2dc6b",
+                    "hash": "fda0a439101142e3b9418ad75618c2ecd8f448f7",
+                    "quantity": 76
+                },
+                {
+                    "id": "27118095-52ae-3483-a9fc-b0d565d93dc4",
+                    "hash": "163d1321034abfa383c765155b13035b96a8d0fb",
+                    "quantity": -94
+                },
+                {
+                    "id": "38632300-af96-3549-9bb0-3f9086b862b2",
+                    "hash": "b94739b8e98a7edd26c5a42e20cddfa38f10cf01",
+                    "quantity": 18
+                },
+                {
+                    "id": "7b9af6cb-36b0-388d-8aa5-4d7848aa7ffc",
+                    "hash": "751cf4776790e1a187bc19f15ea449d3c7f54469",
+                    "quantity": 97
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "SE",
+            "categories": [],
+            "amazon_categories": [],
+            "tb_categories": [
+                "908b14fe-4eb1-38b2-96cb-962d12054bba",
+                "8392d54c-ef40-3b92-b7af-1672368b2351",
+                "78728b20-c318-3e85-97c6-36fef08547e3",
+                "e321b36e-337c-35c7-a04f-44935b2cd168",
+                "ffbdf198-6118-3cfb-b051-85b6da37ac1d",
+                "26a4f732-6c01-3409-bae9-fa8c30385e03",
+                "3b6eb0f3-3cca-3a5c-91bb-edeb3ad9a71d"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 573,
+            "title": "Sasha Coat / 4XL",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "draft",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-4XL",
+            "barcode": "8623628556500",
+            "tags": "front-page,sale",
+            "price": "45.77",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "4f3dc389-0a72-3dc5-a955-458d7d215026",
+                    "type": "size",
+                    "value": "4XL"
+                },
+                {
+                    "id": "d867def0-aa2a-3fde-8d21-76d85386ae03",
+                    "type": "materials",
+                    "value": [
+                        "Fresh"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "3648",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "67b93ba1-1f96-3c4a-b993-e66834fda628",
+                    "hash": "c5485b7cbb8ea65d3ae3c09c8e6df1723e89685c",
+                    "quantity": -24
+                },
+                {
+                    "id": "b60ce153-cb97-3a5e-ae5e-2518d56ee188",
+                    "hash": "63d5b8099a5d263ef272f2d3c06a7b580811512b",
+                    "quantity": -78
+                },
+                {
+                    "id": "5fc601ab-1b18-3d70-b067-35961f0be2b5",
+                    "hash": "4eb1bac6e55c37fb7b37881ae5a275c044f1dc4a",
+                    "quantity": 98
+                },
+                {
+                    "id": "7345e625-ca2e-3e67-8a09-dc0995576a1c",
+                    "hash": "879988cbcf6bedb8022ef2e51e87ddc37f375aa9",
+                    "quantity": -27
+                },
+                {
+                    "id": "01d9e83c-3559-337b-a38f-dc5617a393f0",
+                    "hash": "474d88b1ed50e7750048f527efec5da14ae5255a",
+                    "quantity": 17
+                },
+                {
+                    "id": "b81fa026-8028-3ada-9e05-b83030da2eba",
+                    "hash": "8db1328dc123e1f14cced378ca3e2b6c7cfbe102",
+                    "quantity": 2
+                },
+                {
+                    "id": "283a7e99-e0fe-304b-a9d6-5997908d4845",
+                    "hash": "83adddb0029649e117b9e423928cdff347a80dfd",
+                    "quantity": -86
+                },
+                {
+                    "id": "4307df58-bee8-3c8c-a1e7-7968ac3f5845",
+                    "hash": "b3a059d0334a9224805e79182fd661d2a805480d",
+                    "quantity": 16
+                },
+                {
+                    "id": "b415aeca-22cb-33a4-bba0-ba32f9b2d070",
+                    "hash": "1c97e3f2dc48f375afb0fab6b44ed6fa9adc9aa1",
+                    "quantity": 42
+                },
+                {
+                    "id": "d4132bcc-0a93-3325-ba27-2d29cadc9ad5",
+                    "hash": "88003afab04a6e1c4f8188df7cefee02c3dfc5e2",
+                    "quantity": -92
+                },
+                {
+                    "id": "e6af9fe7-6b65-3193-aa74-d6de86a6d6d2",
+                    "hash": "d4d26cdbd2b6d782bcfaa66133e954496e6ffbba",
+                    "quantity": 1
+                },
+                {
+                    "id": "19095294-57d8-38b9-9a96-e6ad0a4addc8",
+                    "hash": "4e4525ce8ecb874566239ed2a6b3359947c77c61",
+                    "quantity": 18
+                },
+                {
+                    "id": "a0c2a2ba-b9ce-3885-9de5-debbd656aaaf",
+                    "hash": "1daa4e1a353764a8467e3c83689bbfe8da68d60d",
+                    "quantity": 80
+                },
+                {
+                    "id": "da93f3c9-ae3f-3a79-8e3c-287d66c03905",
+                    "hash": "d6d9ecb269ba9dad3eed709dd4326cc9134f3a82",
+                    "quantity": 76
+                },
+                {
+                    "id": "ff5f5bd6-3ec5-3878-bf1e-8623ca2c4ff1",
+                    "hash": "2b49e71127a36adfc15542484c7ef3a1aee6a41b",
+                    "quantity": -38
+                },
+                {
+                    "id": "e5825624-2cda-3879-be51-3a907420d9dd",
+                    "hash": "809f9771d7a2d69e2b1ce93fd3a46a617ade2949",
+                    "quantity": 7
+                },
+                {
+                    "id": "1e2d0b94-0b75-3a05-8cf3-695bce43388d",
+                    "hash": "ba211dbaaca34670e17d4946131e51cf6963e0fb",
+                    "quantity": -73
+                },
+                {
+                    "id": "11cb8ef0-b3f3-3b4f-b763-5dee5b842ebd",
+                    "hash": "bb443c93c7840278095d29aec0978b32088f2496",
+                    "quantity": -40
+                },
+                {
+                    "id": "8e8fede1-864f-3b22-89ba-8dbe4d0aa213",
+                    "hash": "e1770dccf020e2421ee3e087430497fdaad8aecf",
+                    "quantity": 2
+                },
+                {
+                    "id": "501c8fbc-959d-3100-a328-f537bce96f4e",
+                    "hash": "db799919f6a293fa0a98ccfa9b38586b5653654f",
+                    "quantity": -27
+                },
+                {
+                    "id": "cf0620c4-c98d-3616-8886-e7bc04662d47",
+                    "hash": "520194665357c219cceeb18ac51347f85daad664",
+                    "quantity": 2
+                },
+                {
+                    "id": "2554cc28-28a1-35a8-930b-51b7e7b49422",
+                    "hash": "0226c3e32c040080edc7b6ec2c955641854b8ff1",
+                    "quantity": 62
+                },
+                {
+                    "id": "f4667f2c-9006-39aa-b7d6-ab57307567ab",
+                    "hash": "1a8ae67e5a8063f3ad10d7c91afc7dfa4302bf28",
+                    "quantity": 68
+                },
+                {
+                    "id": "69ae0548-5e88-3feb-8cb9-a3e1528cc215",
+                    "hash": "81cb8696cb7b013f7179f03e33e41197be8c3a90",
+                    "quantity": 22
+                },
+                {
+                    "id": "a987e7c4-43e6-3bed-97c8-b19f10deb502",
+                    "hash": "4c41cfc89f6c46b0c49f6c1374c13e74b989d8ac",
+                    "quantity": -74
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "IT",
+            "categories": [
+                "ed3640d4-5ff6-34ce-a0c0-58ecca22dcbc",
+                "06631172-4fdc-334e-bb08-b56a186e20c4",
+                "4ad3d53f-0821-3049-b328-85bdf760896b",
+                "8df86845-ee2c-3442-891d-749005ee6163",
+                "d7e5f785-8da2-369d-a2ec-42c8c948a07f"
+            ],
+            "amazon_categories": [
+                "07795714-3d8b-36ac-bcb6-31ca5d365e49"
+            ],
+            "tb_categories": [
+                "e69049e5-dc90-3970-989c-a79d27642179",
+                "a1ecc9f6-e7de-3658-9a59-0eed8dc61388",
+                "95b53077-133d-3cc3-ba6a-6e3c687e3be8",
+                "2d4c65ef-d737-348f-bd14-d63361a8df9c"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 572,
+            "title": "Sasha Coat / 3XL",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "active",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-3XL",
+            "barcode": "9308231247432",
+            "tags": "pre-order,a,sale,eol,wip,summer,front-page,focus",
+            "price": "85.25",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "abbcd64b-0e39-3db1-b3a0-90d2e2b2cefc",
+                    "type": "size",
+                    "value": "3XL"
+                },
+                {
+                    "id": "fa406757-bb1c-3c3a-93c0-7947f4d67b49",
+                    "type": "materials",
+                    "value": [
+                        "Wooden"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "2804",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "aa2ee25c-ddcf-3db0-8f37-ea69c2dce82e",
+                    "hash": "96197f9497b77a0f7873d812c75f7fe68d09f5d7",
+                    "quantity": 73
+                },
+                {
+                    "id": "bd738624-fe41-3000-afe6-51f8880501d6",
+                    "hash": "0b300e02c94bde0351c3d9c7542f4efccd60e710",
+                    "quantity": -69
+                },
+                {
+                    "id": "a0e0a71a-42d4-30db-bc40-734eb5ac1cdf",
+                    "hash": "97494d9795ae6b31902849fce3e0953cb100affa",
+                    "quantity": 57
+                },
+                {
+                    "id": "25948c45-964b-3bc1-aa4a-9df2bd88d707",
+                    "hash": "e6afdd754550beefd09b489f61d03a02d66312c6",
+                    "quantity": 43
+                },
+                {
+                    "id": "32165f93-7aaa-3ea7-9161-3298b19082c4",
+                    "hash": "bfad75313dc6e5ff39d6a9966458631e46b4e6d9",
+                    "quantity": 64
+                },
+                {
+                    "id": "6bffeb03-f94c-3707-820f-61d2a49623cd",
+                    "hash": "d5dcbd6e09f2df1bf57099636281db3693e1fe43",
+                    "quantity": 18
+                },
+                {
+                    "id": "137ee7ff-82be-3ab5-afe4-1ca735d10f26",
+                    "hash": "d8c0c000bfae8284ea2e10cb765dcac4c88e3a5b",
+                    "quantity": -57
+                },
+                {
+                    "id": "87cd83c0-935f-3f79-bae0-9d27f75c8109",
+                    "hash": "a4a4c3af4a5b52afeede8b26269f7f710e5d81e3",
+                    "quantity": 74
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "CG",
+            "categories": [
+                "52ba2c76-59ac-3fb7-9425-d19a9cff7aa3",
+                "36e5696a-47f8-309e-9b46-29b9c11efbd9"
+            ],
+            "amazon_categories": [
+                "9f872662-7e6a-3927-b15b-68d33f87f4bc",
+                "89dc870b-37d3-3942-8e40-457af6fe15a6",
+                "1057ef9b-8cf1-3a9a-8a2c-64f8349fab0b",
+                "b2ab0382-4a8e-3af1-b9d6-e828a43445ca"
+            ],
+            "tb_categories": [
+                "a30c8b05-f8ee-363d-956d-d62ef237ca35",
+                "fc16a515-7b6c-32ee-b4d9-40f85764864d",
+                "19af1068-6d07-35e5-83af-d3fb913bcaa0",
+                "1131477e-bf2b-3f45-89fb-770afae25ef6",
+                "09c692fe-ce89-32e8-ab8d-a86c9d5fac11",
+                "15fcb091-e306-3d29-a2b0-6f7bd7986d33",
+                "4f5c7247-90d6-3bb4-ab0b-e0acaa846cf5",
+                "75718b72-b8fc-3975-8783-302aa65be4ae",
+                "5bee21ae-8bc8-3137-95e5-2542f0994cad",
+                "7f4f0a16-b402-3ac7-9e2e-30737170159e",
+                "89b68edd-833f-3ee3-815b-fa0b797b4508",
+                "16a0d7d6-cf3d-35b8-9c40-1463cdf2e157",
+                "3bb89d98-bcf5-3dfe-9806-c07cd21b5204",
+                "e5d5f893-fc93-31e4-af83-7c747d6e671d",
+                "30c3e3ae-2912-3ac4-8cde-3940e2aeb62d"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 571,
+            "title": "Sasha Coat / 2XL",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "active",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-2XL",
+            "barcode": "9098033603627",
+            "tags": "front-page,b,sale,wip,focus,pre-order",
+            "price": "96.15",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "eac0476e-b19e-38d5-bb20-cdf5ff99ce0d",
+                    "type": "size",
+                    "value": "2XL"
+                },
+                {
+                    "id": "2ac939fc-0176-3617-af04-fa7725572fa8",
+                    "type": "materials",
+                    "value": [
+                        "Cotton"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "5006",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "1a3e6a1d-25e9-3389-9a1e-bb483f193da0",
+                    "hash": "dba9b985678a014d15c06eeea3c9652afa874daf",
+                    "quantity": -55
+                },
+                {
+                    "id": "01e5ec61-5f50-3d8e-a805-f9a11748f318",
+                    "hash": "a9d862b372bc3ac6de9b42bcb7a42ed2b81f051f",
+                    "quantity": 64
+                },
+                {
+                    "id": "095779e8-b328-3046-b983-17c6db93ffd3",
+                    "hash": "a460d0d8d8882527291177f8ca5d5a424fe56bd4",
+                    "quantity": 55
+                },
+                {
+                    "id": "643a3c0d-f78f-3d1e-9c23-1b99e3415c4e",
+                    "hash": "9cdb0750c0a10e04d25f8ae3378af2991c5b3ec0",
+                    "quantity": 43
+                },
+                {
+                    "id": "f06cabfd-6734-35f7-ade6-7757ad80540f",
+                    "hash": "bc0dcba0579955a93803f0c5bb8caff6b2f6f1c2",
+                    "quantity": -13
+                },
+                {
+                    "id": "7b00bc30-ac14-31a5-80a9-dab30245e2cd",
+                    "hash": "726bd2a4bb975505288d870b2b0675c145829c0a",
+                    "quantity": -34
+                },
+                {
+                    "id": "f6eca93a-bc71-3d66-b83b-ca96d7f013b5",
+                    "hash": "5b5cc498070b6faa07cc26b954d7a0b9e4e5f84c",
+                    "quantity": 77
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "AI",
+            "categories": [
+                "87103dac-bf27-3806-8d25-af4acb599d14",
+                "f9baa764-7240-336d-9469-ee10063bbb82"
+            ],
+            "amazon_categories": [
+                "bb09459a-ae89-3e27-b8d2-cbd179d186c2",
+                "bcbd6ad2-1ff8-3a87-8e24-43fc69214eb4",
+                "81c1d65d-3bf8-3959-a248-f336147cdd98",
+                "402a9fbb-97b4-3b0e-97ad-25f0f8f21991",
+                "320e1a22-18d9-35e3-85dc-a5e78d54bdd6",
+                "0c177cfb-3c2e-330d-b9f7-071dd81d58eb",
+                "00d9879b-52b7-3480-a483-5044fdde3d35",
+                "7183d3a8-0a18-3afa-8bf0-77a53f246c79",
+                "0f2f8a1d-7207-380e-89fc-05b6d7e90786"
+            ],
+            "tb_categories": [
+                "8a842361-315a-3b21-900a-7c172e2304d7",
+                "4badc94a-1c8b-3b47-ab56-4d57323945ba",
+                "eb24aad4-a450-3a0f-9c7a-5df6adc385b4",
+                "5f0a6463-080a-3db3-8bf9-de166f69419c"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 570,
+            "title": "Sasha Coat / XL",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "active",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-XL",
+            "barcode": "2938814141740",
+            "tags": "front-page,new",
+            "price": "82.94",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "b266a004-8d0b-3655-acbd-cbf4b42e5bf5",
+                    "type": "size",
+                    "value": "XL"
+                },
+                {
+                    "id": "3dc03e6f-2b25-31da-9c4b-417eef763cd0",
+                    "type": "materials",
+                    "value": [
+                        "Metal"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "5124",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "01202574-7c9e-3cde-9218-db36ad76c3e1",
+                    "hash": "ab2e8a311dae72bfd2dcbf6fa8baf8bc2a918da0",
+                    "quantity": 23
+                },
+                {
+                    "id": "ebc5c067-ece6-3617-96af-3523d76ead07",
+                    "hash": "998c433b95de20ed2ea601d34de62ebf9de75330",
+                    "quantity": -76
+                },
+                {
+                    "id": "555cb4a1-ea7c-385a-869c-16083debc69c",
+                    "hash": "82da5ccde069afbda5c67db5211f417805c12213",
+                    "quantity": -9
+                },
+                {
+                    "id": "0e944c71-1435-3abf-a26f-739c3f45f229",
+                    "hash": "b40add12c69af03d5f283433cbe4ec3330484600",
+                    "quantity": -41
+                },
+                {
+                    "id": "3b401c9b-f13b-3eb4-8a0a-89444742fc2d",
+                    "hash": "27f180e80e5fd9fad7791aa378b3395d0abec224",
+                    "quantity": -37
+                },
+                {
+                    "id": "8b219108-e0be-3340-8eef-218e72d3763e",
+                    "hash": "b5c1ba126bad7d31866133bb2d894ba01a45ed34",
+                    "quantity": 32
+                },
+                {
+                    "id": "d95276b7-b7d1-3677-9691-e187bd954de7",
+                    "hash": "ca8d32fa34f642e0605abaa84e3ade524438a60c",
+                    "quantity": 74
+                },
+                {
+                    "id": "b87951a5-cbe7-339e-8971-39bb453ab820",
+                    "hash": "c8634ce78c47446c0454e9b5eb0b67431964d484",
+                    "quantity": 29
+                },
+                {
+                    "id": "34922b27-92e5-32b2-a0b4-08e55a6be7be",
+                    "hash": "0c2d13a680e35a5c740baf0317ef5192153306d7",
+                    "quantity": -76
+                },
+                {
+                    "id": "ba486af8-6f9d-320a-98cb-eefd05f2a3f4",
+                    "hash": "24a0647ef741599935b47e828fe5d202e0943ff6",
+                    "quantity": 71
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "GU",
+            "categories": [
+                "9171d750-8599-37e3-9469-403f704b1d26",
+                "88b84554-8a95-3178-9f43-a90f1672410c",
+                "80394e2d-9fe7-3601-a8cd-608e449aec15",
+                "35f53ab9-f928-3eb5-ba6a-0458d8da04e9",
+                "dc863522-9134-37a4-99ba-d902ab766189",
+                "1a65f855-c70a-3d8e-948c-780871eafc5d",
+                "391f4b8e-d41f-3749-b3bc-e13e91c223d3"
+            ],
+            "amazon_categories": [
+                "54b6e774-4c31-3e1d-af89-ed72ef697c95",
+                "430aa8dd-5b4a-37ba-9456-d89f2541fdaa",
+                "fdbfea9a-3213-3067-a9f0-24a394b5dde0",
+                "bb8db475-14db-3a6b-9433-dd570ab98ba1",
+                "d7d68749-3b49-383c-b7cf-6f9454994c08",
+                "c0324ada-432c-3a31-85c3-01c3d8f62f01",
+                "8999c4b1-fe7c-3e96-94a1-147a16a613c4",
+                "eb0c05f9-c549-39f9-9f3b-92bc01455be1",
+                "b7bf6395-175b-3f2d-a8bc-b73e909360c6"
+            ],
+            "tb_categories": [],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 569,
+            "title": "Sasha Coat / L",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "archived",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-L",
+            "barcode": "5725860429345",
+            "tags": "summer,new,wip,a,sale,eol,b",
+            "price": "79.48",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "f053edff-390f-37a6-aac9-fabb9a58560a",
+                    "type": "size",
+                    "value": "L"
+                },
+                {
+                    "id": "a4fb3ad4-fc5e-32c1-82c0-55d406cf7d06",
+                    "type": "materials",
+                    "value": [
+                        "Granite"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "5936",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "20ba0aec-aac6-32e6-860b-b8f37c96c1f1",
+                    "hash": "b7d12b5034c8d1cd72299ec6e2ba34ad2aca6b36",
+                    "quantity": -35
+                },
+                {
+                    "id": "939f179f-184f-3a44-b0e8-7213e082c986",
+                    "hash": "ffade58893bcd36562c8968dacfeaa409f9ef29f",
+                    "quantity": -25
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "GG",
+            "categories": [
+                "55dda5bc-757c-3b4c-b030-49a5cbf31f73",
+                "bcf5608b-e211-33a1-8b97-0893ae0e0526",
+                "bb53ffc5-b082-319a-987d-df49ad6c115b",
+                "2a2024de-aa14-31d5-b27d-f1f0d2a0e9f5",
+                "d87c663d-50bb-3829-8236-0a3d6bccf3ad",
+                "af798bbd-6929-37a3-afce-5fc71004755c",
+                "00ee83a9-a8fa-3d0b-b683-32ca003e1dae"
+            ],
+            "amazon_categories": [
+                "f3df65fd-8b77-3729-b8db-f1672acc1cde",
+                "162363d0-b4a9-375e-be47-d49a9c37760e",
+                "3e034264-ed5f-33d3-ba32-1d210c7ba3ca",
+                "51336c91-a097-347c-b702-b413d253740f",
+                "1cbfd8bb-43dd-3200-a2fb-b66e2b958418",
+                "decc9f80-9aa0-3510-a4cc-7a04583ed382",
+                "3460e4bd-f8a0-3b9e-9460-4529a45b2177",
+                "716c398f-ceb3-3a9a-ae22-e5ab1ac0d83d",
+                "24aa873e-9b7e-3880-8b8f-dfcb7a7d833f",
+                "9dcd8844-a789-3fa5-8d89-f5369cef91c9",
+                "026f57b1-a664-36c6-a20e-66d8b507ff44"
+            ],
+            "tb_categories": [
+                "9fba82e4-272c-3a46-956e-d1902c11e0ca",
+                "e0e96027-ecf3-3e9e-8b97-2b2d9262a8dc",
+                "6839fb31-f43d-3c4a-a020-77a506e38f77",
+                "c4a9763a-188e-363b-ad0f-43ea9c9be80b",
+                "255b8bd4-8d18-3c76-a357-2996420ad510",
+                "c040658e-13ba-3343-b27f-0f1caae687b1",
+                "1d234b65-6a55-3a9e-937f-6a2303a42e02",
+                "a9137e57-5a67-3aae-bbf0-531a9749a021",
+                "e0b04d99-fdac-323f-8772-7eafeca2ed93",
+                "b8493c1a-a577-3a71-8901-db47e0bbc144",
+                "dfa4809f-678f-3dbb-9658-4fa915c42322",
+                "5a73bcae-4820-385d-a9e4-9be2dbd4e8c2",
+                "7a00f87d-789a-3617-b7da-8842ae18c001",
+                "94a7409e-df9f-39c4-bf3e-5c742de06923"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 568,
+            "title": "Sasha Coat / M",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "active",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-M",
+            "barcode": "8473468917555",
+            "tags": "focus,a,summer,eol,new",
+            "price": "63.96",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "42c67fc5-d1b5-3e8b-bd4e-f556fba5b910",
+                    "type": "size",
+                    "value": "M"
+                },
+                {
+                    "id": "a2fe4e1c-280e-3169-a56d-ca9eb8e52c09",
+                    "type": "materials",
+                    "value": [
+                        "Plastic"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "2382",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "228b895c-0322-3b14-96ce-1f52fd1992cf",
+                    "hash": "237d568b3b16ba21adaffe00761ab82628cb96ed",
+                    "quantity": -42
+                },
+                {
+                    "id": "f18fa601-8a31-3b11-a053-75ce4a996ce0",
+                    "hash": "2f8ba40024ef311913739f4caeff439c341b4165",
+                    "quantity": -8
+                },
+                {
+                    "id": "d8afbb4f-f90c-37e9-95ef-9fef6fed286f",
+                    "hash": "6e6a1bf668d77726daf6ba8c0a8901f5770cc26c",
+                    "quantity": 13
+                },
+                {
+                    "id": "0b6cc4c2-dbbf-3a66-bcff-fd604c870256",
+                    "hash": "f596c138e84e65989d9977adc6c5afd6390e4d4c",
+                    "quantity": 5
+                },
+                {
+                    "id": "04b971bf-27e0-3a03-ac3a-a73edc8f0853",
+                    "hash": "2f75125f87db81c15b60d3ec341174691aad7973",
+                    "quantity": -1
+                },
+                {
+                    "id": "0614ac89-a657-3a7f-b5f4-5373f0a06aaf",
+                    "hash": "c27999dbea72a485f94c8c0d794b29d8188078ee",
+                    "quantity": -71
+                },
+                {
+                    "id": "77481e73-2ecf-3583-b932-b367cfbf3783",
+                    "hash": "ec99f70d04e8541c23c6ad29709830deb2e0c33a",
+                    "quantity": 71
+                },
+                {
+                    "id": "7ffd3481-315a-3263-8ecc-71adcfbe11ec",
+                    "hash": "b857e995b575ff6d790d20c7ad049108202101d5",
+                    "quantity": 81
+                },
+                {
+                    "id": "3a90f2fb-e08e-3d13-83ad-9ed838c8eb3f",
+                    "hash": "e59ae50d7b2f4adccc75b16c077acd138562c04f",
+                    "quantity": -49
+                },
+                {
+                    "id": "ce3a5610-bb9f-32bb-83fa-6ecb69098745",
+                    "hash": "6f507176155d57d4aeb75ac49a5cd96eed0074fe",
+                    "quantity": -64
+                },
+                {
+                    "id": "428be194-e99c-365c-bdaa-353201dc4d2a",
+                    "hash": "84612c7c3b0cdf51464e88cff9a1a9374ed30f4b",
+                    "quantity": -18
+                },
+                {
+                    "id": "3f79aa2e-c39c-34d0-8756-e307fa4fee55",
+                    "hash": "183b444844a7f341271197fb4c5ae34f37604c22",
+                    "quantity": -73
+                },
+                {
+                    "id": "b7565f3a-6bbc-3f35-aced-5d4cb2dbabb0",
+                    "hash": "3200d2bbb486c81e57296bc9db484a00b66d6437",
+                    "quantity": 83
+                },
+                {
+                    "id": "21647314-b1c3-306f-b73f-f59a18de8589",
+                    "hash": "d32dd895bf88dcdc38f6b9e310d82d038935f4bd",
+                    "quantity": -53
+                },
+                {
+                    "id": "d9c2f5ba-4dd1-30c7-8296-607c0bc133f1",
+                    "hash": "c205aeb1477ffc45bb60140c3f38904415f1fb39",
+                    "quantity": 99
+                },
+                {
+                    "id": "2d64a16a-b58a-3625-9aa0-d290e586cc34",
+                    "hash": "e3c3eecb0e534988c86bc63e7cb8bb9293c55908",
+                    "quantity": 13
+                },
+                {
+                    "id": "b9ec35fb-d627-3d12-a7a2-9aea98babdab",
+                    "hash": "43f43f1fca7836bbdeefb28a4b23211eb7d8611a",
+                    "quantity": -80
+                },
+                {
+                    "id": "e35b34d3-156a-3b83-a5eb-8020f8b64591",
+                    "hash": "0f6ca24927d241084f8d1b9e1e3bbb668ab2f551",
+                    "quantity": 68
+                },
+                {
+                    "id": "bbbacb38-f62f-3880-b369-857733f6a918",
+                    "hash": "6fa67c645f03ab98dd44a618e13644a79a24162d",
+                    "quantity": 92
+                },
+                {
+                    "id": "d072e0c7-e2e8-3082-a999-631c04dd63b9",
+                    "hash": "311ff95bcdea14ad0379db5881e7f46af4bc1393",
+                    "quantity": 6
+                },
+                {
+                    "id": "fea66583-c6ac-3558-bcbb-b1bee2b2441f",
+                    "hash": "8ebf2f3dc70e09b261639a52f4fd17d67c58fa6d",
+                    "quantity": 47
+                },
+                {
+                    "id": "79be729e-55a1-39c7-bced-73382846d374",
+                    "hash": "474c89c61207bd2ee8772000dfe913dbbaa78e81",
+                    "quantity": 8
+                },
+                {
+                    "id": "46dde0c6-f3b3-3de1-ab20-c70f3c06f570",
+                    "hash": "0c6ef4bf6c82e2fcf061a61f74415d64204f5554",
+                    "quantity": 5
+                },
+                {
+                    "id": "7c8b8962-dadd-3bce-a3f3-fa207fe4c0b0",
+                    "hash": "382b0efa815ad323058a7fc570fc326a159372c3",
+                    "quantity": 6
+                },
+                {
+                    "id": "d2547f0c-f141-3e01-a73c-7033c7307ac2",
+                    "hash": "5288817892e0993e597de7822d6ff8fd6f9f9f9b",
+                    "quantity": 6
+                },
+                {
+                    "id": "6f3d8921-7646-3c3e-b6ee-cedc4d2cf5df",
+                    "hash": "bd2a51faa6a7525574b33a7b90f91a460c24bc73",
+                    "quantity": -95
+                },
+                {
+                    "id": "8aecce1c-a272-305b-8fb2-4802551968e9",
+                    "hash": "0b6952f699f38cd5a2703cd450e0bc54da18f133",
+                    "quantity": 77
+                },
+                {
+                    "id": "261f45e5-b4b4-331b-9935-c0c53c2260e0",
+                    "hash": "1474fe2524108d9312c0ec4d316a401c1d55296e",
+                    "quantity": 34
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "TL",
+            "categories": [
+                "81e9c13e-5ac2-3af6-a139-559c22f6156e",
+                "24e15bc8-2609-3a01-8cfb-d111d8bfbc12",
+                "65c21cd3-b3fa-318f-9ace-425c66227fe5",
+                "882dc3d0-69bf-318e-ab89-f10875106b4c",
+                "66ccde27-fac6-37df-87e4-306f52e1a5d1"
+            ],
+            "amazon_categories": [
+                "4135c3e4-32f4-359b-928c-525ea1b3d86b",
+                "40923e34-68a3-3a52-8fa2-390899a2facc",
+                "4338fa19-cf57-3e3b-a210-1599cf1b5979",
+                "5af3a2c1-7825-38ab-af62-297a0471b25e",
+                "2fe05cab-a1e5-3613-a7b8-80be84448cfd",
+                "d40ec142-db0b-3167-b504-9149584f5074",
+                "c08ec1b1-19f8-396a-9bb9-8d660268c865",
+                "0e452723-1084-366f-8a01-80069c4d5775",
+                "0ee68d67-6deb-30f9-8327-bc9cde518322",
+                "c63897aa-225c-3f6b-85fe-a0e963390499",
+                "b4377c0b-9318-3c08-a167-ec2549380eeb"
+            ],
+            "tb_categories": [
+                "e466c589-8377-3dc7-862c-df97f33c55b8",
+                "a1a0f12b-491a-3a71-a06e-8d2dd5b4b3ad",
+                "72ba51ae-a813-3b73-b113-efa8f4b8e91d"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 567,
+            "title": "Sasha Coat / S",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "archived",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-S",
+            "barcode": "8692186034195",
+            "tags": "focus,summer",
+            "price": "93.63",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "00bc985e-43e5-37ab-8557-3036da3c2d7b",
+                    "type": "size",
+                    "value": "S"
+                },
+                {
+                    "id": "c4132226-811b-38e9-97ce-8c90aeb44165",
+                    "type": "materials",
+                    "value": [
+                        "Plastic"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "1717",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "b0201663-5ddf-341a-a8ec-1df9312fce7e",
+                    "hash": "44b2128f03991554a3fc11d13894278d03f656e3",
+                    "quantity": -24
+                },
+                {
+                    "id": "ec4a81cf-fbf4-388a-8dbd-abe5cf3e2087",
+                    "hash": "8e9fdb0ecaf6e0f1f65ff77b3fb75a12b397d4b8",
+                    "quantity": -4
+                },
+                {
+                    "id": "de187b84-a647-3736-8110-f9985f84c307",
+                    "hash": "e7268353ea361d6afcb6cca4bd0b093f8970b29f",
+                    "quantity": -45
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "ID",
+            "categories": [
+                "d9168450-6c1d-3aa1-853c-b6bb979f3313",
+                "c73d309c-888f-3740-a8e6-aeb19c833759",
+                "8ac21614-dced-31d2-841b-153535e26411"
+            ],
+            "amazon_categories": [
+                "2367abba-7c27-3962-9c4e-450f0529185a"
+            ],
+            "tb_categories": [
+                "b1b8f364-2901-3c0f-8d9f-47944e68d1a8"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 566,
+            "title": "Sasha Coat / XS",
+            "subtitle": "Ducimus est omnis rerum eaque.",
+            "status": "active",
+            "desc": "Rerum est corrupti odit eum incidunt mollitia. Delectus non quia nemo fugiat ullam quod. Est rerum voluptatem ea quibusdam. Aut unde inventore dicta qui amet. Sed ipsam consequatur quia beatae voluptatum omnis. Assumenda voluptas rerum quidem. Delectus optio dolorum enim voluptatum enim quia.",
+            "sku": "PBDV3217-XS",
+            "barcode": "1019859057249",
+            "tags": "summer",
+            "price": "77.6",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "9a57f331-1938-3fba-9ae3-2da7cd94f455",
+                    "type": "size",
+                    "value": "XS"
+                },
+                {
+                    "id": "95553978-35f3-3c75-b499-abb5d7f562a6",
+                    "type": "materials",
+                    "value": [
+                        "Rubber"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "5651",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "54036dfb-d34a-3009-be6f-e48a13c7e814",
+                    "hash": "c6911f071bc0a91cef9addb4997ea1e356ae39bf",
+                    "quantity": 15
+                },
+                {
+                    "id": "ee73326c-d25a-34e3-bab5-534c8240994d",
+                    "hash": "df7d86139e8a57b67e8f70e21652ad0f3680d1e1",
+                    "quantity": 20
+                },
+                {
+                    "id": "fc564767-9867-31b1-b72b-8921b1e2d891",
+                    "hash": "b8654f6c0c1179e1c0592d7f9892f39984712a07",
+                    "quantity": 90
+                },
+                {
+                    "id": "52d8aa41-2aad-3e32-9b0b-21ce74d2ec2c",
+                    "hash": "f57f3f5e5d50513548446b1048716082b28d10a6",
+                    "quantity": -25
+                },
+                {
+                    "id": "29fb0c16-4f1a-3149-b553-caf7d9c741be",
+                    "hash": "d77cc0e80612f3db017362837c9a7ca2a01590e7",
+                    "quantity": -36
+                },
+                {
+                    "id": "d4635057-df7d-3324-804e-b10cd2a748d0",
+                    "hash": "159351391b4e1e638381ed16d9f774f2df58fe3f",
+                    "quantity": 70
+                },
+                {
+                    "id": "c3eaa269-9168-393d-b63b-480470729d19",
+                    "hash": "bf038bd08b97033930911225d211a71279bf2b63",
+                    "quantity": -15
+                },
+                {
+                    "id": "27bd2081-04e5-370f-9b41-628e2a0d5032",
+                    "hash": "645f3d7063dfd9a0ba45dadc462e53198ec48e2d",
+                    "quantity": -18
+                },
+                {
+                    "id": "54f07527-2c1a-3cb1-aaf1-010740e442ff",
+                    "hash": "53d2ca9e5dccdcd3863d3063bfb5080ec1018cb1",
+                    "quantity": 41
+                },
+                {
+                    "id": "184863ad-453a-3a76-9afd-41a1eab8eeaf",
+                    "hash": "6ce54d97fc4985db34ee0f9074eb972e1d094900",
+                    "quantity": 8
+                },
+                {
+                    "id": "65c97662-f4d5-3034-8120-f08602c03c7c",
+                    "hash": "ac33aab21b7614480cc6887162d3ec0c9653d51d",
+                    "quantity": -11
+                },
+                {
+                    "id": "5a0558ae-66a3-355a-abba-d78dbf947621",
+                    "hash": "63a4abe044f4e374951208d4833a8e6766af93bc",
+                    "quantity": -1
+                },
+                {
+                    "id": "425f1aa9-deff-305f-b5e2-28865a465b38",
+                    "hash": "656ff16181982348acb35ebff0b411f6764d7b30",
+                    "quantity": -70
+                },
+                {
+                    "id": "bc9ddf9a-5a68-3de5-8072-a82f4101f9bf",
+                    "hash": "41fda6f353f2b80c4dbf8ab08d6a1d55a4d58bd3",
+                    "quantity": 10
+                },
+                {
+                    "id": "4f1e842f-53fe-363b-8197-2938f46f20cf",
+                    "hash": "4f9962f8607bfa2be02b1c09b8821a1106660c82",
+                    "quantity": 86
+                },
+                {
+                    "id": "690d9223-3e00-3207-a56b-1d1bce1cb911",
+                    "hash": "3f132a552e0aef8270140511e561ee8d9b175f60",
+                    "quantity": -8
+                },
+                {
+                    "id": "2358dfa4-fe6d-3d14-be47-f302ff633dd3",
+                    "hash": "629cca123888e9cb4ac37f0e6a562fa151d8ad1b",
+                    "quantity": -23
+                },
+                {
+                    "id": "976773ea-e45a-32d7-9d9f-6dc2464cd932",
+                    "hash": "0a3ba1fce504db38f2783050b872f7dddc08cb83",
+                    "quantity": -32
+                },
+                {
+                    "id": "8cbc57c2-cfe0-3931-b488-34198d8c6737",
+                    "hash": "43a451b65080cf33f5c4d388560c2e1e30b3884c",
+                    "quantity": 39
+                },
+                {
+                    "id": "04f06f30-ef29-3d71-bf3b-08d20d1ad9d8",
+                    "hash": "5a265daecd7abac3fea68a6a212e5cdddb107911",
+                    "quantity": -8
+                }
+            ],
+            "parent_sku": "PBDV3217",
+            "parent_title": "Sasha Coat",
+            "product_type": "Coat",
+            "county_of_origin": "BO",
+            "categories": [
+                "2f99b1d2-3769-30b0-b7f4-581b7be71fe9",
+                "f729ae6c-a516-3c5f-b8d7-c38f11312638",
+                "79238605-6838-3424-9347-cfec1a99ac13",
+                "4e8f03e9-a89e-3501-85e3-f872ce023d9b",
+                "a99172d2-76f6-3947-824d-072311b1a6c9"
+            ],
+            "amazon_categories": [
+                "2cf2e61a-7647-34af-86c1-5e9b38cebe16",
+                "7e8a1caa-d0a6-325a-bc29-323138442e32",
+                "87a5af06-2406-3879-a48c-101251447b42",
+                "3f5015a5-5b87-3630-b4f5-a77638e857e1",
+                "f75d2bfa-d25c-3be9-b753-0746c9b19676",
+                "4531a216-b7c8-3003-9edd-156adbad542e"
+            ],
+            "tb_categories": [
+                "d8c4937b-264b-3712-9943-2e467ab504ce",
+                "3c797ca2-8f7f-3f75-bcc0-24114a924580",
+                "44dfd7b0-8b5c-355b-9e27-5c6456790bf6",
+                "dfe0cab2-e7f6-35ca-9fa5-d5363a990593",
+                "9f8084b4-a671-37e0-aecb-9b2ea25b5dad",
+                "68841e38-b8c3-397f-9c21-863e99541f05",
+                "388eaf89-2d78-3e14-b8b5-d554cf1162ab",
+                "2dc52fe3-5268-3ebb-9c65-cdb16025bc37",
+                "3c41ba04-2064-3a2d-b6d9-2c93e7f603d1",
+                "e426aaac-0876-3a1f-8ce8-d481ffba402f",
+                "1921d231-4cd0-3e2f-aeaa-2fd2eabb43f2",
+                "39382d10-894d-3255-874d-c8d4cc33d6c3",
+                "726cd897-f1f9-39e5-ba47-88bd08a2079f",
+                "cb925a2f-48ec-3937-969a-15da9b8c4f36",
+                "d4191913-3546-3f30-a1d1-ab0050101475"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        },
+        {
+            "id": 565,
+            "title": "Madalyn T-Shirt / 6XL",
+            "subtitle": "Consequatur vero blanditiis ab nihil voluptates.",
+            "status": "active",
+            "desc": "Sequi porro tempora labore aliquam provident alias. Officia quisquam non eligendi in ipsam sit. Architecto voluptas amet et commodi. Aliquam amet ratione ratione molestias. Debitis quis id sint dolorem labore maiores. Modi sed iusto et omnis omnis.",
+            "sku": "THSB7146-6XL",
+            "barcode": "3256085002669",
+            "tags": "pre-order,new,sale,front-page,a,focus,b",
+            "price": "51.77",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "28010982-eaad-39ba-9f46-d5e312eda373",
+                    "type": "size",
+                    "value": "6XL"
+                },
+                {
+                    "id": "8797a839-7009-34bb-9b27-8e677387e184",
+                    "type": "materials",
+                    "value": [
+                        "Fresh"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "4487",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "55aef876-55a8-3667-adf6-678ebb9c9a16",
+                    "hash": "6b8bcbe3c32f469a8cdaea7836cc55bb9d8e38b2",
+                    "quantity": 71
+                },
+                {
+                    "id": "b836f424-a8b3-3aa3-a9d6-010fec17b322",
+                    "hash": "31d2699442db6743e2a327f59d0b6cd7715cd3ed",
+                    "quantity": -83
+                },
+                {
+                    "id": "7af27ae3-06f2-3359-a1a1-04db93447079",
+                    "hash": "a83a474364ec6afeaf90cc12301c08daaeee8052",
+                    "quantity": -35
+                },
+                {
+                    "id": "5081b84a-4f0b-3627-9c1e-8873c0b5b4fb",
+                    "hash": "18d721be5adddbfc03c0f97932032d605249cf5c",
+                    "quantity": -20
+                },
+                {
+                    "id": "2c1be7cf-d2c5-3c68-9caa-34419e502780",
+                    "hash": "13f31e03d36d9acadb76d929fb5703711a3c37d0",
+                    "quantity": 43
+                },
+                {
+                    "id": "72282ade-984d-3df8-8f04-5ee764d13315",
+                    "hash": "fa0fc7c9ec6e5c8905b8193c73abf31a35aa8664",
+                    "quantity": -37
+                },
+                {
+                    "id": "a8e14074-1b99-3cb7-85ca-1b61d593c2f2",
+                    "hash": "4e1b299653f2ead41c03b2fc6192481e24ffcf80",
+                    "quantity": 86
+                },
+                {
+                    "id": "7fb73bac-f7b5-30fd-a2a4-d68cd70f850c",
+                    "hash": "06159f5720b71e6c7c16decd0901d6dffd1a3df0",
+                    "quantity": -70
+                },
+                {
+                    "id": "5f67b70f-e765-3066-8b8c-e1d2164a6235",
+                    "hash": "512631967176221f4c5548a233313c155f27856d",
+                    "quantity": -9
+                },
+                {
+                    "id": "b4ae8a97-e0b1-3151-bf17-ca6e3a41224b",
+                    "hash": "559b6b700bc6ac0d326bd45bb8643771f69dcbda",
+                    "quantity": -13
+                },
+                {
+                    "id": "50a3f9cd-a893-3472-9adc-1405114b0943",
+                    "hash": "2b266f5aedb18fe33e16002fcfc65c94b57cc3d1",
+                    "quantity": -41
+                }
+            ],
+            "parent_sku": "THSB7146",
+            "parent_title": "Madalyn T-Shirt",
+            "product_type": "T-Shirt",
+            "county_of_origin": "TL",
+            "categories": [
+                "61123fda-9ba2-3595-afd4-c0d886bc79d1"
+            ],
+            "amazon_categories": [
+                "e35d2dfa-8aa7-35f4-a305-c5bf957ee2bc",
+                "224e7c79-9637-3029-9176-8849a8d88f7f",
+                "59329d20-8723-3663-b55c-66be56135bd3",
+                "d2fc040d-be17-36b1-be0e-25122dad1b3a",
+                "2812ca4e-945a-30e9-865f-28034749c677",
+                "3bbf9efc-1e72-39ca-b270-563ee904cc6a",
+                "f042ab57-ead2-3e47-a4c3-c3b5753ea7f9",
+                "90db5360-2d2e-3184-a129-00bee4d5ad04"
+            ],
+            "tb_categories": [
+                "3a8c23c9-cbd4-3559-b6de-dd4d18d318b0"
+            ],
+            "created_at": "2024-10-18T11:34:10.000000Z",
+            "updated_at": "2024-10-18T11:34:10.000000Z"
+        }
+    ],
+    "first_page_url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "https://source-api.local/api/flat-feed?sort=-id&page=2",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "https://source-api.local/api/flat-feed?sort=-id&page=2",
+            "label": "2",
+            "active": false
+        },
+        {
+            "url": "https://source-api.local/api/flat-feed?sort=-id&page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": "https://source-api.local/api/flat-feed?sort=-id&page=2",
+    "path": "https://source-api.local/api/flat-feed",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 15,
+    "total": 29
+}
