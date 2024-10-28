@@ -2,6 +2,7 @@
 
 declare(strict_types=1);
 
+use App\Http\Integrations\TargetApi\Data\Objects\ProductObjectData;
 use App\Http\Integrations\TargetApi\Data\Products\ListProductsResponseData;
 use Illuminate\Support\Collection;
 use Saloon\Exceptions\Request\Statuses\InternalServerErrorException;
@@ -32,12 +33,17 @@ it('can paginate and transform a paginated response', function () {
 
     $response = $connector->products()->listProductsPaginated();
 
+    // Workaround. By using $response->collect(), we'd run into the following error:
+    // > Saloon was unable to guess a mock response for your request
+    // > [https://target-api.local/api/flat-feed?sort=id&page=0], consider using a wildcard url mock or a connector mock.
     $items = collect();
     foreach ($response->items() as $item) {
         $items->push($item);
     }
 
-    expect($items)->toHaveCount(25);
+    expect($items)
+        ->toHaveCount(25)
+        ->toContainOnlyInstancesOf(ProductObjectData::class);
 });
 
 it('can correctly assign parameters', function () {

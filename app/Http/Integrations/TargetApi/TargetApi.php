@@ -50,7 +50,7 @@ class TargetApi extends Connector
 
             protected function getPageItems(Response $response, Request $request): array
             {
-                return $response->json('data');
+                return $response->dtoOrFail()->data->all();
             }
 
             protected function applyPagination(Request $request): Request
