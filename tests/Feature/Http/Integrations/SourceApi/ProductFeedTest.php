@@ -4,26 +4,15 @@ declare(strict_types=1);
 
 use App\Http\Integrations\SourceApi\Data\Objects\ProductObjectData;
 use App\Http\Integrations\SourceApi\Data\ProductFeed\ProductFeedResponseData;
-use App\Http\Integrations\SourceApi\SourceApi;
-use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Saloon\Exceptions\Request\Statuses\InternalServerErrorException;
-use Saloon\Http\Faking\MockClient;
 use Saloon\Http\Faking\MockResponse;
+use Tests\Feature\Http\Integrations\SourceApi\Concerns\SourceApiHelpers;
 
-/** @return array{0: MockClient, 1: SourceApi} */
-function createSourceApiConnector(array $mocks = []): array
-{
-    $mockClient = new MockClient($mocks);
-
-    $connector = new SourceApi;
-    $connector->withMockClient($mockClient);
-
-    return [$mockClient, $connector];
-}
+uses(SourceApiHelpers::class);
 
 it('can request and transform a response', function () {
-    [, $connector] = createSourceApiConnector([
+    [, $connector] = $this->createSourceApiConnector([
         MockResponse::make(body: loadJsonMockFile(__DIR__.'/fixtures/ProductFeedRequest_200_page1.json')),
     ]);
 
@@ -38,7 +27,7 @@ it('can request and transform a response', function () {
 });
 
 it('can paginate and transform a paginated response', function () {
-    [, $connector] = createSourceApiConnector([
+    [, $connector] = $this->createSourceApiConnector([
         MockResponse::make(body: loadJsonMockFile(__DIR__.'/fixtures/ProductFeedRequest_200_page1.json')),
         MockResponse::make(body: loadJsonMockFile(__DIR__.'/fixtures/ProductFeedRequest_200_page2.json')),
     ]);
@@ -60,33 +49,33 @@ it('can paginate and transform a paginated response', function () {
 
 it('can correctly assign parameters', function () {
     // page
-    [, $connector] = createSourceApiConnector([MockResponse::make()]);
+    [, $connector] = $this->createSourceApiConnector([MockResponse::make()]);
     $response = $connector->getProductFeed(page: 5);
     expect($response->getRequest()->query()->get('page'))->toBe(5);
 
     // sortAsc
-    [, $connector] = createSourceApiConnector([MockResponse::make()]);
+    [, $connector] = $this->createSourceApiConnector([MockResponse::make()]);
     $response = $connector->getProductFeed(sort: 'sku', sortDir: 'asc');
     expect($response->getRequest()->query()->get('sort'))->toBe('sku');
 
     // sortDesc
-    [, $connector] = createSourceApiConnector([MockResponse::make()]);
+    [, $connector] = $this->createSourceApiConnector([MockResponse::make()]);
     $response = $connector->getProductFeed(sort: 'sku', sortDir: 'desc');
     expect($response->getRequest()->query()->get('sort'))->toBe('-sku');
 
     // sortDefault
-    [, $connector] = createSourceApiConnector([MockResponse::make()]);
+    [, $connector] = $this->createSourceApiConnector([MockResponse::make()]);
     $response = $connector->getProductFeed(sort: 'sku');
     expect($response->getRequest()->query()->get('sort'))->toBe('sku');
 
     // sortDefault
-    [, $connector] = createSourceApiConnector([MockResponse::make()]);
+    [, $connector] = $this->createSourceApiConnector([MockResponse::make()]);
     $response = $connector->getProductFeed(fields: ['id', 'sku']);
     expect($response->getRequest()->query()->get('fields[catalog_entries]'))->toBe('id,sku');
 });
 
 it('can retry a request', function () {
-    [$mockClient, $connector] = createSourceApiConnector([
+    [$mockClient, $connector] = $this->createSourceApiConnector([
         MockResponse::make(
             body: loadJsonMockFile(__DIR__.'/fixtures/ProductFeedRequest_500.json'),
             status: 500,
@@ -103,7 +92,7 @@ it('can retry a request', function () {
 });
 
 it('fails after 3 retries', function () {
-    [$mockClient, $connector] = createSourceApiConnector([
+    [$mockClient, $connector] = $this->createSourceApiConnector([
         MockResponse::make(
             body: loadJsonMockFile(__DIR__.'/fixtures/ProductFeedRequest_500.json'),
             status: 500,
