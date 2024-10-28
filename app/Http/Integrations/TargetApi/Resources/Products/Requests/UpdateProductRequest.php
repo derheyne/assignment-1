@@ -5,12 +5,16 @@ declare(strict_types=1);
 namespace App\Http\Integrations\TargetApi\Resources\Products\Requests;
 
 use App\Http\Integrations\TargetApi\Data\Objects\ProductObjectData;
+use Saloon\Contracts\Body\HasBody;
 use Saloon\Enums\Method;
 use Saloon\Http\Request;
 use Saloon\Http\Response;
+use Saloon\Traits\Body\HasJsonBody;
 
-class UpdateProductRequest extends Request
+class UpdateProductRequest extends Request implements HasBody
 {
+    use HasJsonBody;
+
     protected Method $method = Method::PUT;
 
     public function __construct(

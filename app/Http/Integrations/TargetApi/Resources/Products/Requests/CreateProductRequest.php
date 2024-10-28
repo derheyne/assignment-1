@@ -5,12 +5,16 @@ declare(strict_types=1);
 namespace App\Http\Integrations\TargetApi\Resources\Products\Requests;
 
 use App\Http\Integrations\TargetApi\Data\Objects\ProductObjectData;
+use Saloon\Contracts\Body\HasBody;
 use Saloon\Enums\Method;
 use Saloon\Http\Request;
 use Saloon\Http\Response;
+use Saloon\Traits\Body\HasJsonBody;
 
-class CreateProductRequest extends Request
+class CreateProductRequest extends Request implements HasBody
 {
+    use HasJsonBody;
+
     protected Method $method = Method::POST;
 
     public function __construct(protected readonly ProductObjectData $product) {}
