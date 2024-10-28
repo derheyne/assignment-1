@@ -40,7 +40,6 @@ class SyncProducts extends Command
         } catch (RequestException|FatalRequestException $exception) {
             Log::error(__CLASS__.': Could not fetch source list of variants', [
                 'exception' => $exception,
-                'responseStatus' => $exception->getStatus(),
             ]);
 
             report($exception);

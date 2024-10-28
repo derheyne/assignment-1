@@ -115,14 +115,30 @@ class SourceApi extends Connector
 
     public function handleRetry(FatalRequestException|RequestException $exception, Request $request): bool
     {
-        $response = $exception->getResponse();
+        $context =  [
+            'exceptionClass' => $exception::class,
+        ];
 
-        Log::warning(__CLASS__.': Request resulted in an error. Retrying ...', [
-            'requestEndpoint' => $response->getPsrRequest()->getUri(),
-            'requestMethod' => $request->getMethod()->value,
-            'responseBody' => $response->body(),
-            'responseStatus' => $response->status(),
-        ]);
+        if ($exception instanceof RequestException) {
+            $response = $exception->getResponse();
+
+            $context += [
+                'requestEndpoint' => $response->getPsrRequest()->getUri(),
+                'requestMethod' => $request->getMethod()->value,
+                'responseBody' => $response->body(),
+                'responseStatus' => $response->status(),
+            ];
+        } else {
+            $context += [
+                'exception' => $exception,
+                'requestEndpoint' => $request->resolveEndpoint(),
+                'requestMethod' => $request->getMethod()->value,
+            ];
+
+            report($exception);
+        }
+
+        Log::warning(__CLASS__.': Request resulted in an error. Retrying ...', $context);
 
         return true;
     }
