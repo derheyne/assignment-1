@@ -11,19 +11,16 @@ use Spatie\LaravelData\Mappers\SnakeCaseMapper;
 #[MapInputName(SnakeCaseMapper::class)]
 class VariantObjectData extends Data
 {
-    public string $sku;
-
-    #[MapInputName('desc')]
-    public ?string $description;
-
-    /** @var array<int, string> */
-    public array $tags;
-
-    public ?string $price;
-
-    public ?string $title;
-
-    public ?string $subtitle;
-
-    public ?string $compareAtPrice;
+    public function __construct(
+        public string $sku,
+        #[MapInputName('desc')]
+        public ?string $description = null,
+        /** @var array<int, string> */
+        public array $tags,
+        public ?string $price = null,
+        public ?string $title = null,
+        public ?string $subtitle = null,
+        public ?string $compareAtPrice = null,
+    ) {
+    }
 }

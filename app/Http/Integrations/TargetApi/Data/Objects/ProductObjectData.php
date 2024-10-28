@@ -9,31 +9,25 @@ use Illuminate\Support\Collection;
 use Spatie\LaravelData\Attributes\MapInputName;
 use Spatie\LaravelData\Data;
 use Spatie\LaravelData\Mappers\SnakeCaseMapper;
+use Spatie\LaravelData\Optional;
 
 #[MapInputName(SnakeCaseMapper::class)]
 class ProductObjectData extends Data
 {
-    public ?string $title;
-
-    public string $sku;
-
-    public ?string $type;
-
-    public ?string $inventoryPolicy;
-
-    public ?string $taxable;
-
-    public ?string $minPrice;
-
-    public ?string $maxPrice;
-
-    /** @var array<int, string> */
-    public array $tags;
-
-    /** @var Collection<int, VariantObjectData> */
-    public Collection $variants;
-
-    public Carbon $createdAt;
-
-    public Carbon $updatedAt;
+    public function __construct(
+        public string $sku,
+        public ?string $title = null,
+        public ?string $type = null,
+        public ?string $inventoryPolicy = null,
+        public ?string $taxable = null,
+        public ?string $minPrice = null,
+        public ?string $maxPrice = null,
+        /** @var array<int, string> */
+        public array $tags = [],
+        /** @var Collection<int, VariantObjectData> */
+        public Collection $variants,
+        public Carbon|Optional $createdAt,
+        public Carbon|Optional $updatedAt,
+    ) {
+    }
 }
