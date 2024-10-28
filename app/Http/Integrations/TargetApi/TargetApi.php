@@ -62,7 +62,7 @@ class TargetApi extends Connector
 
             protected function getTotalPages(Response $response): int
             {
-                return $response->json('total');
+                return $response->json('last_page');
             }
         };
     }
