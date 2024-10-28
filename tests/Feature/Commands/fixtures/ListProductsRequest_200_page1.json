@@ -1,0 +1,137 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "title": "Delete product",
+            "sku": "DELETE",
+            "type": "Suit",
+            "inventory_policy": "voluptas",
+            "taxable": "1",
+            "min_price": "1.23",
+            "max_price": "4.56",
+            "tags": [
+                "test",
+                "zwei"
+            ],
+            "variants": [
+                {
+                    "sku": "DELETE-123",
+                    "desc": "quisquam",
+                    "tags": [
+                        "world",
+                        "foo"
+                    ],
+                    "price": "882",
+                    "title": "Voluptas dolores veritatis a.",
+                    "subtitle": "harum",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-26T13:41:35.000000Z",
+            "updated_at": "2024-10-26T13:41:35.000000Z"
+        },
+        {
+            "title": "Update product",
+            "sku": "UPDATE",
+            "type": "Skirt",
+            "inventory_policy": "sunt",
+            "taxable": "1",
+            "min_price": "11.42",
+            "max_price": "95.79",
+            "tags": [
+                "a",
+                "b",
+                "eol",
+                "focus",
+                "front-page",
+                "new",
+                "pre-order",
+                "sale",
+                "summer",
+                "wip"
+            ],
+            "variants": [
+                {
+                    "sku": "UPDATE-L",
+                    "desc": "Exercitationem molestiae atque dignissimos sed provident. Quisquam nobis voluptate excepturi laudantium distinctio. Rerum et aliquid quo sapiente praesentium. Qui saepe recusandae quo voluptatem consectetur. Aperiam ea accusantium dolor. Non nesciunt animi quibusdam adipisci et. Deserunt sint consequatur sapiente tempore inventore.",
+                    "tags": [
+                        "sale",
+                        "front-page",
+                        "new",
+                        "wip",
+                        "pre-order",
+                        "a",
+                        "summer"
+                    ],
+                    "price": "11.42",
+                    "title": "Update product / L",
+                    "subtitle": "Ex asperiores ut nostrum.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UPDATE-M",
+                    "desc": "Exercitationem molestiae atque dignissimos sed provident. Quisquam nobis voluptate excepturi laudantium distinctio. Rerum et aliquid quo sapiente praesentium. Qui saepe recusandae quo voluptatem consectetur. Aperiam ea accusantium dolor. Non nesciunt animi quibusdam adipisci et. Deserunt sint consequatur sapiente tempore inventore.",
+                    "tags": [
+                        "wip",
+                        "b",
+                        "front-page",
+                        "new"
+                    ],
+                    "price": "95.79",
+                    "title": "Update product / M",
+                    "subtitle": "Ex asperiores ut nostrum.",
+                    "compare_at_price": null
+                },
+                {
+                    "sku": "UPDATE-XL",
+                    "desc": "Exercitationem molestiae atque dignissimos sed provident. Quisquam nobis voluptate excepturi laudantium distinctio. Rerum et aliquid quo sapiente praesentium. Qui saepe recusandae quo voluptatem consectetur. Aperiam ea accusantium dolor. Non nesciunt animi quibusdam adipisci et. Deserunt sint consequatur sapiente tempore inventore.",
+                    "tags": [
+                        "focus",
+                        "wip",
+                        "sale",
+                        "a",
+                        "eol"
+                    ],
+                    "price": "65.09",
+                    "title": "Update product / XL",
+                    "subtitle": "Ex asperiores ut nostrum.",
+                    "compare_at_price": null
+                }
+            ],
+            "created_at": "2024-10-26T13:41:35.000000Z",
+            "updated_at": "2024-10-26T13:41:35.000000Z"
+        }
+    ],
+    "first_page_url": "https://target-api.local/api/products?sort=sku&page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "https://target-api.local/api/products?sort=sku&page=2",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=2",
+            "label": "2",
+            "active": false
+        },
+        {
+            "url": "https://target-api.local/api/products?sort=sku&page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "https://target-api.local/api/products",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 2,
+    "total": 2
+}

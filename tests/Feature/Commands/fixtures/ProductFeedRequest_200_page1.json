@@ -1,0 +1,1136 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 2001,
+            "title": "Create product / XL",
+            "subtitle": "Sit error libero aut reprehenderit.",
+            "status": "active",
+            "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+            "sku": "CREATE-XL",
+            "barcode": "2299017016335",
+            "tags": "sale,front-page,eol,summer,new,a,focus,wip,pre-order,operation:create",
+            "price": "82.58",
+            "compare_at_price": null,
+            "inventory_policy": "continue",
+            "attributes": [
+                {
+                    "id": "a6de7059-c9cf-3af7-996c-68303a3e2739",
+                    "type": "size",
+                    "value": "XL"
+                },
+                {
+                    "id": "d050f3ab-ffa9-32a4-8f31-fdf917a1c967",
+                    "type": "materials",
+                    "value": [
+                        "Soft"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "4985",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "f93338bb-9a4d-3aca-9999-e3edec5241d5",
+                    "hash": "7ea5505e80a88e16d1d78482db756f946c47a78b",
+                    "quantity": 14
+                },
+                {
+                    "id": "91a029a8-7830-3b91-8c1c-2042a9e2231e",
+                    "hash": "34ff670ec22ad8c3c321337c06fed1d545a80f74",
+                    "quantity": -7
+                },
+                {
+                    "id": "b914ac78-31cc-3b57-aebd-3e5974d5898f",
+                    "hash": "e3073bc58fadbf4320e8d05a5c8bec0250be054f",
+                    "quantity": -77
+                },
+                {
+                    "id": "6a87b546-7b0e-3779-90b1-906451da0956",
+                    "hash": "e859e0fe4e4f89fd54337dc0cb86345d4cccc389",
+                    "quantity": -41
+                },
+                {
+                    "id": "4f30b57a-cb35-3d69-9bc2-26f6c7c3ec1d",
+                    "hash": "2cb5e0266d3d16effb84ca48337e10038cd8cd60",
+                    "quantity": 82
+                }
+            ],
+            "parent_sku": "CREATE",
+            "parent_title": "Create product",
+            "product_type": "Coat",
+            "county_of_origin": "HN",
+            "categories": [
+                "99959bfd-4490-393e-a4d8-e38854cf6d49",
+                "b253e2e4-8949-39c3-89a9-9775257f1a94",
+                "552b788e-65c3-3655-a151-a4bb16eec4dd"
+            ],
+            "amazon_categories": [
+                "f3ba1fb6-3d8f-390e-9a36-58b4415de2c5",
+                "96479b61-446c-3122-ad12-976accad0cf3",
+                "0dcee552-2818-38a1-b4f2-3bd06e988cd8",
+                "3e716456-64ba-3ddf-8d5b-7e79a0a54b24",
+                "3fd313f9-b6fa-3480-ab90-4c42f1852049",
+                "37c3e8ea-9433-385c-a6c7-8f3bd52e4e12",
+                "101ddfdf-7251-3f2c-9c0f-6c7a178b2b22",
+                "aa066d35-df43-3ab0-999f-872acde5f0c0",
+                "458d0c75-2e95-3e46-9574-e412c970bc84",
+                "873b1a3d-c37b-3cea-bf35-68b9b2edbf41",
+                "1d51ff0e-aa79-316d-bb10-297226808719",
+                "96366512-91ba-3fb5-bc8f-e055fb39ee0b",
+                "20ff7ffc-a92f-3992-8c76-b2f02baf255a"
+            ],
+            "tb_categories": [
+                "cf557dd2-6643-32bf-86a2-fb32e360096b",
+                "b5f17112-e3f3-30f2-8ab9-f427983f0646",
+                "172aa208-9103-3b46-aa13-353308ff2e4d",
+                "f6b80122-8dd2-3e1b-853e-8a97620346b2",
+                "8879db5b-8d8a-35e5-8f90-16bb5016b31c",
+                "40d57cd6-fdb3-3b5d-8a08-9e41c41d0dcf",
+                "c727e6f5-7158-3f31-a933-c4ec653b41ea",
+                "0118493c-0157-35e5-9a5e-80a6d2645be6"
+            ],
+            "created_at": "2024-10-18T11:34:09.000000Z",
+            "updated_at": "2024-10-18T11:34:09.000000Z"
+        },
+        {
+            "id": 2002,
+            "title": "Create product / L",
+            "subtitle": "Sit error libero aut reprehenderit.",
+            "status": "active",
+            "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+            "sku": "CREATE-L",
+            "barcode": "0867305146167",
+            "tags": "b,focus,a,summer,new,wip,sale",
+            "price": "13.81",
+            "compare_at_price": null,
+            "inventory_policy": "continue",
+            "attributes": [
+                {
+                    "id": "3b8a9191-f19a-3c3b-9070-f63343de2c2c",
+                    "type": "size",
+                    "value": "L"
+                },
+                {
+                    "id": "969bf8f1-14cc-35ab-9f51-db2cd5c58521",
+                    "type": "materials",
+                    "value": [
+                        "Soft"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "3965",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "57052852-e883-34f0-a686-5615861ea0b2",
+                    "hash": "cdc13eba77798080e8887e5024d5b8fdaf8560ba",
+                    "quantity": 37
+                },
+                {
+                    "id": "7b9e024c-efca-3113-94f1-7d86f0fe64fc",
+                    "hash": "db678def690106f979788242da7baa52bb7fc2a3",
+                    "quantity": 58
+                },
+                {
+                    "id": "67406423-26b6-3839-bad2-a0155c79d59e",
+                    "hash": "834f7d9938b754085053e6232d42fcaceb42224f",
+                    "quantity": -93
+                },
+                {
+                    "id": "e3f2e366-4b08-39a7-90b6-1ba9d1af2770",
+                    "hash": "a07d3ff563d4e5bc647fdaa83ddb11472f8c276b",
+                    "quantity": 10
+                },
+                {
+                    "id": "deb9fcca-7504-3e1c-a2c6-4038618ed577",
+                    "hash": "90613664de9720c0e6bacddc30fd760ef1a754a3",
+                    "quantity": -51
+                },
+                {
+                    "id": "91b7bc82-25d2-3383-8c2d-e9151c8bb45f",
+                    "hash": "8ee6a8a2ecf6726552e67321f280b42e3af72421",
+                    "quantity": 52
+                },
+                {
+                    "id": "57107608-2648-324f-a25f-5bd0a8575640",
+                    "hash": "8ec8cdfa1736a2195c71e2747c7f2c9c9364248e",
+                    "quantity": 39
+                },
+                {
+                    "id": "ebe907ca-ad41-3013-acc0-9903ce45f4a0",
+                    "hash": "685463d8b3603beb6f6c1da9052184062243dbf5",
+                    "quantity": 74
+                },
+                {
+                    "id": "a4295dc6-673c-3259-a73a-7e6eeef5135b",
+                    "hash": "b5f787316d66e36f3b13eed7aed908e01eb0b0f7",
+                    "quantity": -97
+                },
+                {
+                    "id": "4facbebb-56ae-3f09-80eb-bdbcb3ea9b5b",
+                    "hash": "9455cdf0ee5a8cfc05c4e84ee6d147f2fa86dd18",
+                    "quantity": -40
+                },
+                {
+                    "id": "cdc8135c-ccea-39ee-a00e-1a34ff261e61",
+                    "hash": "d8d22ed4686ea1d6177992908c644b6fc176bc67",
+                    "quantity": 37
+                },
+                {
+                    "id": "5b892219-42f3-3dda-ad23-637a801342ac",
+                    "hash": "4b9b39b7003df3d55591881aed4685026391fa9c",
+                    "quantity": -34
+                },
+                {
+                    "id": "f19f1878-6cb5-3e98-ad08-e10d2eb5a1a5",
+                    "hash": "49bc2f91ecd34d6c491a61b900e3ec984e37ac51",
+                    "quantity": 6
+                },
+                {
+                    "id": "1c7cb5fc-f88a-37f0-8eb0-959295d5d912",
+                    "hash": "655dd2a86153ba296e506be1c7d16520956fd28c",
+                    "quantity": -23
+                },
+                {
+                    "id": "607a6c2d-1dc4-37f0-9854-50a7cd1886dc",
+                    "hash": "3102c62c58e3e82eafd3da0a5349ba30c61530f3",
+                    "quantity": 83
+                },
+                {
+                    "id": "6dad70f7-afa1-385c-a6b1-f6415ff036de",
+                    "hash": "6019fa9567c2a15ee7877ca847450d422b08557e",
+                    "quantity": 11
+                },
+                {
+                    "id": "10fe1b40-75ca-3f81-80dc-fb0df29a07ab",
+                    "hash": "0a36e9022be55d1bb24be25ee7f7d2395bfc0cde",
+                    "quantity": -28
+                },
+                {
+                    "id": "d1bc2ffe-8c31-3a96-8c60-243fa4dcb178",
+                    "hash": "6cca6c314bff2d100b4859c52e920b6ea12526b9",
+                    "quantity": 70
+                },
+                {
+                    "id": "e0f48ba1-de58-3289-a059-b0a5480b5b7e",
+                    "hash": "674c42d6ae1e4347dd1230a52ea9f5f03c7f9e8f",
+                    "quantity": -22
+                },
+                {
+                    "id": "8e1148f7-c24c-36af-bf5f-5a7316e613cc",
+                    "hash": "e3dc56561c916fdb3320a51df53904b15824b82c",
+                    "quantity": -21
+                },
+                {
+                    "id": "fb2d8e5b-c43b-33b4-b706-6b5e88e9905b",
+                    "hash": "8d60fcbf657bbb3d7db88641f4718536211938b5",
+                    "quantity": -39
+                },
+                {
+                    "id": "c98f029c-714a-3dad-be41-a16b20e3f19a",
+                    "hash": "b5cc3400cbf5230fe66bd3a0d965ce17bb60d613",
+                    "quantity": -72
+                },
+                {
+                    "id": "4ec01f1b-434b-3f52-ad36-288abecbccb4",
+                    "hash": "805ad17faa1398c9e173f7979782b8eb905c0deb",
+                    "quantity": 43
+                },
+                {
+                    "id": "e2b8dd6d-21f4-38cf-a93a-ac1e4b35e1f5",
+                    "hash": "b4816e1bbb89788805d6e74650bd25065cc7f632",
+                    "quantity": -35
+                },
+                {
+                    "id": "c1693904-5731-35ff-94bd-ea0ac1b36ddf",
+                    "hash": "36e31530f96ce320e0c061977b727953cd39d7bd",
+                    "quantity": -3
+                },
+                {
+                    "id": "e4d10b97-3fa6-3b79-86ce-e08d7b61dda4",
+                    "hash": "4ea36e6bfc88fb202d4cb10df15a287b7821b0b6",
+                    "quantity": 22
+                },
+                {
+                    "id": "a3c7083b-2859-3635-828f-4b3c54536a37",
+                    "hash": "2c30f03266025d52312014070044514ce877fd97",
+                    "quantity": 9
+                },
+                {
+                    "id": "f8db2867-2bc7-3a2f-a717-a48590db1b37",
+                    "hash": "1dcc0b9b88d9aff5d6683478a33f9a6c68b91c69",
+                    "quantity": -82
+                }
+            ],
+            "parent_sku": "CREATE",
+            "parent_title": "Create product",
+            "product_type": "Coat",
+            "county_of_origin": "RU",
+            "categories": [
+                "a9373bfa-3cd0-3652-a0c6-4762939754bb",
+                "98f0d7b7-7e4d-3008-9479-d40ff28ddbb3",
+                "38d8fb4f-7b85-369b-abc1-657c5d60556c"
+            ],
+            "amazon_categories": [
+                "4fa05e8b-b518-3f99-83fa-8f0bb7cc4ce2",
+                "25a3b61e-4cfc-3d6e-a51c-2d8355e1661d",
+                "ba41a535-48c3-30e7-a9da-7e30a4037246",
+                "25a1d689-571d-34e2-ba17-8feb817bce07",
+                "bd472d1d-4d27-3f62-875c-e6af9cfe1f19",
+                "e4f41880-9dbe-367e-8f9b-8ab1fb01a818",
+                "e3ac5381-c255-3861-bf33-065640d31932"
+            ],
+            "tb_categories": [
+                "7adbf06c-e621-3da3-805a-14d90431369e",
+                "ba779540-040c-322d-b86d-91fe1e8c603c",
+                "b0e92678-a7b5-335e-8f4a-791b404bc41a",
+                "c1005b31-e0a6-375f-8af5-a35163f2bf7a",
+                "3f1475e0-4446-330a-8aeb-dda3d66458b4",
+                "7a704ad7-a378-3b4b-a39a-60a7ac496cc7",
+                "f728aae9-12ab-32b9-8ee2-c52d8cc4244a",
+                "f7bae9cb-6ab0-3188-b988-225a91fdc42d",
+                "83b48d7f-f9ca-33f7-9a1a-84d3f14fc0ee",
+                "c33d8ffb-4a34-3bae-b0b0-849fd508412c",
+                "cace8629-a0f8-3d6f-9936-2c57c5723ec5",
+                "742c719d-c9c3-3bf7-912a-459e9dd81bae",
+                "a6a51484-0ff2-33b0-b15b-523600de6a80"
+            ],
+            "created_at": "2024-10-18T11:34:09.000000Z",
+            "updated_at": "2024-10-18T11:34:09.000000Z"
+        },
+        {
+            "id": 2003,
+            "title": "Create product / M",
+            "subtitle": "Sit error libero aut reprehenderit.",
+            "status": "active",
+            "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+            "sku": "CREATE-M",
+            "barcode": "9560282253033",
+            "tags": "new,wip,focus,pre-order,sale,eol,summer,front-page",
+            "price": "58.5",
+            "compare_at_price": null,
+            "inventory_policy": "continue",
+            "attributes": [
+                {
+                    "id": "1bdd8e4e-d8c0-3366-a406-3be26e203990",
+                    "type": "size",
+                    "value": "M"
+                },
+                {
+                    "id": "321cb6dd-004d-3b7d-be74-4a9f634da5e9",
+                    "type": "materials",
+                    "value": [
+                        "Plastic"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "712",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "c22f0111-2a36-359e-94dd-70561e2564e8",
+                    "hash": "b13746e3e49b40de5cad5e93db2d16ed15762dde",
+                    "quantity": -75
+                },
+                {
+                    "id": "d3cdbb3f-aa71-3514-bbec-38d711ef3aa6",
+                    "hash": "0a80284b2b8c8d8991da095142ecbb35b967969f",
+                    "quantity": -78
+                },
+                {
+                    "id": "07f578ac-dfeb-36dd-ae04-baab8a0c6763",
+                    "hash": "76fbf5f76df0fdac3ce679f7043ba2da914bfe81",
+                    "quantity": -8
+                },
+                {
+                    "id": "b4508482-5a55-3117-a6c9-f62edca1ce7a",
+                    "hash": "7400a6f08708c7483c51253f7954c3587a14260d",
+                    "quantity": -97
+                },
+                {
+                    "id": "a9f1bf99-b431-3245-a662-2ca6be893cd0",
+                    "hash": "b64dd6cb7d56d88c6d070d014f904fd91a291398",
+                    "quantity": -88
+                },
+                {
+                    "id": "bc71d081-a117-3f2e-8cc6-9554f562cb4b",
+                    "hash": "9102da11a1a4de1a071052f7f00b023f45c86946",
+                    "quantity": 35
+                },
+                {
+                    "id": "9504b209-ee0b-3654-a12e-f43ef30ae654",
+                    "hash": "418b621648cb5a0155def4f126d764172e23a0bb",
+                    "quantity": -3
+                },
+                {
+                    "id": "f5e053af-31fa-3e9a-b084-f1bbe4494bd2",
+                    "hash": "d856707117a665cf7f66749cb64163bbce170f8e",
+                    "quantity": -46
+                },
+                {
+                    "id": "78618244-69e1-3672-918b-be936fb67a40",
+                    "hash": "6ef71dc4d4281116ab671337fb02df3a6c2636fd",
+                    "quantity": -35
+                },
+                {
+                    "id": "35786b2b-7a10-3a13-9d78-4e9ac5fc48e2",
+                    "hash": "1698971bba46c3216dada55298be66824ed018a5",
+                    "quantity": -5
+                },
+                {
+                    "id": "429c2414-5117-3654-812a-e5a73bfb8e0d",
+                    "hash": "86b3446a8d5280455124818d8d6a60cc3366487d",
+                    "quantity": 4
+                },
+                {
+                    "id": "43b79274-6480-345a-ba63-a26ab85e9604",
+                    "hash": "8e1b5c54a44bb3066df62ad660fa69d70802050f",
+                    "quantity": -60
+                },
+                {
+                    "id": "9007e837-b2e3-3fc9-88aa-7f4ae074e1e6",
+                    "hash": "4ddca21992f389be2375871fc9536137e2b5634f",
+                    "quantity": -42
+                },
+                {
+                    "id": "d621eb09-9468-35c2-a64c-fe03e5bb3dd2",
+                    "hash": "2f30be28d30c770232aeb7467780a1eca3b4dccd",
+                    "quantity": -65
+                },
+                {
+                    "id": "6ea2481b-f8a9-3c0c-b5d6-b543633c7eef",
+                    "hash": "f5db1f3d6965ddf6f1aec93927de6acca6fb4334",
+                    "quantity": 40
+                },
+                {
+                    "id": "70289516-e703-312c-9622-315034aca591",
+                    "hash": "080e61149f47c31b5bcc09ce32c90b23050f08ba",
+                    "quantity": -98
+                },
+                {
+                    "id": "3caed7cc-0fe2-359e-a1ae-7ca20c24a5f9",
+                    "hash": "8f3d156f9768bb479e7367b3fdb1028e0b29338b",
+                    "quantity": -32
+                },
+                {
+                    "id": "98744981-6cbf-3412-9af8-4d5f915b0831",
+                    "hash": "ccbee79c26500f8f227dc54ff8034b41e5e00de8",
+                    "quantity": -45
+                }
+            ],
+            "parent_sku": "CREATE",
+            "parent_title": "Create product",
+            "product_type": "Coat",
+            "county_of_origin": "VE",
+            "categories": [
+                "0b44fc25-04b2-35d3-b489-aeab94125cac",
+                "4bee8ab7-96d0-3f81-aaa3-b6a3c6e422ad",
+                "582e717a-f7a2-3ea4-9401-c7107d71e052",
+                "6662aac3-4022-3dd9-8fe7-4e7919c97985",
+                "25f6ac56-8a85-3e44-89ab-82f1a1862db0",
+                "6be2bfc8-46f7-3870-b88c-f5355165a8bc"
+            ],
+            "amazon_categories": [],
+            "tb_categories": [
+                "b3210980-09f3-35f7-b87d-d7c2a3873f06"
+            ],
+            "created_at": "2024-10-18T11:34:09.000000Z",
+            "updated_at": "2024-10-18T11:34:09.000000Z"
+        },
+        {
+            "id": 2004,
+            "title": "Create product / S",
+            "subtitle": "Sit error libero aut reprehenderit.",
+            "status": "active",
+            "desc": "Laboriosam odit voluptatem eaque qui in animi et. Laboriosam vero rem eum earum voluptas non vel. Quia debitis nulla vel aut est. Omnis ex beatae iure non. Earum ratione ea repudiandae ducimus quia labore earum. Ut cupiditate adipisci quasi necessitatibus facere sed. Totam quis non expedita ut.",
+            "sku": "CREATE-S",
+            "barcode": "4223664695368",
+            "tags": "wip,a,pre-order,eol,front-page,new",
+            "price": "57.98",
+            "compare_at_price": null,
+            "inventory_policy": "continue",
+            "attributes": [
+                {
+                    "id": "dbb8489a-3a15-3168-ab8d-d085dc7b9163",
+                    "type": "size",
+                    "value": "S"
+                },
+                {
+                    "id": "5b2838ab-b010-3027-a825-ba46bc0b3ff8",
+                    "type": "materials",
+                    "value": [
+                        "Steel"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "2754",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "de5cbf17-9394-3621-84eb-2c47143be632",
+                    "hash": "2f118ad2f7c776f318d58ee5e306855571b8e7e7",
+                    "quantity": 4
+                },
+                {
+                    "id": "8e4d1312-bf44-3914-9576-da32e232d2cc",
+                    "hash": "57d23eaf8d32c48d8c4a9b216f01f571a88941dd",
+                    "quantity": -74
+                },
+                {
+                    "id": "c2a8aa56-7dae-3c6f-a515-01ef7ed2d22b",
+                    "hash": "69585858426a33fee8ecdbd88bc0cfc3a1c5e48e",
+                    "quantity": -61
+                },
+                {
+                    "id": "2918d41f-ac82-3379-b7ee-009b59a301db",
+                    "hash": "536d4a7a1f75e45df112963d709059cb8bce36e4",
+                    "quantity": -8
+                },
+                {
+                    "id": "60e664a0-c527-33a5-b490-fca3d22db7a8",
+                    "hash": "3aa8bb66eccaca921e7604230a9e15042312ca5a",
+                    "quantity": -40
+                },
+                {
+                    "id": "1c93daf8-9e52-34a7-b7f4-5aac8c80e9a8",
+                    "hash": "4befd60916159c679cfada230c22ec242e3fea45",
+                    "quantity": -76
+                },
+                {
+                    "id": "e7fda9b9-0bab-333c-a8dc-d148a8a82a9f",
+                    "hash": "ec81543dc7194518ec831a0ecd33234ccf0a7cf1",
+                    "quantity": 57
+                },
+                {
+                    "id": "72f89eed-f4be-36be-97b7-912b3b164e4f",
+                    "hash": "d4978ff2ccdca6555950f051d045f5a0272340fb",
+                    "quantity": -61
+                },
+                {
+                    "id": "ab870d3f-aeff-399c-951f-bbabe9f5fd4d",
+                    "hash": "8caa2774ef70a7871ac8c78231762c591435a1f6",
+                    "quantity": 32
+                },
+                {
+                    "id": "6c6ccfcb-76d7-3011-91a9-e49b9bba7955",
+                    "hash": "985a525b3da9bad7720e4b0f4157f1e5956c3405",
+                    "quantity": 25
+                },
+                {
+                    "id": "22e705d8-92e2-36b5-abe6-48b8035ea7f9",
+                    "hash": "328eea1711173f8c200681941e881c2c1a4460cd",
+                    "quantity": -69
+                },
+                {
+                    "id": "6b74ea78-c249-34b4-8798-31382471a9d7",
+                    "hash": "1c8c7564c9c10200b492f01e458f71fe1ad6295f",
+                    "quantity": -54
+                },
+                {
+                    "id": "bc960123-0f0c-35a6-b709-7bbc5ca236ed",
+                    "hash": "8426fec0b608673513f41f357ef47f95a529e5c0",
+                    "quantity": 44
+                },
+                {
+                    "id": "274ffa83-e706-33d8-aa0b-53b507f61636",
+                    "hash": "c5eec3376426991fbd5f1e9fcd9917d887202c1f",
+                    "quantity": -5
+                },
+                {
+                    "id": "444471f1-05b3-3d19-84ff-cd707c03ec45",
+                    "hash": "6a34f6d130e7a7d0445734346af9e8aaad26276e",
+                    "quantity": 18
+                },
+                {
+                    "id": "aaa4a8e8-2416-39fd-b83b-199fd37f6beb",
+                    "hash": "2299155fd38721879826ebad1fdfabd393e4151b",
+                    "quantity": -59
+                },
+                {
+                    "id": "50c76664-724a-3de2-aed3-98770b61dd6c",
+                    "hash": "dacf90ec214f178fc4a6a7c324f450d35f466d61",
+                    "quantity": -95
+                },
+                {
+                    "id": "d8c32e37-f42f-3058-af51-c15c4a3ce20b",
+                    "hash": "9549edcb693bd6900f0e28af147457b0ec64a08e",
+                    "quantity": -40
+                },
+                {
+                    "id": "9d0c7237-cca1-32dd-a12d-46edf0921c1d",
+                    "hash": "aa23a1396b09abf43cd8e7c0494e00f14ce90f6b",
+                    "quantity": -15
+                },
+                {
+                    "id": "da13df47-00b3-3f1a-a465-7a8814f0d710",
+                    "hash": "1f88b449fc6606b95be00c2ebbd084deb43c7e4d",
+                    "quantity": -10
+                },
+                {
+                    "id": "24a9cf80-2c5c-33de-98e9-7ffbde591239",
+                    "hash": "cfdf66b23961c000e0149e217b5326782e77987f",
+                    "quantity": 90
+                },
+                {
+                    "id": "67322908-241a-3191-bbe5-efb679f12dc9",
+                    "hash": "c4759dbc15188e10fab95a26dced1e029fc0b737",
+                    "quantity": -98
+                },
+                {
+                    "id": "bd0811ab-58ff-345b-8d6b-c94383a4b416",
+                    "hash": "85ad9e36edcf6d1becf36bf8d5dff40df4e1c322",
+                    "quantity": 71
+                },
+                {
+                    "id": "15beac2c-4c49-3af7-9087-526069c6c683",
+                    "hash": "cade99e821ac82afda277956b835aff2030bb6a4",
+                    "quantity": -63
+                },
+                {
+                    "id": "3e35c237-6ee3-3c62-8869-d978b063e157",
+                    "hash": "122917064af6a73fc566c1c9acaf8e17c8a03e33",
+                    "quantity": -66
+                },
+                {
+                    "id": "5c934520-f164-3e63-87a7-7dcb041aa5f2",
+                    "hash": "8d078316488892fc3458968236b1486ef267c190",
+                    "quantity": -28
+                },
+                {
+                    "id": "545a2b65-147a-3fb1-825d-0d43ff90a355",
+                    "hash": "c1630492b9015fcf17b94a84da87966df31ea4a0",
+                    "quantity": -67
+                },
+                {
+                    "id": "3df1c466-0854-3c79-ad50-1fca4376807c",
+                    "hash": "62753cd81d0fcf9b9b51545f3fd8fe53e98be5f2",
+                    "quantity": -14
+                },
+                {
+                    "id": "3b6945d2-8721-327b-9eb5-d5c666ea39cc",
+                    "hash": "19bc19cdc97e1ccd30f5da8e5cb1570595a03ca2",
+                    "quantity": 95
+                },
+                {
+                    "id": "a8285bba-631f-3715-a446-e7dedd663daa",
+                    "hash": "de24ce97b0fc02cf09d61260a12c7587913a4a5e",
+                    "quantity": 67
+                },
+                {
+                    "id": "2d9f9c6a-1b90-3de1-b2c0-30e5ec20f824",
+                    "hash": "a717a62d657a3419b259ba7d6b11d483c3005de8",
+                    "quantity": -15
+                },
+                {
+                    "id": "4dcdd055-4fb3-3e7a-bbab-e35fbb5fd7ef",
+                    "hash": "026949dc93026f6382d80f6665855df7c2204c83",
+                    "quantity": -68
+                }
+            ],
+            "parent_sku": "CREATE",
+            "parent_title": "Create product",
+            "product_type": "Coat",
+            "county_of_origin": "SE",
+            "categories": [
+                "c45b4223-2710-37b4-93e5-075d998ce624",
+                "e786d3ee-5a7d-398e-a37e-eb004818d0a9",
+                "56fd18dc-45a9-3291-9d4f-526c6cbd7496",
+                "46674615-6bd4-34ba-9724-8cbbf755e934",
+                "94a3914c-0f9b-3618-8527-fe31e3102a09",
+                "d52a29a3-0367-3674-ac04-b7a185b2a445",
+                "38283287-b369-3a76-b6a9-4548d5cd44a8"
+            ],
+            "amazon_categories": [
+                "502a4cac-e8f1-36cb-996a-cfa769e71c11",
+                "e36dffc3-6d47-3fe9-aeea-578967ed5281",
+                "82453e13-f274-38b0-8b16-fda078d554f6"
+            ],
+            "tb_categories": [],
+            "created_at": "2024-10-18T11:34:09.000000Z",
+            "updated_at": "2024-10-18T11:34:09.000000Z"
+        },
+        {
+            "id": 3001,
+            "title": "Update product / L",
+            "subtitle": "Ex asperiores ut nostrum.",
+            "status": "active",
+            "desc": "Exercitationem molestiae atque dignissimos sed provident. Quisquam nobis voluptate excepturi laudantium distinctio. Rerum et aliquid quo sapiente praesentium. Qui saepe recusandae quo voluptatem consectetur. Aperiam ea accusantium dolor. Non nesciunt animi quibusdam adipisci et. Deserunt sint consequatur sapiente tempore inventore.",
+            "sku": "UPDATE-L",
+            "barcode": "0511116679559",
+            "tags": "sale,front-page,new,wip,pre-order,a,summer,operation:update",
+            "price": "11.42",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "b3cbfce4-e6a3-36c9-8272-d8e708b1e341",
+                    "type": "size",
+                    "value": "L"
+                },
+                {
+                    "id": "79592871-dd09-31f4-bb18-93828309ee79",
+                    "type": "materials",
+                    "value": [
+                        "Concrete"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "2550",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "c138c6b0-3971-3dbc-b251-fbe337fbdd43",
+                    "hash": "d2ede2847fe97abf650cf9bc9f18d98d3f4676ca",
+                    "quantity": 52
+                },
+                {
+                    "id": "68d28898-bbe6-3eb4-a5ec-bee1e47244cd",
+                    "hash": "889eb7e3b76b857d18effdb4c84669e19fb4f7ef",
+                    "quantity": 49
+                },
+                {
+                    "id": "29d2562f-a45b-3014-a5d7-bf2edfac8c6d",
+                    "hash": "52da933e3ae2df55fd439d469cc5a66cce6f31a6",
+                    "quantity": 34
+                },
+                {
+                    "id": "57dbed3e-3bb5-3850-b40f-22c236be6877",
+                    "hash": "f71c7f33bf3c7ea18c92afe566fc5d69a63efd08",
+                    "quantity": -29
+                },
+                {
+                    "id": "4d0fe580-6ef9-3dcf-b3d7-a735da4db14a",
+                    "hash": "8b6e9dabfcf0dbc96ed0dde7768e02b1e9069c24",
+                    "quantity": -96
+                },
+                {
+                    "id": "7cc4ff1b-4ddd-311d-80a4-a92ec3994b02",
+                    "hash": "a1dfebdf61a46a7884d38834765ac8129b3b3790",
+                    "quantity": 0
+                },
+                {
+                    "id": "21eecd7c-88d2-3cf6-8166-efe416e6b540",
+                    "hash": "2c6d2fae21bb155b4cd1c5f82fdd054840f4940d",
+                    "quantity": -62
+                },
+                {
+                    "id": "5ea312d2-2689-3ff7-a1d1-c6ee8d9fe62c",
+                    "hash": "91e46fc4fe720c76710cfda10fd36abc23614ff2",
+                    "quantity": 68
+                },
+                {
+                    "id": "547d5c42-e44c-3081-bc76-e160a71a6e00",
+                    "hash": "54cce2abf9c8d8a7d2c9afa54675e236a6d0a9c7",
+                    "quantity": 45
+                },
+                {
+                    "id": "a96bff8e-1f50-38a8-871c-8e1192f8000b",
+                    "hash": "dbe393d70b43e3fd4d8fbb35d76f78ae12102984",
+                    "quantity": 55
+                },
+                {
+                    "id": "1bb93157-8aeb-3d9a-94c1-6aeb82e23a2e",
+                    "hash": "73e0c60c3a2d46eda86dea04ce6ecac61250b91f",
+                    "quantity": -15
+                },
+                {
+                    "id": "1b84742b-6855-3ae8-852d-d634463ead5a",
+                    "hash": "c5db7ae7c29c623a2d2374d8cd35fccd2f43176f",
+                    "quantity": -43
+                },
+                {
+                    "id": "80539b99-65e2-3fca-b13f-6c1c3869b642",
+                    "hash": "26af6ca5ef7e4553222c0b167c4b98cb958b2c58",
+                    "quantity": 32
+                },
+                {
+                    "id": "b1bae3c9-7f33-3d7d-bf11-e652b761dae9",
+                    "hash": "a4ad16aeefd7131a97ec752df4fd1496af8c08e5",
+                    "quantity": 73
+                },
+                {
+                    "id": "160d893b-d43d-3b1a-94b0-19fd7116b0aa",
+                    "hash": "ee98b6e609bbc2dc485ad204221033b657905b85",
+                    "quantity": 50
+                },
+                {
+                    "id": "bfaf5a33-1703-32b9-ba5a-894358b4fd64",
+                    "hash": "abc6b53ac6e9106d5d76a7ac579eb4cb6b406059",
+                    "quantity": -35
+                },
+                {
+                    "id": "3455a5c5-fecd-3a2f-85a7-64f05cfb8870",
+                    "hash": "2681e46cf7760ea2667f079b872328f1a4cd699b",
+                    "quantity": 70
+                },
+                {
+                    "id": "7981b9a2-c4f7-3e33-acb3-0090825643e2",
+                    "hash": "20cbf4ce9773a27ce45e4b696cc7929c96cc9724",
+                    "quantity": -8
+                },
+                {
+                    "id": "29d483a4-2183-382f-9788-4f962c5c59ba",
+                    "hash": "6cd6d472da5401d2601e462dd856c139e9f8dfbe",
+                    "quantity": 74
+                },
+                {
+                    "id": "371b0d0e-7af9-3cc7-843c-f8c2872e4aa7",
+                    "hash": "25e4bbe30f6c868e257310db37083199f5de90de",
+                    "quantity": 74
+                },
+                {
+                    "id": "ddc4a79e-b87d-3243-8a2e-3da072e7e85d",
+                    "hash": "0a8da44de9147dccc4f0184b486db14c674b82ad",
+                    "quantity": -2
+                },
+                {
+                    "id": "713665c2-02ab-3527-884d-4bf440a1a069",
+                    "hash": "69ec2a55f391363dbf503efb5a4fb1d046291009",
+                    "quantity": 0
+                },
+                {
+                    "id": "f66aa930-b44a-3488-93bd-d71ef8f9793e",
+                    "hash": "f2bd7dd4e6a99b4576864bd06d4fc7f078452879",
+                    "quantity": -65
+                },
+                {
+                    "id": "fcf5f5e5-1d00-3f76-acd5-8726faad7be7",
+                    "hash": "0a72ce65ef44c293d7e529c68a0275ffa0d91f78",
+                    "quantity": -7
+                },
+                {
+                    "id": "e36d6119-37d0-3464-875f-dbe90797b825",
+                    "hash": "23ec483e7b3571641a0766447d7d023be630040d",
+                    "quantity": 100
+                },
+                {
+                    "id": "874086c8-0bb8-364b-b25b-c1d9033dbee2",
+                    "hash": "11495db99fbfc7cd6684a3879ac09097b29198dc",
+                    "quantity": 36
+                }
+            ],
+            "parent_sku": "UPDATE",
+            "parent_title": "Update product",
+            "product_type": "",
+            "county_of_origin": "IM",
+            "categories": [
+                "1234d396-a6d5-333f-9202-de0b62f65200",
+                "79f11651-3e4d-3afd-8b57-ee93de4caa87",
+                "69bc438f-6a04-3db9-a330-dae2258b9e0f",
+                "5152e05c-a8b0-3eae-801c-b386c28426fd"
+            ],
+            "amazon_categories": [
+                "8865fdf3-c8d2-3c66-9aef-2f69f4630265",
+                "8650b29f-0a38-375e-89aa-1e4066e3da1c",
+                "58174480-c27e-3cda-a2c7-f769a7804f75",
+                "5247adc9-e174-33a0-9d09-43263fa432b8",
+                "c92a5d4e-474e-3dbe-8e95-d287fefc98ea",
+                "4b563e15-7e2a-31c5-afe7-34a65fac537f",
+                "8cc7cc95-bfbf-3a21-96d5-fdac45995a5d",
+                "f08b0e0b-50ad-3074-b9df-67998c8878e7",
+                "55e10e8d-ae40-3bd6-b609-860f83689dc2",
+                "435355fc-42f6-3904-9a52-fc179c10028d",
+                "cefa613a-33bd-3af6-a11f-bbe116561cf7",
+                "e9d3ea42-790a-32d7-8a06-f886c56e226a",
+                "cc01f9a7-6284-3d93-9c83-25c267a721ec"
+            ],
+            "tb_categories": [
+                "224096d2-a921-31c8-992f-56ca9662991f",
+                "f26de09a-7cd6-32b6-a7c1-b1a75774ec17",
+                "e86d879f-9710-3d3d-aadc-be750ff8d71c",
+                "cd9245c0-0b71-36ae-9f77-a3a1023c6365",
+                "b31b1563-8990-3e3c-a143-3fb2bc54e777",
+                "77dbd127-0fb7-3f24-bcac-0788c539b8d3",
+                "5a92363b-361e-3ca2-a739-c83f70550e26",
+                "4087a85b-c2bd-3b7f-bccf-0eb588c99628",
+                "807f4eb8-8de9-3d28-ad1c-7f7eb76a7160",
+                "6c5d0b7c-06fa-3f50-bd2e-5f2d0857318a",
+                "3ae5fa44-d369-3839-aec0-1bba593c9711",
+                "1289d146-22ac-311d-b436-3a90d815e96a",
+                "08e5211d-d09c-3443-9a0e-c668b94dcb65",
+                "129f0d30-52df-3192-a970-e8186e140615"
+            ],
+            "created_at": "2024-10-18T11:34:09.000000Z",
+            "updated_at": "2024-10-18T11:34:09.000000Z"
+        },
+        {
+            "id": 3002,
+            "title": "Update product / M",
+            "subtitle": "Ex asperiores ut nostrum.",
+            "status": "active",
+            "desc": "Exercitationem molestiae atque dignissimos sed provident. Quisquam nobis voluptate excepturi laudantium distinctio. Rerum et aliquid quo sapiente praesentium. Qui saepe recusandae quo voluptatem consectetur. Aperiam ea accusantium dolor. Non nesciunt animi quibusdam adipisci et. Deserunt sint consequatur sapiente tempore inventore.",
+            "sku": "UPDATE-M",
+            "barcode": "4321393968934",
+            "tags": "wip,b,front-page,new",
+            "price": "95.79",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "1b27e6eb-ad98-383e-a08f-935b63de4dd5",
+                    "type": "size",
+                    "value": "M"
+                },
+                {
+                    "id": "509eb660-ad4e-3e00-892a-ce08b73832cd",
+                    "type": "materials",
+                    "value": [
+                        "Steel"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "606",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "c7897784-fccd-30ce-8603-fe3f3dca0de2",
+                    "hash": "d3e15476169d534de5095d60bbcc838205839d0c",
+                    "quantity": -42
+                },
+                {
+                    "id": "23582ffb-d3f8-368e-8fc7-f8d3c4361ed5",
+                    "hash": "188719a05905721a762649b06ec3c5ac2cb45eff",
+                    "quantity": -11
+                },
+                {
+                    "id": "b857e02a-446b-3882-963e-6bbaaed805b1",
+                    "hash": "680833eab46ac358ddf520f251794785041669d2",
+                    "quantity": 52
+                },
+                {
+                    "id": "485c6838-9eed-3f18-9a0f-c41468d4fa92",
+                    "hash": "bc40625c0514a11bd5bb34fb02cc5724aa4688f3",
+                    "quantity": 50
+                },
+                {
+                    "id": "4028dcbb-2645-3b31-b988-de4809b6ab5f",
+                    "hash": "688db16f43ce11b1bc46684f5a0c55c529350d4f",
+                    "quantity": -8
+                },
+                {
+                    "id": "9b08812d-f665-32e7-b832-bf223d1329fe",
+                    "hash": "002efb6cc181cd0d1ac4426c7a86ee525ae41bb3",
+                    "quantity": 23
+                },
+                {
+                    "id": "0c708d74-d060-3fc1-9277-c4175bcd6c41",
+                    "hash": "d7a46563d0b082b518f06b51f4d498dba0a6f112",
+                    "quantity": -84
+                },
+                {
+                    "id": "350e1f2c-52a3-3473-8517-2452062c9c1f",
+                    "hash": "60c6f5bd7b5e3a90829e10ea3071a113a1662203",
+                    "quantity": -82
+                },
+                {
+                    "id": "d2977a0c-2a3d-3927-8e19-7ff5c2ef544e",
+                    "hash": "1e3bd1a1a8405e6f7c2514303f346240c14807ea",
+                    "quantity": -37
+                },
+                {
+                    "id": "b6891821-f755-3a85-a28b-de5d47d46cc7",
+                    "hash": "95058f998fd337c86b0149858780fabfcfb1d975",
+                    "quantity": -44
+                },
+                {
+                    "id": "518214b0-67b9-3cf5-bd21-e80a5bb06c4a",
+                    "hash": "3493bf2e4e04a4c101846f5f34088bf60d80b5a8",
+                    "quantity": -66
+                },
+                {
+                    "id": "9ecba555-7125-314b-bbfb-f6a353a263d0",
+                    "hash": "89b977bf64a360339f61f260cceecf87d3eb348b",
+                    "quantity": -99
+                },
+                {
+                    "id": "e7d0c867-8b34-3d1c-81f5-16dfc28ba6b9",
+                    "hash": "f2d565ff00ce7497a02114e63c0c74bacabd7a30",
+                    "quantity": 27
+                },
+                {
+                    "id": "a6b78f41-e8de-34bf-be1c-47e55e737a74",
+                    "hash": "b1f2f9ddc2c13001a2251c2490f6bcbeb51220ea",
+                    "quantity": -41
+                },
+                {
+                    "id": "26b7e393-f005-3bac-9799-590f4b07a0d5",
+                    "hash": "46908c712452b5cda48ea772b973ab085cd5c447",
+                    "quantity": 63
+                },
+                {
+                    "id": "0eeabbcb-f4b0-31cc-b541-99f737770aa7",
+                    "hash": "ae316509a75d456d649b285ef4482f728bc0db43",
+                    "quantity": 60
+                },
+                {
+                    "id": "0595570e-18d9-3f27-a684-3f56937340e0",
+                    "hash": "7f9b2f9d7dc27b58a08f9666f2db61b3ed0e6bc7",
+                    "quantity": 62
+                }
+            ],
+            "parent_sku": "UPDATE",
+            "parent_title": "Update product",
+            "product_type": "",
+            "county_of_origin": "PL",
+            "categories": [
+                "a30d069c-e5a2-3446-a7db-69117967c6b7",
+                "b1625956-5589-3d5d-a1ef-6843c8814a8a",
+                "ce12072f-7f7a-39fb-87d0-11b822bd5071"
+            ],
+            "amazon_categories": [
+                "2a36f55c-b15e-3aee-81e3-c5b259ddfe9a",
+                "3a7474fe-9163-3f58-b3d2-abf50cdc6e1c",
+                "d0c1b4a3-65f6-308f-8529-3cbd6eab0dcc",
+                "56af9ada-2184-39db-86f3-f72bd6bcc31a",
+                "d3d60426-c468-3075-a974-fea825a7e680"
+            ],
+            "tb_categories": [
+                "9c19074f-2c86-3605-977b-8029ac2e9d52",
+                "7cf976f4-9081-3b5b-836a-01263b46ce17",
+                "89929809-136d-3a82-86db-43c524f9ee68",
+                "0aa1c340-c4be-37d0-8b28-5b47713f552a",
+                "24671cd3-19c9-3c6d-9329-55a1a5a9e077",
+                "d557c0e1-4cdd-37b6-91c8-5b810a2c4d04",
+                "23598579-6aec-355b-a3db-b894f928f29d",
+                "c265b9a8-6afb-3c93-8301-086b7328333b",
+                "13cc7c42-9086-3457-bba2-1d9e40e6ca6d",
+                "156886fe-f5cb-3386-9a8c-f947f2fd4fef"
+            ],
+            "created_at": "2024-10-18T11:34:09.000000Z",
+            "updated_at": "2024-10-18T11:34:09.000000Z"
+        },
+        {
+            "id": 3003,
+            "title": "Update product / XL",
+            "subtitle": "Ex asperiores ut nostrum.",
+            "status": "active",
+            "desc": "Exercitationem molestiae atque dignissimos sed provident. Quisquam nobis voluptate excepturi laudantium distinctio. Rerum et aliquid quo sapiente praesentium. Qui saepe recusandae quo voluptatem consectetur. Aperiam ea accusantium dolor. Non nesciunt animi quibusdam adipisci et. Deserunt sint consequatur sapiente tempore inventore.",
+            "sku": "UPDATE-XL",
+            "barcode": "1548717655650",
+            "tags": "focus,wip,sale,a,eol",
+            "price": "65.09",
+            "compare_at_price": null,
+            "inventory_policy": "deny",
+            "attributes": [
+                {
+                    "id": "68d69edc-3af3-31ad-b64e-b781b36bbff2",
+                    "type": "size",
+                    "value": "XL"
+                },
+                {
+                    "id": "ad5e1da3-501a-3134-a71d-b89c15d3854c",
+                    "type": "materials",
+                    "value": [
+                        "Rubber"
+                    ]
+                }
+            ],
+            "taxable": true,
+            "weight": "3905",
+            "weight_unit": "g",
+            "inventory_log": [
+                {
+                    "id": "365d8bb2-2913-3bad-9401-c9a6208c43ff",
+                    "hash": "a88fd089477318071a76eb84d1e4d12d86a4b49d",
+                    "quantity": -44
+                },
+                {
+                    "id": "4ff1c8d2-8d5e-34d6-9e37-7060b50e67c4",
+                    "hash": "991dd11ddb5f8e381bf70c8b1697eaf2febbbd0d",
+                    "quantity": -6
+                },
+                {
+                    "id": "7aacb0a0-b831-3d56-83f2-9c91d69e3ae7",
+                    "hash": "f39df5d0c3d960b55599e7058d4a5f6aa1a4b54a",
+                    "quantity": -94
+                },
+                {
+                    "id": "64bf30d7-b709-345d-ab52-93d6b9543456",
+                    "hash": "077ec29091daca4272c1414abc95cbfc8be61b7a",
+                    "quantity": 26
+                },
+                {
+                    "id": "1e000e27-7229-3e80-a29e-8cb81f9b74dc",
+                    "hash": "fc221c494b59aa20a5f039fcb2fb9cbe26ccc150",
+                    "quantity": -97
+                }
+            ],
+            "parent_sku": "UPDATE",
+            "parent_title": "Update product",
+            "product_type": "",
+            "county_of_origin": "LV",
+            "categories": [
+                "9da11f67-fb6b-319e-a703-2dd6d560c3c2",
+                "d48e1363-aca3-38c8-962d-0b1a84affad9",
+                "f78b776d-0d60-30fa-98e6-31292225a9e5",
+                "ad066d74-2bcc-3ed9-8b35-c9fc7fc39d47",
+                "84c21545-49e9-35c0-9438-f5e9bc4a82f5"
+            ],
+            "amazon_categories": [
+                "6583ff4d-45bb-30dc-aa2f-7a15a33a8ac5",
+                "b79fcc77-c888-3f76-b002-7eea49ee75b0",
+                "73295f27-6c65-35fa-9033-152840ea59dd",
+                "c4bb756b-42f2-3927-8a67-c6b53a00e52c",
+                "3542a791-d37b-318b-a132-77b5ace0e1cc",
+                "1ef277e1-b07d-36b1-a163-22be5f380187",
+                "bf740b8d-8341-32ae-b9f8-6c8679ec6e11",
+                "1429d998-fe3b-378b-9cbe-db2e922a2b30",
+                "02699bed-9f58-3ba3-b34a-536eab2a361f",
+                "6baa2ea8-9961-3909-a99a-c168bd6b1cf4",
+                "4d21b472-90a7-33ab-9e20-6f6a7ccf6334",
+                "9365eeac-95b0-34fb-85ad-c56e6894e8eb",
+                "01ced051-46de-3f8e-953c-321cb1b44fe9",
+                "9ea175a3-77cf-39f6-896e-99c4381ec6b8",
+                "f3c980d8-9686-321b-8b86-f71ed22fabe1"
+            ],
+            "tb_categories": [
+                "5885b82f-efc9-3773-966a-1fd2ebf3ecc7",
+                "87f6f31b-c0aa-3bc9-b86e-1d1d7b49d32f",
+                "533eefe1-53bd-3bbb-be85-b3ec1d9f4a8a",
+                "0062a1bc-f7cb-3284-b740-bfca9801211d",
+                "c1898e7a-2327-3897-9efc-87a779a63c7f",
+                "c8d94137-810c-38f9-94c8-13c0f6ccd98d",
+                "ffb76ee9-85ad-36b8-ac97-bf4cf337a530",
+                "f0629e3a-5928-36cc-8d22-3231deaca80d",
+                "e06c7d78-f241-3a7b-82c1-2c9629db1d26",
+                "9efb577f-c96e-371b-9b99-66f83e8e4462"
+            ],
+            "created_at": "2024-10-18T11:34:09.000000Z",
+            "updated_at": "2024-10-18T11:34:09.000000Z"
+        }
+    ],
+    "first_page_url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "https://source-api.local/api/flat-feed?sort=-id&page=1",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "https://source-api.local/api/flat-feed",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 7,
+    "total": 7
+}
