@@ -74,8 +74,10 @@ it('can create, update, delete products on target based on data from source', fu
                 'sale',
                 'summer',
                 'wip',
-            ],
+            ]
+            && data_get(target: $request->body()->all(), key: 'variants.0.sku') === 'CREATE-XL',
     );
+
     // Update operation
     $targetApiMockClient->assertSent(
         fn(Request $request, Response $response) => $request instanceof UpdateProductRequest
