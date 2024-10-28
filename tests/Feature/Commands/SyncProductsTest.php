@@ -43,16 +43,14 @@ it('can create, update, delete products on target based on data from source', fu
 
     $targetApiMockClient->assertSentCount(4);
     $targetApiMockClient->assertSent(ListProductsRequest::class);
-    /*$targetApiMockClient->assertSent(
-        fn(Request $request, Response $response) => dump($request->getMethod()->value.' '.$request->resolveEndpoint(),
-            $request instanceof HasBody ? $request->body()->all() : null),
-    );*/
+
     // Delete operation
     $targetApiMockClient->assertSent(
         fn(Request $request, Response $response) => $request instanceof DeleteProductRequest
             && $request->getMethod() === Method::DELETE
             && $request->resolveEndpoint() === '/products/DELETE',
     );
+
     // Create operation
     $targetApiMockClient->assertSent(
         fn(Request $request, Response $response) => $request instanceof CreateProductRequest
