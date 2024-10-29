@@ -5,6 +5,7 @@ declare(strict_types=1);
 use App\Http\Integrations\TargetApi\Data\Objects\ProductObjectData;
 use App\Http\Integrations\TargetApi\Data\Products\ListProductsResponseData;
 use Illuminate\Support\Collection;
+use Saloon\Exceptions\Request\ClientException;
 use Saloon\Exceptions\Request\Statuses\InternalServerErrorException;
 use Saloon\Http\Faking\MockResponse;
 use Tests\Feature\Http\Integrations\TargetApi\Concerns\TargetApiHelpers;
@@ -73,7 +74,7 @@ it('can correctly assign parameters', function () {
     expect($response->getRequest()->query()->get('fields[products]'))->toBe('id,sku');
 });
 
-it('can retry a request', function () {
+it('can retry request requests resulting in a server error', function () {
     [$mockClient, $connector] = $this->createTargetApiConnector([
         MockResponse::make(
             body: loadJsonMockFile(__DIR__.'/fixtures/ListProductsRequest_500.json'),
@@ -110,3 +111,9 @@ it('fails after 3 retries', function () {
 
     $mockClient->assertSentCount(3);
 })->throws(InternalServerErrorException::class);
+
+it('can not retry requests resulting in a client error', function () {
+    [, $connector] = $this->createTargetApiConnector([MockResponse::make(status: 400)]);
+
+    $connector->products()->listProducts();
+})->throws(ClientException::class);

@@ -115,11 +115,15 @@ class SourceApi extends Connector
 
     public function handleRetry(FatalRequestException|RequestException $exception, Request $request): bool
     {
-        $context =  [
+        $context = [
             'exceptionClass' => $exception::class,
         ];
 
         if ($exception instanceof RequestException) {
+            if ($exception->getResponse()->clientError()) {
+                return false;
+            }
+
             $response = $exception->getResponse();
 
             $context += [
