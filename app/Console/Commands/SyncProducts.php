@@ -9,6 +9,7 @@ use App\Http\Integrations\SourceApi\SourceApi;
 use App\Hydrators\SourceVariantsToInternalProductHydrator;
 use App\Pipes\ProductDataEnhancers\EnhanceProductMinMaxPrice;
 use App\Pipes\ProductDataEnhancers\EnhanceProductTags;
+use App\Pipes\ProductDataEnhancers\EnhanceProductType;
 use App\Pipes\ProductDataEnhancers\EnhanceVariantSku;
 use App\Pipes\ProductDataEnhancers\EnhanceVariantTitle;
 use App\Pipes\ProductDataEnhancers\RejectVariantsWithDuplicateSku;
@@ -81,6 +82,7 @@ class SyncProducts extends Command
                 EnhanceProductTags::class,
                 EnhanceProductMinMaxPrice::class,
                 EnhanceVariantTitle::class,
+                EnhanceProductType::class,
             ])
             ->thenReturn();
 
