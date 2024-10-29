@@ -56,6 +56,8 @@ class SyncProducts extends Command
         }
 
         // normalise data into a local product-variant DTO
+        $this->comment('Normalising data ...');
+
         $normalisedProducts = $variants
             ->groupBy('parentSku')
             ->map(
@@ -63,6 +65,7 @@ class SyncProducts extends Command
             );
 
         // validate data (?)
+        $this->comment('Enhancing data ...');
 
         // enhance data if necessary (?)
         // - determine tags for product and variants
@@ -79,8 +82,12 @@ class SyncProducts extends Command
         // - find all products that need to be deleted and remove those products from the list for further operations
         // - determine if a product needs to be created or updated
         // and commit operations to the target api
+        $this->comment('Committing operations ...');
+
         $commitProductOperations->handle(
             operations: $createProductOperations->handle($normalisedProducts),
         );
+
+        $this->info('Success!');
     }
 }
