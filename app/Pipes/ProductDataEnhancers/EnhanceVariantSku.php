@@ -41,6 +41,13 @@ class EnhanceVariantSku
                         'variantIndex' => $index,
                         'variantTitle' => $variant->title,
                     ]);
+                } else {
+                    Log::info(__CLASS__.': Created SKU for variant.', [
+                        'parentSku' => $product->sku,
+                        'variantIndex' => $index,
+                        'variantTitle' => $variant->title,
+                        'variantSku' => $variant->sku,
+                    ]);
                 }
             }
         }
