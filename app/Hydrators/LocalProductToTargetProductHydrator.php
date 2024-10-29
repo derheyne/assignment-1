@@ -31,7 +31,7 @@ class LocalProductToTargetProductHydrator
             taxable: $data->taxable ? '1' : '0',
             minPrice: (string) $data->minPrice,
             maxPrice: (string) $data->maxPrice,
-            tags: $data->tags,
+            tags: $data->tags ?: [],
             variants: $variants,
             createdAt: Optional::create(),
             updatedAt: Optional::create(),

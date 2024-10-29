@@ -25,9 +25,9 @@ class ProductObjectData extends Data
         public ?string $minPrice = null,
         public ?string $maxPrice = null,
         /** @var array<int, string> */
-        public array $tags = [],
+        public ?array $tags = [],
         /** @var Collection<int, VariantObjectData> */
-        public Collection $variants,
+        public ?Collection $variants,
         public Carbon|Optional $createdAt,
         public Carbon|Optional $updatedAt,
     ) {
