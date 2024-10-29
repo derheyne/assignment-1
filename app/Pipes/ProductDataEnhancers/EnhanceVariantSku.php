@@ -28,7 +28,7 @@ class EnhanceVariantSku
                 }
 
                 Log::info(__CLASS__.': Variant without SKU found. Attempting creation ...', [
-                    'parentSku' => $product->sku,
+                    'productSku' => $product->sku,
                     'variantIndex' => $index,
                     'variantTitle' => $variant->title,
                 ]);
@@ -36,14 +36,14 @@ class EnhanceVariantSku
                 $variant->sku = $this->buildSkuForVariant($variant, $product);
 
                 if (! $variant->sku) {
-                    Log::warning(__CLASS__.': Unable to create SKU for variant.', [
-                        'parentSku' => $product->sku,
+                    Log::warning(__CLASS__.': Unable to create SKU for variant', [
+                        'productSku' => $product->sku,
                         'variantIndex' => $index,
                         'variantTitle' => $variant->title,
                     ]);
                 } else {
-                    Log::info(__CLASS__.': Created SKU for variant.', [
-                        'parentSku' => $product->sku,
+                    Log::info(__CLASS__.': Created SKU for variant', [
+                        'productSku' => $product->sku,
                         'variantIndex' => $index,
                         'variantTitle' => $variant->title,
                         'variantSku' => $variant->sku,

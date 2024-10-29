@@ -26,7 +26,7 @@ class CommitProductOperations
         foreach ($operations as $operation) {
             Log::info(__CLASS__.': Committing CUD operation for product', [
                 'operationType' => $operation->operation->value,
-                'sku' => $operation->product->sku,
+                'productSku' => $operation->product->sku,
             ]);
             $handler = $this->getOperationHandler($operation->operation);
             $handler($operation);
@@ -51,7 +51,7 @@ class CommitProductOperations
             );
         } catch (Exception $exception) {
             Log::error(__CLASS__.': Unable to commit create operation for product', [
-                'sku' => $operation->product->sku,
+                'productSku' => $operation->product->sku,
                 'exception' => $exception,
             ]);
 
@@ -68,7 +68,7 @@ class CommitProductOperations
             );
         } catch (Exception $exception) {
             Log::error(__CLASS__.': Unable to commit update operation for product', [
-                'sku' => $operation->product->sku,
+                'productSki' => $operation->product->sku,
                 'exception' => $exception,
             ]);
 
@@ -82,7 +82,7 @@ class CommitProductOperations
             $this->targetApi->products()->deleteProduct(sku: $operation->product->sku);
         } catch (Exception $exception) {
             Log::error(__CLASS__.': Unable to commit delete operation for product', [
-                'sku' => $operation->product->sku,
+                'productSku' => $operation->product->sku,
                 'exception' => $exception,
             ]);
 

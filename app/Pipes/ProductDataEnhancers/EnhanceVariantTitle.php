@@ -33,11 +33,11 @@ class EnhanceVariantTitle
                 $variant->title = $this->buildTitleForVariant($variant, $product);
 
                 if (! $variant->title) {
-                    Log::warning(__CLASS__.': Unable to create title for variant.', [
+                    Log::warning(__CLASS__.': Unable to create title for variant', [
                         'variantSku' => $variant->sku,
                     ]);
                 } else {
-                    Log::info(__CLASS__.': Created title for variant.', [
+                    Log::info(__CLASS__.': Created title for variant', [
                         'variantSku' => $variant->sku,
                         'variantTitle' => $variant->title,
                     ]);

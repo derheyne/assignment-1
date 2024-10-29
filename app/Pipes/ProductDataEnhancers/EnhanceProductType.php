@@ -22,7 +22,7 @@ class EnhanceProductType
             }
 
             Log::info(__CLASS__.': Product without type found', [
-                'sku' => $product->sku,
+                'productSku' => $product->sku,
             ]);
 
             $product->type = self::DEFAULT_PRODUCT_TYPE;
