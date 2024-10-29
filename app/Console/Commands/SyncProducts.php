@@ -4,12 +4,12 @@ namespace App\Console\Commands;
 
 use App\Actions\CommitProductOperations;
 use App\Actions\CreateProductOperations;
+use App\Http\Integrations\SourceApi\Data\ProductFeed\ProductFeedResponseData;
 use App\Http\Integrations\SourceApi\SourceApi;
 use App\Hydrators\SourceVariantsToInternalProductHydrator;
 use App\Pipes\ProductDataEnhancers\EnhanceProductMinMaxPrice;
 use App\Pipes\ProductDataEnhancers\EnhanceProductTags;
 use App\Pipes\ProductDataEnhancers\EnhanceVariantSku;
-use App\Pipes\ProductDataEnhancers\RejectDraftVariants;
 use Illuminate\Console\Command;
 use Illuminate\Pipeline\Pipeline;
 use Illuminate\Support\Facades\Log;
@@ -31,11 +31,19 @@ class SyncProducts extends Command
     ): void {
         // fetch data from flat feed from the source api
         try {
-            $request = $sourceApi->getProductFeedPaginated();
-
+            // this is a workaround, because using the paginator appears to create duplicate variants.
+            $currentPage = 0;
             $variants = collect();
-            foreach ($request->items() as $variant) {
-                $variants->push($variant);
+            while (true) {
+                $response = $sourceApi->getProductFeed(++$currentPage);
+
+                /** @var ProductFeedResponseData $data */
+                $responseData = $response->dtoOrFail();
+                $variants = $variants->merge($responseData->data);
+
+                if ($responseData->lastPage === $currentPage) {
+                    break;
+                }
             }
         } catch (RequestException|FatalRequestException $exception) {
             Log::error(__CLASS__.': Could not fetch source list of variants', [
@@ -52,8 +60,7 @@ class SyncProducts extends Command
             ->groupBy('parentSku')
             ->map(
                 fn($product) => $sourceVariantsToLocalProductHydrator->hydrate($product),
-            )
-            ->collect();
+            );
 
         // validate data (?)
 
