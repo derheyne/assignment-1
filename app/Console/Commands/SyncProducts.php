@@ -10,6 +10,7 @@ use App\Hydrators\SourceVariantsToInternalProductHydrator;
 use App\Pipes\ProductDataEnhancers\EnhanceProductMinMaxPrice;
 use App\Pipes\ProductDataEnhancers\EnhanceProductTags;
 use App\Pipes\ProductDataEnhancers\EnhanceVariantSku;
+use App\Pipes\ProductDataEnhancers\RejectVariantsWithDuplicateSku;
 use Illuminate\Console\Command;
 use Illuminate\Pipeline\Pipeline;
 use Illuminate\Support\Facades\Log;
@@ -72,6 +73,7 @@ class SyncProducts extends Command
         // - set min and max price for a product
         $normalisedProducts = $pipeline->send($normalisedProducts)
             ->through([
+                RejectVariantsWithDuplicateSku::class,
                 EnhanceVariantSku::class,
                 EnhanceProductTags::class,
                 EnhanceProductMinMaxPrice::class,
