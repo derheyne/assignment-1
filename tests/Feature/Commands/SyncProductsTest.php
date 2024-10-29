@@ -58,8 +58,8 @@ it('can create, update, delete products on target based on data from source', fu
             && $request->resolveEndpoint() === '/products'
             && $request->body()->get('sku') === 'CREATE'
             && $request->body()->get('title') === 'Create product'
-            && $request->body()->get('minPrice') === '13.81'
-            && $request->body()->get('maxPrice') === '82.58'
+            && $request->body()->get('min_price') === '13.81'
+            && $request->body()->get('max_price') === '82.58'
             && $request->body()->get('tags') === [
                 'a',
                 'b',
@@ -83,8 +83,8 @@ it('can create, update, delete products on target based on data from source', fu
             && $request->resolveEndpoint() === '/products/UPDATE'
             && $request->body()->get('sku') === 'UPDATE'
             && $request->body()->get('title') === 'Update product'
-            && $request->body()->get('minPrice') === '11.42'
-            && $request->body()->get('maxPrice') === '95.79'
+            && $request->body()->get('min_price') === '11.42'
+            && $request->body()->get('max_price') === '95.79'
             && $request->body()->get('tags') === [
                 'a',
                 'b',
