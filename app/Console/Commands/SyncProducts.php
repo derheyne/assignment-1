@@ -11,6 +11,7 @@ use App\Pipes\ProductDataEnhancers\EnhanceProductMinMaxPrice;
 use App\Pipes\ProductDataEnhancers\EnhanceProductTags;
 use App\Pipes\ProductDataEnhancers\EnhanceVariantSku;
 use App\Pipes\ProductDataEnhancers\RejectVariantsWithDuplicateSku;
+use App\Pipes\ProductDataEnhancers\RejectVariantsWithoutPrice;
 use Illuminate\Console\Command;
 use Illuminate\Pipeline\Pipeline;
 use Illuminate\Support\Facades\Log;
@@ -74,6 +75,7 @@ class SyncProducts extends Command
         $normalisedProducts = $pipeline->send($normalisedProducts)
             ->through([
                 RejectVariantsWithDuplicateSku::class,
+                RejectVariantsWithoutPrice::class,
                 EnhanceVariantSku::class,
                 EnhanceProductTags::class,
                 EnhanceProductMinMaxPrice::class,
