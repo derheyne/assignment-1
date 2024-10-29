@@ -10,6 +10,7 @@ use App\Hydrators\SourceVariantsToInternalProductHydrator;
 use App\Pipes\ProductDataEnhancers\EnhanceProductMinMaxPrice;
 use App\Pipes\ProductDataEnhancers\EnhanceProductTags;
 use App\Pipes\ProductDataEnhancers\EnhanceVariantSku;
+use App\Pipes\ProductDataEnhancers\EnhanceVariantTitle;
 use App\Pipes\ProductDataEnhancers\RejectVariantsWithDuplicateSku;
 use App\Pipes\ProductDataEnhancers\RejectVariantsWithoutPrice;
 use Illuminate\Console\Command;
@@ -79,6 +80,7 @@ class SyncProducts extends Command
                 EnhanceVariantSku::class,
                 EnhanceProductTags::class,
                 EnhanceProductMinMaxPrice::class,
+                EnhanceVariantTitle::class,
             ])
             ->thenReturn();
 

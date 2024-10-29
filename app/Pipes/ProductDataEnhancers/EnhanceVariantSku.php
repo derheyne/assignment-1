@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Log;
 
 class EnhanceVariantSku
 {
-    protected const string ATTRIBUTE_SIZE_TYPE = 'size';
+    public const string ATTRIBUTE_SIZE_TYPE = 'size';
     protected const string VARIANT_SKU_SEPARATOR = '-';
 
     /** @param  Collection<InternalProductData>  $normalisedProducts */
